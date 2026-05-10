@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JHH Urology Analytics Hub</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- PapaParse for CSV reading -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-mesh"></div>
+    <div class="glass-container">
+        
+        <header>
+            <div class="logo-area">
+                <div class="pulse-ring"></div>
+                <h1>Johns Hopkins Urology</h1>
+            </div>
+            <h2>Predictive Operations Intelligence</h2>
+        </header>
+
+        <!-- KPI Ticker -->
+        <div class="kpi-row" id="kpi-container">
+            <div class="kpi-card glass-panel" style="animation-delay: 0.1s">
+                <h3>Total System Capacity</h3>
+                <h2 id="kpi-capacity">--</h2>
+                <div class="kpi-indicator green">Optimized</div>
+            </div>
+            <div class="kpi-card glass-panel" style="animation-delay: 0.2s">
+                <h3>Forecasted Output (6Mo)</h3>
+                <h2 id="kpi-revenue">--</h2>
+                <div class="kpi-indicator blue">Scaling</div>
+            </div>
+            <div class="kpi-card glass-panel alert-card" style="animation-delay: 0.3s">
+                <h3>System Flags</h3>
+                <h2 id="kpi-alerts">--</h2>
+                <div class="kpi-indicator red">Action Required</div>
+            </div>
+        </div>
+
+        <div class="main-dashboard">
+            <!-- Row 1 -->
+            <div class="glass-panel chart-container double-span">
+                <h3>ARIMAX 6-Month Revenue Forecast</h3>
+                <canvas id="forecastChart"></canvas>
+            </div>
+            <div class="glass-panel list-container">
+                <h3>Command Center Alerts</h3>
+                <ul id="alertsList" class="scrolling-list">
+                    <li><div class="loader"></div> Loading AI Diagnostics...</li>
+                </ul>
+            </div>
+
+            <!-- Row 2 -->
+            <div class="glass-panel chart-container double-span">
+                <h3>Physician Productivity Benchmark (RVUs)</h3>
+                <canvas id="productivityChart"></canvas>
+            </div>
+            <div class="glass-panel list-container">
+                <h3>What-If Scenario Outcomes</h3>
+                <div id="scenarioMatrix" class="matrix-grid">
+                    <div class="loader"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
