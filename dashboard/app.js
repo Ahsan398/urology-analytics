@@ -166,6 +166,7 @@ function loadAlertsFeed() {
                 <span class="alert-title">[${row.Alert_Type}] ${row.Entity}</span>
                 <span style="color:#eee; font-size:0.85rem">${row.Trigger}</span>
                 <span class="alert-impact">${row.Impact}</span>
+                <div class="ai-recommendation"><strong>🤖 AI Insight:</strong> ${row.Recommended_Action}</div>
             `;
             list.appendChild(li);
         });
