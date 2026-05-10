@@ -83,6 +83,7 @@ def main():
     print("    All Analytics, Forecasts, and Reports successfully regenerated.")
     print("    Master drop-zone (outputs/powerbi_ready) updated.")
     print("    Check outputs/memos/executive_memo.docx for the latest brief.")
+    print("    Local Web Dashboard available: run 'python dashboard/serve.py' and open http://localhost:8000")
     print("=" * 70 + "\n")
 
 if __name__ == "__main__":

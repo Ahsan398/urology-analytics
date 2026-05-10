@@ -19,30 +19,37 @@ Built exclusively with **100% Real Public Government Datasets** (CMS, MEPS, HCUP
 - **Module 4: National Benchmarking:** Generates an algorithmic scorecard indexing departmental metrics strictly against National Medians and the Top 10% elite urology practices in the US.
 
 ### 3. Predictive Operations Engine
-- **Module 5: Smart Alert Command Center:** A tailored rules-engine parsing pipeline outputs to immediately flag productivity drops (-15% below threshold) or capacity risks.
+- **Module 5: Smart Alert Command Center (AI-Powered):** A tailored rules-engine parsing pipeline outputs to immediately flag productivity drops (-15% below threshold) or capacity risks. Enhanced with **OpenAI (`gpt-3.5-turbo`)** to automatically generate actionable diagnostic hypotheses and root-cause solutions for every triggered alert.
 - **Module 6: ARIMA Time Series Forecasting:** Interpolates baseline CMS outputs dynamically via historical Urology-specific seasonality weights to train an ARIMAX statsmodel predicting 6-month forward revenue and output bounds (with 95% Confidence Intervals).
 - **Module 7: What-If Scenario Matrix:** Simulates system sensitivity to hiring variables, OR block augmentations, and reimbursement shifts.
 
 ### 4. Automated UI Integration
+- **Local Web Dashboard:** A customized local HTML/JS interface (`dashboard/index.html`) featuring animated data visualizations, live AI insight rendering, and responsive scenario matrices.
 - **Module 8: Auto-Generated Reporting:** Automatically compiles the operational diagnostics and predictive logic into a flawlessly formatted, print-ready `executive_memo.docx` designed for the Departmental Chair.
 - **Power BI Pipeline Integration:** Orchestrates and secures all raw data tables into an isolated `powerbi_ready` pipeline drop-zone for dynamic BI Dashboard connectivity.
 
 ## Technology Stack
 - **Data Backend:** `Python 3.10+`, `SQLite3`, `Pandas`, `NumPy`
-- **Predictive Analytics:** `statsmodels` (ARIMA API), `scikit-learn`
-- **Automation:** `python-docx`
-- **Visualization Hook:** Microsoft `Power BI`
+- **Predictive Analytics & AI:** `statsmodels` (ARIMA API), `scikit-learn`, `openai` (GPT-3.5)
+- **Automation:** `python-docx`, `python-dotenv`
+- **Visualization Hook:** Microsoft `Power BI`, Local HTML/JS Dashboard
 
 ## Quick Start (Pipeline Execution)
 
-To execute the entire 16-script pipeline sequentially (including fetching data, executing analysis, training forecasts, and auto-generating the Microsoft Word memo):
+To execute the entire 16-script pipeline sequentially (including fetching data, executing analysis, training forecasts, querying the AI, and auto-generating the Microsoft Word memo):
 
 1. **Install Requirements:**
 ```bash
 pip install -r requirements.txt
 ```
 
-2. **Launch Master Orchestrator:**
+2. **Configure API Keys:**
+Create a `.env` file in the root directory and add your OpenAI API key to enable intelligent diagnostics:
+```env
+OPENAI_API_KEY=your_key_here
+```
+
+3. **Launch Master Orchestrator:**
 ```bash
 python run_all.py
 ```
@@ -59,7 +66,9 @@ urology-analytics/
 │   ├── powerbi_ready/        <-- Unified BI tool drop-zone
 │   ├── memos/                <-- Auto-published Word documents
 │   └── logs/                 <-- Immutable audit records
-├── dashboard/                <-- Power BI setup documentation
+├── dashboard/                <-- Local HTML/JS Web Dashboard & UI
+├── .env                      <-- Local environment variables (API keys)
+├── generate_documentation.py <-- Script to auto-generate project overview
 ├── run_all.py                <-- Master orchestrator script
 └── requirements.txt          <-- Python dependencies
 ```
