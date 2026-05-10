@@ -1,0 +1,2762 @@
+Rndrng_NPI,Rndrng_Prvdr_First_Name,Rndrng_Prvdr_Last_Org_Name,Rndrng_Prvdr_Crdntls,Rndrng_Prvdr_City,Rndrng_Prvdr_State_Abrvtn,Rndrng_Prvdr_Zip5
+1003000597,Dae,Kim,"M.D., PH.D",Tulsa,OK,74104
+1003002072,Alexander,Gotesman,M.D.,Hamilton,NJ,08690
+1003013392,Erik,Ratchford,D.O.,Grand Rapids,MI,49503
+1003014267,Reza,Mehrazin,MD,New York,NY,10029
+1003025875,Patrick,Davol,M.D.,Medford,OR,97504
+1003029372,Youssef,Tanagho,"MD, MPH",Panorama City,CA,91402
+1003029836,Thomas,Mueller,MD,Linwood,NJ,08221
+1003041765,Kathleen,Sterling,MD,Bethesda,MD,20817
+1003051780,Wenwu,Jin,"M.D., PH.D.",San Francisco,CA,94108
+1003058546,Samuel,Kieley,M.D.,Woodbury,MN,55125
+1003066580,Hristos,Kaimakliotis,MD,Indianapolis,IN,46202
+1003073883,Brian,Hu,MD,Loma Linda,CA,92354
+1003078932,Kevan,Sternberg,M.D.,Worcester,MA,01605
+1003084203,Joseph,Alukal,M.D.,New York,NY,10016
+1003085226,Saleem,Zafar,M.D.,Toledo,OH,43617
+1003086588,Maggie,Vuturo,MD,Meridian,ID,83642
+1003090382,John,Tillett,M.D.,Denver,CO,80210
+1003094889,Gregory,Lamberton,M.D.,Puyallup,WA,98372
+1003108549,Shaoqing,Zhou,MD,Annapolis,MD,21401
+1003115684,Alberto,Duboy,M.D.,Tampa,FL,33612
+1003127002,Jorge,Ramirez,M.D.,Laredo,TX,78041
+1003129651,Jason,Bridges,,Baton Rouge,LA,70808
+1003132549,Vikas,Desai,MD,Algonquin,IL,60102
+1003134701,Lamont,Barlow,,New York,NY,10010
+1003136565,Albert,Petrossian,M.D.,Long Beach,CA,90815
+1003136839,Eric,Chapman,D.O.,Brainerd,MN,56401
+1003137936,Janine,Oliver,M.D.,Aurora,CO,80045
+1003158106,Christine,Cumarasamy,MD,Hartford,CT,06106
+1003161472,Navneet,Mander,M.D.,Grand Rapids,MI,49546
+1003179128,Tammy,Ho,M.D.,Irvine,CA,92618
+1003179730,Kalen,Rimar,M.D.,Jackson,MI,49201
+1003182270,Caroline,Elmer-Lyon,MD,Edgewood,KY,41017
+1003197088,James,Stocks,M.D.,Cypress,TX,77433
+1003203738,Anup,Shah,MD,Glendale,CA,91206
+1003208026,Philip,Wong,MD,Toledo,OH,43606
+1003221458,Vincent,Rodriguez Bury,M.D.,Carolina,PR,00985
+1003227802,Xiaosong,Meng,"M.D., PH.D.",Dallas,TX,75235
+1003229055,Nathan,Jung,M.D.,Madison,WI,53716
+1003236738,Daniel,Shapiro,MD,Madison,WI,53792
+1003250689,Robert,Williams,MD,Rome,GA,30165
+1003251778,Carrie,Stewart,M.D.,New Orleans,LA,70112
+1003263328,Steven,Lomax,MD,Tyler,TX,75701
+1003290867,Daniel,Frendl,"MD, PHD",Scottsdale,AZ,85259
+1003293887,Gina,Tundo,M.D.,Cheektowaga,NY,14225
+1003295320,Trey,Durdin,M.D.,Abilene,TX,79601
+1003295353,Meagan,Dunne,M.D.,Baltimore,MD,21201
+1003296567,Nathan,Peffer,M.D.,Doylestown,PA,18901
+1003298019,Saum,Ghodoussipour,M.D.,Los Angeles,CA,90033
+1003304916,Amanda,Myers,MD,Houston,TX,77030
+1003342866,Mark,Ehlers,,Milwaukee,WI,53215
+1003347105,Charles,Jones,MD,Saint Louis,MO,63110
+1003347618,Joshua,Gottlieb,D.O.,Simi Valley,CA,93065
+1003349440,Ruchika,Talwar,,Nashville,TN,37232
+1003393216,Lior,Taich,M.D.,Salinas,CA,93901
+1003475914,Jason,Akerman,MD,Manchester,NH,03104
+1003800806,Victor,Nitti,M.D.,Los Angeles,CA,90095
+1003805789,John,Pickard,MD,Flower Mound,TX,75028
+1003809310,Mark,Rosenblum,MD,Bethesda,MD,20817
+1003809385,Richard,Santarosa,MD,Stamford,CT,06902
+1003813940,John,Taylor,"MD, MS",Kansas City,KS,66160
+1003815259,Stanley,Hall,MD,Mt Pleasant,SC,29464
+1003816166,F.,Nicholson,M.D.,Monroe,GA,30655
+1003816901,Joseph,Womack,MD,Texarkana,TX,75503
+1003818493,Fawad,Zafar,M.D.,West Des Moines,IA,50265
+1003820150,Michael,Cupp,M.D.,Columbia,MO,65201
+1003820523,David,Harris,MD,Kilmarnock,VA,22482
+1003828179,Edwin,Smith,M.D.,Atlanta,GA,30342
+1003829201,Robert,Badalament,MD,Orlando,FL,32803
+1003832221,Carl,Klutke,MD,Asheville,NC,28801
+1003842865,Thomas,Martin,M.D.,New Haven,CT,06511
+1003844044,Larry,Rabon,M.D.,Florence,SC,29501
+1003845504,Harold,Tsai,M.D.,Naples,FL,34110
+1003846817,Donald,Andersen,M.D.,West Chester,PA,19380
+1003847310,Mark,Makhuli,MD,Charlotte,NC,28204
+1003848078,Matthew,Cohen,MD,Chelmsford,MA,01824
+1003848540,Victor,Abraham,MD,Wilmington,NC,28401
+1003851833,Daniel,Ricchiuti,M.D.,Youngstown,OH,44510
+1003852302,Robert,Taylor,M.D.,Baton Rouge,LA,70810
+1003859075,Marklyn,Jones,MD,Highlands Ranch,CO,80129
+1003866641,John,Battin,M.D.,Morgantown,WV,26505
+1003867482,Michael,Guralnick,MD,Milwaukee,WI,53226
+1003873050,Richard,Mcwhorter,MD,Fayetteville,AR,72703
+1003873183,Boris,Klopukh,MD,Aventura,FL,33180
+1003873720,Ithaar,Derweesh,MD,San Diego,CA,92103
+1003878489,David,Scott,"M.D., P.H.D.",College Station,TX,77845
+1003879172,Anthony,Golio,M.D.,Natrona Heights,PA,15065
+1003879453,Lawrence,Hakim,M.D.,Weston,FL,33331
+1003879768,Joseph,Harryhill,MD,Philadelphia,PA,19104
+1003880626,Bennett,Scaglia,M.D.,Daytona Beach,FL,32114
+1003881749,John,Brizzolara,M.D.,Little Rock,AR,72205
+1003884578,Chad,Wotkowicz,M.D.,Brunswick,ME,04011
+1003887019,Kenneth,Woo,M.D.,Forest Hill,MD,21050
+1003893413,Carin,Hopps,M.D.,Toledo,OH,43606
+1003894197,Joph,Steckel,MD,Manhasset,NY,11030
+1003896903,Thomas,Burns,M.D.,Joliet,IL,60431
+1003903550,Jennifer,Malossi,M.D.,Springfield,MO,65807
+1003903568,James,Steinmetz,M.D.,Binghamton,NY,13905
+1003907312,Cheryl,Lee,MD,Columbus,OH,43210
+1003911132,Farshad,Shafizadeh,M.D.,New York,NY,10016
+1003912726,Dean,Lenz,M.D.,Bloomington,IN,47403
+1003913815,Troy,Sukkarieh,MD,Freehold,NJ,07728
+1003915968,Jay,Miller,MD,Bloomington,IL,61701
+1003935479,William,Badger,M.D.,Flagstaff,AZ,86001
+1003937947,Sandra,Hadjinian,MD,Seattle,WA,98195
+1003943879,Mirza,Baig,M.D.,Toledo,OH,43617
+1003957952,Robert,Bass,M.D.,Murfreesboro,TN,37129
+1003981168,Ananth,Annamraju,M.D.,Springfield,OH,45503
+1003990953,Michael,Karasis,M.D.,Woodstock,IL,60098
+1003995648,Qingwei,Yan,M.D.,Oakland,CA,94609
+1013008135,Angelo,Kanellos,M.D.,Reno,NV,89521
+1013019439,Alexander,Berry,M.D.,Springfield,MA,01107
+1013020189,William,Terens,MD,Cranford,NJ,07016
+1013020486,David,Pinkstaff,MD,Waco,TX,76710
+1013031384,Emil,Grieco,MD,Naples,FL,34102
+1013031996,Roc,Mccarthy,DO,Whiteville,NC,28472
+1013033190,Steven,Han,MD,Seattle,WA,98104
+1013038371,Jeremy,Davis,M.D.,Oklahoma City,OK,73120
+1013043488,Brian,Eisner,MD,Boston,MA,02114
+1013069186,David,Buethe,M.D.,Hudson,FL,34607
+1013076546,Stephen,Gallo,M.D.,Springfield,MA,01107
+1013077510,John,Mhoon,M.D.,Salem,OR,97302
+1013081678,John,Adams,MD,Charleston,SC,29425
+1013087451,Benjamin,Lee,MD,Tucson,AZ,85724
+1013087535,Kevin,Banks,M.D.,Columbus,OH,43214
+1013097534,Mark,Sender,"M.D., IN",Santa Clarita,CA,91355
+1013098995,Avinash,Gulanikar,"M.D,",Flowood,MS,39232
+1013111491,Yekutiel,Sandman,MD,Miami,FL,33173
+1013113802,Norman,De La Rosa,M.D.,Guaynabo,PR,00966
+1013117092,Eric,Richter,MD,Pueblo,CO,81001
+1013117803,Jesse,Mierzwiak,MD,Tacoma,WA,98405
+1013120633,Toby,Lees,M.D.,Holland,MI,49423
+1013122977,Brian,Sperling,D.O.,Shelton,CT,06484
+1013125871,Charles,Powell,M.D.,Indianapolis,IN,46202
+1013130186,Joseph,Phillips,M.D.,Dothan,AL,36301
+1013139641,Heather,Stefaniak,MD,Green Bay,WI,54311
+1013140334,Norman,Colon-Casasnovas,M.D.,Dorado,PR,00646
+1013154384,John,Boon,M.D.,Sugar Land,TX,77479
+1013159433,Matthew,Maurice,M.D.,Canton,OH,44708
+1013166990,Jeffrey,Larson,MD,Anderson,SC,29621
+1013177518,Boris,Gershman,M.D.,Providence,RI,02904
+1013178227,Ashley,King,MD,Pensacola,FL,32503
+1013179001,Justin,Johnson,M.D.,Lexington,KY,40504
+1013179977,Aaron,New,MD,Victoria,TX,77901
+1013182443,Justin,Dixon,M.D.,Ashland,KY,41101
+1013203165,Robert,Lurvey,MD,Antioch,CA,94531
+1013203645,Jordan,Grant,M.D.,Paris,TX,75460
+1013203959,Lauren,Rittenberg,D.O.,Tucson,AZ,85714
+1013208057,Mohit,Sirohi,MD,Tampa,FL,33606
+1013219328,Guilherme,Godoy,MD,Houston,TX,77030
+1013222959,Juan,Guzman-Negron,M.D.,Bayamon,PR,00961
+1013232693,Ryan,Cleary,M.D.,Baltimore,MD,21237
+1013273036,Michael,Avallone,M.D.,Aurora,CO,80045
+1013294941,Matt,Ashley,M.D.,Bend,OR,97701
+1013295419,Joel,Leon Becerril,MD,Rolla,MO,65401
+1013309947,David,Horovitz,MD,Bakersfield,CA,93301
+1013331172,Paul,Jones,,Caldwell,ID,83605
+1013334390,Brittani,Barrett-Harlow,M.D.,Fayetteville,GA,30214
+1013335512,Tony,Chen,M.D.,Stanford,CA,94305
+1013366491,Samantha,Kraemer,M.D.,Royal Oak,MI,48073
+1013371442,Joseph,Zanghi,D.O.,Olympia Fields,IL,60461
+1013379643,Andrew,Wood,MD,Brighton,MI,48116
+1013395730,Matthew,Katz,M.D.,New York,NY,10017
+1013398650,Katie,Flower,M.D.,Charleston,SC,29425
+1013405919,Michael,Helbig,MD,Washington,DC,20037
+1013440312,Brian,Friel,MD,Philadelphia,PA,19104
+1013448612,Jonathan,Davila,M.D.,Bronx,NY,10461
+1013490309,Seetharam,Bhat Kulthe Ramesh,MD,Syracuse,NY,13202
+1013496843,Alice,Yu,,Tampa,FL,33612
+1013900190,Glenn,Kershen,MD,Saginaw,MI,48601
+1013900414,Jonathan,Masel,MD,Hollywood,FL,33021
+1013901693,Christopher,Lee,M.D.,Vineland,NJ,08360
+1013903624,Robert,Naismith,MD,Corpus Christi,TX,78411
+1013909019,Ronald,Rabin,MD,Metairie,LA,70006
+1013909266,Richard,Airhart,M.D.,Metairie,LA,70006
+1013910280,Patrick,Leu,MD,Omaha,NE,68114
+1013912096,Eric,Pizza,MD,Toledo,OH,43606
+1013913938,Anthony,Caruso,MD,Federal Way,WA,98003
+1013914159,Sean,Manion,MD,Brighton,CO,80601
+1013917103,Jon,Posey,MD,Tupelo,MS,38801
+1013919760,Rupa,Kitchens,MD,Homewood,AL,35209
+1013921709,Peter,Knapp,M.D.,Carmel,IN,46032
+1013931930,Saad,Juma,MD,Encinitas,CA,92024
+1013932045,Bradley,Frasier,MD,Oceanside,CA,92056
+1013936749,Eric,Guilliams,M.D.,Springfield,MO,65804
+1013941483,Stuart,Holden,,Los Angeles,CA,90095
+1013941673,David,Weiner,MD,New York,NY,10032
+1013948959,Evan,Rosen,M.D.,Monterey,CA,93940
+1013950740,Rajendra,Motwani,DO,Oklahoma City,OK,73139
+1013954809,Joseph,Decarlo,M.D.,Tyler,TX,75701
+1013959741,Bruce,Wiita,M.D.,Jupiter,FL,33458
+1013961879,Brian,Wade,M.D.,Homewood,AL,35209
+1013963164,Fadi,Habib,MD,Chicago,IL,60634
+1013966514,Scott,Rosen,MD,Easton,PA,18042
+1013969039,Victor,Jiminez,M.D.,Huntsville,AL,35802
+1013970920,Douglas,Ludeman,M.D.,Richmond,VA,23235
+1013980697,Kent,Kirby,M.D.,The Villages,FL,32163
+1013981968,Edward,Killorin,MD,Columbus,GA,31901
+1013982636,John,Mullen,MD,Seattle,WA,98104
+1013983741,Kevin,Gancarczyk,M.D.,Tulsa,OK,74146
+1013983915,Todd,Breaux,M.D.,Akron,OH,44304
+1013985316,Michael,Berte,MD,Cleveland,OH,44130
+1013985522,Daniel,Cahoon,MD,American Fork,UT,84003
+1013993179,Charles,Zaleski,MD,Lewistown,PA,17044
+1013994599,Dianne,Sacco,MD,Boston,MA,02114
+1013994748,John,Homa,D.O.,Hyannis,MA,02601
+1013995034,Gary,Goldberg,MD,Mankato,MN,56001
+1013996859,Matthew,Perry,M.D.,Sarasota,FL,34237
+1013997469,Lawrence,Mcguire,MD,Brooklyn,NY,11219
+1023000684,Mark,Schmidt,M.D.,Roanoke,VA,24018
+1023004413,Justin,Lee,MD,Arlington,TX,76017
+1023009347,David,Kearney,MD,Troy,MI,48098
+1023010808,Giridhar,Talluri,MD,Aventura,FL,33180
+1023013505,William,Bloch,M.D.,Worthington,OH,43085
+1023018074,Kannan,Manickam,MD,Baltimore,MD,21237
+1023018744,Nathalie,Barnes,MD,Delray Beach,FL,33484
+1023019734,Laurence,O'connor,M.D.,Mankato,MN,56001
+1023032497,Hal,Liddell,M.D.,Hattiesburg,MS,39402
+1023033149,Sagar,Phatak,M. D.,Middlebury,CT,06762
+1023035565,Ronald,Neal,MD,Chicago,IL,60619
+1023037058,Elliot,Shulman,MD,Jersey City,NJ,07304
+1023041464,Parminder,Sethi,M.D.,Walnut Creek,CA,94598
+1023042389,Douglas,Green,M.D.,Fairlawn,OH,44333
+1023042496,Dudley,Danoff,MD,Los Angeles,CA,90048
+1023045713,Carlton,Valvo,M. D.,Glendale,CA,91208
+1023056165,Michael,Walter,M.D.,Fort Worth,TX,76109
+1023057049,Edward,Gerrard,MD,Hickory,NC,28601
+1023059680,Adam,Weiser,M.D.,Columbus,OH,43230
+1023060068,Barry,Lee,M.D.,Gastonia,NC,28054
+1023060894,Lawrence,Hill,M.D.,Greenville,SC,29605
+1023064235,James,Frogge,M.D.,Pittsburg,KS,66762
+1023065471,Mark,Alagna,MD,Hudson,FL,34667
+1023067329,Frank,Lai,M.D.,Mountain View,CA,94040
+1023068582,David,Hall,M.D.,Morgantown,WV,26505
+1023068640,G Michael,Ortiz,M.D.,Saratoga Springs,NY,12866
+1023070356,Richard,Herlihy,MD,Oklahoma City,OK,73120
+1023070539,Michael,Solomon,M.D.,Port St Lucie,FL,34986
+1023072477,Robert,Hong,M.D.,Lancaster,PA,17601
+1023074184,Micheal,Darson,MD,Scottsdale,AZ,85255
+1023081627,James,Turecki,M.D.,Williamsville,NY,14221
+1023081817,Edmund,Ko,M.D.,Loma Linda,CA,92354
+1023083078,John,Provet,MD,New York,NY,10016
+1023090230,Jason,Wynberg,M.D.,Teaneck,NJ,07666
+1023091188,Leonel,Guerrero Rodriguez,M.D.,Fajardo,PR,00738
+1023091386,Christopher,Tuveson,MD,Fond Du Lac,WI,54935
+1023091667,Ronald,Lee,M.D.,Mount Prospect,IL,60056
+1023092640,Scott,Swanson,M.D.,Phoenix,AZ,85054
+1023095122,Ayal,Kaynan,M.D.,Morristown,NJ,07960
+1023098043,Christopher,Marsh,M.D.,La Jolla,CA,92037
+1023098910,Gregory,Lewis,M.D.,Joliet,IL,60431
+1023100492,J,Wolf,MD,Austin,TX,78712
+1023107794,Virinder,Bhardwaj,MD,Porterville,CA,93257
+1023119013,Kirsten,Greene,M.D.,Charlottesville,VA,22903
+1023137940,Caleb,Stepan,M.D.,Grand Junction,CO,81505
+1023167798,Brian,Link,M.D.,Oklahoma City,OK,73120
+1023178993,Ray,Littleton,M.D.,Detroit,MI,48202
+1023182011,Alejandro,Rodriguez,M.D.,Columbia,MD,21044
+1023183746,Mohammad,Ghazi-Moghadam,M.D.,Amsterdam,NY,12010
+1023192960,Robin,Zagone,M.D.,Crescent City,CA,95531
+1023194180,Kapil,Pareek,MD,Braselton,GA,30517
+1023205572,Tatum,Tarin,,Pittsburgh,PA,15219
+1023205739,Kinloch,Nelson,M.D.,Richmond,VA,23235
+1023211547,Daniel,Willis,M.D.,Bend,OR,97701
+1023215936,Irina,Jaeger,M.D.,Cleveland,OH,44106
+1023223484,Kathleen,Hwang,M.D.,Philadelphia,PA,19104
+1023228483,Christopher,Stands,MD,Lynchburg,VA,24501
+1023245123,Andrew,Smock,MD,Zanesville,OH,43701
+1023247921,Michael,Hanzly,DO,Orchard Park,NY,14127
+1023248911,Ayman,Mahdy,,Winter Park,FL,32792
+1023260205,Michael,Fountain,D.O.,Tavares,FL,32778
+1023269073,Jason,Bonslaver,MD,York,PA,17402
+1023271301,Parviz,Kavoussi,MD,Austin,TX,78745
+1023276730,Felix,Davelman,M.D.,Middletown,NY,10941
+1023283017,Jodi,Antonelli,M.D.,Dallas,TX,75390
+1023290533,Dhiren,Dave,M.D.,Somerville,NJ,08876
+1023305539,Miriam,Hadj-Moussa,M.D.,Ann Arbor,MI,48109
+1023305638,Salman,Chohan,D.O.,Washington,DC,20032
+1023307386,Patricia,Zahner,MD,Moorestown,NJ,08057
+1023308483,Jubilee,Phan,M.D.,Peoria,IL,61606
+1023332228,Stephen,Summers,M.D.,Salt Lake City,UT,84132
+1023350253,John,Delancey,M.D.,Columbus,OH,43212
+1023351905,Kahlil,Saad,M.D.,Wichita,KS,67226
+1023363009,Joshua,Jones,M.D.,Litchfield Park,AZ,85340
+1023364643,Semyon,Gurgov,M.D.,Greenlawn,NY,11740
+1023373230,David,Peters,D.O.,East Setauket,NY,11733
+1023375011,Benjamin,Nelson,M.D.,Newark,NY,14513
+1023376969,Johnson,Tsui,M.D.,Flushing,NY,11354
+1023377736,Paul,Kogan,M.D.,Shiloh,IL,62269
+1023422888,Arman,Cicic,D.O.,Milwaukee,WI,53226
+1023428109,Matthew,Macey,M.D.,Richmond,VA,23235
+1023428802,Kelly,Bree,M.D.,Houston,TX,77030
+1023463395,Christopher,Keith,M.D.,Austell,GA,30106
+1023466182,Audry,Kang,M.D.,Gresham,OR,97030
+1023470796,Susan,Talamini,MD,San Antonio,TX,78229
+1023472149,Poone,Shoureshi,M.D.,Laguna Hills,CA,92653
+1023472834,Fahad,Chaus,"M.D., M.B.A",Elgin,IL,60123
+1023488806,Hung,Nguyen,M.D.,La Jolla,CA,92037
+1023495777,Joseph,Crivelli,,Birmingham,AL,35249
+1023499415,Michael,Farrell,M.D.,Columbus,OH,43215
+1023508231,Aleksandar,Blubaum,MD,Fayetteville,AR,72703
+1023533064,Fernando,Caumont,MD,Rochester,NY,14609
+1023542610,Troy,Larson,M.D.,Columbia,TN,38401
+1023544046,Solomon,Hayon,MD,Chicago,IL,60611
+1023597143,Rajiva,Singh,MD,Kettering,OH,45429
+1033100086,Dana,Rademacher,MD,Onalaska,WI,54650
+1033100920,Mohammad,Soliman,MD,Yuma,AZ,85364
+1033101704,Michael,Szostak,MD,Safety Harbor,FL,34695
+1033104344,Edward,Whitesides,M.D.,Wilmington,NC,28403
+1033106422,Randolph,Hunter,MD,Tavares,FL,32778
+1033106877,Pedro,Banda,MD,Milwaukee,WI,53211
+1033108220,Meyer,Gershbaum,MD,Flushing,NY,11355
+1033110747,Carl,Mills,M.D.,East Patchogue,NY,11772
+1033112107,Hunter,Mckay,M.D.,Seattle,WA,98122
+1033114269,Alexandru,Benet,M.D.,Andalusia,AL,36420
+1033117155,James,Kirk,M.D.,Lubbock,TX,79410
+1033119516,Nathaniel,Barnes,M.D.,Webster,TX,77598
+1033120100,Thomas,Nelius,M.D.,Lubbock,TX,79415
+1033121322,Timothy,Taylor,MD,Idaho Falls,ID,83404
+1033126933,Ian,Thompson,MD,San Antonio,TX,78229
+1033129473,Victor,Rivera,M.D.,Caguas,PR,00725
+1033138102,Eric,Smith,M.D.,Dallas,TX,75246
+1033140637,Robert,Fontane,M.D.,Alexandria,LA,71301
+1033140850,Howard,Woo,MD,Houma,LA,70363
+1033141361,Todd,Sadowski,MD,Hillsboro,OR,97123
+1033158209,Alex,Horchak,M.D.,Dubuque,IA,52001
+1033165360,Mehrdad,Soroush,M.D.,Bryn Mawr,PA,19010
+1033167465,Merle,Wade,MD,Gadsden,AL,35903
+1033168802,Michael,Gong,"MD, PHD",Columbus,OH,43210
+1033169859,Dinesh,Rao,MD,Ocala,FL,34471
+1033169883,Jon,Reckler,MD,New York,NY,10065
+1033172648,Edward,Hayes,MD,Dublin,GA,31021
+1033179486,Gary,Lemack,MD,Dallas,TX,75390
+1033180062,Hernan,Altamar,M.D.,Bethesda,MD,20889
+1033182241,Nicolisa,Massie,M.D.,Homewood,AL,35209
+1033184700,Matthew,Gretzer,MD,Tucson,AZ,85724
+1033185301,Anoop,Sharma,MD,Gilbert,AZ,85295
+1033186606,Craig,Spencer,MD,Meridian,ID,83642
+1033189196,Manuel,Padron,MD,Coral Gables,FL,33145
+1033192901,Moses,Wilcox,MD,Nederland,TX,77627
+1033195391,Russell,Freid,MD,Lawrenceville,NJ,08648
+1033196423,Alice,Tsao,M.D.,Fresno,CA,93720
+1033198072,Nathan,Goldin,M.D.,Suffolk,VA,23435
+1033198320,Robert,Shapiro,MD,Oceanside,CA,92056
+1033214259,Wilder,Little,MD,Rome,GA,30165
+1033217252,James,Eaton,MD,Stockbridge,GA,30281
+1033220611,Phillip,Ross,MD,Oakland,CA,94609
+1033222906,Jeffrey,Spier,M.D.,El Paso,TX,79912
+1033223276,Jonah,Marshall,M.D.,Albany,NY,12208
+1033223318,Craig,Nicholson,MD,Lima,OH,45805
+1033227426,Peter,Steinberg,MD,Boston,MA,02215
+1033230560,Stephanie,Courson Pothoven,DO,Clive,IA,50325
+1033230933,Eugene,Lee,M.D.,Kansas City,KS,66160
+1033258074,Matthew,Katz,MD,Albuquerque,NM,87106
+1033265723,Steven,Kester,MD,Pompano Beach,FL,33060
+1033275433,Alexander,Kutikov,MD,Philadelphia,PA,19111
+1033279906,David,Burks,M.D.,Jackson,MI,49201
+1033284286,Gregory,Knudson,M.D.,Delaware,OH,43015
+1033289673,Peter,O'kelly,MD,Florence,SC,29505
+1033296520,Eric,Lawatsch,M.D.,Neenah,WI,54956
+1033298724,Paul,Lee,MD,Stockton,CA,95204
+1033310537,Anthony,Woodruff,M.D.,Mesa,AZ,85206
+1033345160,Mukul,Patil,MD,Uniontown,PA,15401
+1033351887,Kiranpreet,Khurana,M.D.,Allentown,PA,18103
+1033352794,Kevin,Ostrowski,M.D.,Kirkland,WA,98034
+1033358510,Joel,Bigley,,Pittsburgh,PA,15232
+1033364351,Raymond,Sultan,M.D.,Manhasset,NY,11030
+1033374525,Millie,Erickson,M.D.,North Platte,NE,69101
+1033377403,Michael,Abern,M.D.,Chicago,IL,60612
+1033378344,Akinwunmi,Ojo-Carons,M.D.,Suffolk,VA,23435
+1033379607,Dock,Winston,"M.D., M.P.H.",Washington,DC,20002
+1033381108,John,Riordan,M.D.,Martinsburg,WV,25401
+1033387345,Monish,Aron,MD,Los Angeles,CA,90033
+1033401625,Nahomy,Calixte,MD,Clermont,FL,34714
+1033401997,Rishi,Modh,M.D.,St Petersburg,FL,33710
+1033404629,Peter,Hinh,MD,Houston,TX,77004
+1033414834,Hak,Lee,MD,Calhoun,GA,30701
+1033474838,Claudio,Romero,M.D.,Winter Haven,FL,33880
+1033476551,Ted,Ritchie,M.D.,Frisco,TX,75035
+1033485347,Chad,Morley,MD,Morgantown,WV,26506
+1033499116,Riccardo,Autorino,MD,Chicago,IL,60612
+1033505896,Nabeel,Shakir,MD,Detroit,MI,48202
+1033505995,Kara,Choate,M.D.,Irving,TX,75061
+1033506720,Benjamin,Mccormick,,Salt Lake City,UT,84132
+1033522842,Michael,Glamore,M.D.,Saint Louis,MO,63110
+1033523808,Claire,Aubrey,D.O,Fort Wayne,IN,46825
+1033524582,Logan,Mcguffey,MD,Lincoln,NE,68516
+1033524640,Jennifer,Dwyer,M.D.,Omaha,NE,68198
+1033546122,David,Kraklau,M.D.,Saint Joseph,MI,49085
+1033552799,Andrew,Pridjian,MD,Atlanta,GA,30342
+1033553409,Andrew,Sun,M.D.,Arlington,TX,76017
+1033573274,Jesus,Herrera-Murillo,MD,El Paso,TX,79912
+1033596622,Michael,Biles,M.D.,Annapolis,MD,21401
+1033614110,Matthew,Newsome,MD,Rock Hill,SC,29732
+1033615695,Pedro,Espino-Grosso,MD,Coral Springs,FL,33076
+1033616909,Kyle,Waisanen,MD,Fort Myers,FL,33905
+1033630173,Luke,Wang,MD,San Diego,CA,92103
+1043203771,Daniel,Brown,M.D.,Olympia,WA,98502
+1043205164,Mark,Byard,MD,Dothan,AL,36305
+1043205867,Frederic,Levine,M.D.,Willoughby,OH,44094
+1043206436,Scott,Thurman,MD,Fort Worth,TX,76132
+1043207871,Jin-Hee,Kim,MD,Portland,OR,97216
+1043213929,Ali,Sarram,MD,Parker,CO,80134
+1043215320,Alexander,Marinbakh,M.D.,Brooklyn,NY,11235
+1043218357,Bryan,Hoff,MD,Bloomington,IN,47403
+1043219546,Larry,Siref,M.D.,Omaha,NE,68124
+1043235138,John,Valvo,MD,Rochester,NY,14609
+1043248206,Robert,Thompson,MD,Baltimore,MD,21202
+1043248867,Benjamin,Leak,M.D.,Bloomington,IL,61701
+1043254469,Eric,Mitchnick,MD,Port Jefferson Station,NY,11776
+1043260219,Noel,Armenakas,MD,New York,NY,10022
+1043260698,Matthew,Christian,M.D.,Chillicothe,OH,45601
+1043261548,Emanuel,Gottenger,M.D.,Delray Beach,FL,33484
+1043264484,Alden,Reine,MD,Lincolnton,NC,28092
+1043265747,Po,Lam,MD,Syracuse,NY,13210
+1043268329,Robert,Seo,MD,Naperville,IL,60540
+1043269368,Christopher,Woodard,M.D.,Lancaster,PA,17601
+1043271497,James,Morris,M.D.,Baton Rouge,LA,70808
+1043274152,Ketan,Kapadia,M.D.,St Petersburg,FL,33710
+1043274699,Sean,Hedican,MD,Fond Du Lac,WI,54935
+1043275019,John,Harding,MD,Utica,MI,48317
+1043287980,Michael,Ellen,M.D.,Mount Pleasant,WI,53406
+1043296841,David,Patterson,M.D.,Rochester,MN,55905
+1043299985,Paulos,Yohannes,MD,Naples,FL,34109
+1043302383,Barry,Blitz,MD,Fort Myers,FL,33908
+1043302748,John,Kabalin,M.D.,Scottsbluff,NE,69361
+1043305972,Vijay,Goli,M.D.,Las Vegas,NV,89113
+1043320005,James,Brooks,MD,Stanford,CA,94305
+1043344005,Richard,Windsor,MD,Green Bay,WI,54311
+1043387913,Reynaldo,Hernandez,MD,Baldwin Park,CA,91706
+1043388481,Natakom,Chulamorkodt,MD,Yuma,AZ,85364
+1043399322,Herbert,Watkins,MD,Houston,TX,77015
+1043416506,Shawn,Thomas,D.O.,Daytona Beach,FL,32114
+1043419872,Nathaniel,Ballek,M.D.,Overland Park,KS,66215
+1043427438,Samuel,Snipes,"M.D,",Manchester,NH,03103
+1043439920,Bryan,Bruner,MD,Grapevine,TX,76051
+1043451073,Ryan,Hsi,M.D.,Nashville,TN,37232
+1043452287,Samuel,Ohlander,M.D.,Chicago,IL,60612
+1043461064,Brian,Stisser,MD,Fishersville,VA,22939
+1043463029,William,Rogers,M.D.,Johnson City,TN,37604
+1043464704,Sandy,Nosseir,MD,Marlton,NJ,08053
+1043466931,Timothy,Ruddell,M.D.,College Station,TX,77845
+1043467038,Gaspar,Msangi,M.D.,Marietta,GA,30060
+1043474919,Bahaa,Malaeb,M.D.,Ann Arbor,MI,48109
+1043476898,Adrienne,Heckler,MD,Vancouver,WA,98686
+1043477334,Lori,Dulabon,DO,Erie,PA,16509
+1043507866,Luke,Frederick,MD,Rockford,IL,61107
+1043539729,Eugene,Pietzak,MD,Philadelphia,PA,19104
+1043540149,Kumaran,Sathyamoorthy,"MD, MPH",Houston,TX,77065
+1043573355,Kyle,Basham,MD,Fort Smith,AR,72903
+1043577091,Andrew,Margules,,Langhorne,PA,19047
+1043584097,Frances,Alba,M.D.,Albuquerque,NM,87131
+1043584949,Alberic,Rogman,M.D.,Nashville,TN,37209
+1043585557,Quoc-Dien,Trinh,M.D.,Pittsburgh,PA,15232
+1043601875,Mohammed,Said,MD,Louisville,KY,40202
+1043605330,Meenakshi,Davuluri,M.D.,Brooklyn,NY,11217
+1043630726,Andrew,Sun,M.D.,Honolulu,HI,96813
+1043636954,Ankit,Patel,D.O.,Huntley,IL,60142
+1043637325,Marc,Nelson,,Libertyville,IL,60048
+1043639321,Christi,Butler,,San Francisco,CA,94143
+1043653942,Daniel,Smith,MD,Seattle,WA,98115
+1043655046,Morris,Jessop,M.D.,Great Falls,MT,59405
+1043655525,David,Koslov,MD,San Bernardino,CA,92404
+1043657067,Ben,Niver,M.D.,Blue Ash,OH,45242
+1043664386,Deepak,Pruthi,MD,San Antonio,TX,78229
+1043665177,Juan,Cedeno,M.D.,Homestead,FL,33033
+1043666191,Ethan,Ferguson,MD,Indianapolis,IN,46202
+1043666365,Hemant,Chaparala,M.D.,Decatur,GA,30030
+1043673791,Shannon,Smith,MD/MPH,Los Angeles,CA,90048
+1043692494,Joshua,Belle,MBBS,Omaha,NE,68198
+1043698046,David,Brooks,"M.D., PH.D.",Broomall,PA,19008
+1043716327,Roy,Lipworth,MD,Lafayette,CO,80026
+1043717622,Michael,Shapiro,MD,Hastings,MN,55033
+1043741911,Jacob,Basilius,MD,Orange,CA,92868
+1043743305,Alexander,Liu,M.D.,Pensacola,FL,32503
+1043746068,Robert,Fisher,M.D.,Flowery Branch,GA,30542
+1043751480,Minh,Pham,MD,Chicago,IL,60611
+1053049007,Prabhjot,Singh,MD,Hershey,PA,17033
+1053060566,Nicholas,Dean,M.D.,Chicago,IL,60611
+1053301440,Carl,Walker,MD,Spokane,WA,99202
+1053304600,Laris,Galejs,M.D.,Cadillac,MI,49601
+1053309229,Charles,Gillock,MD,Stuarts Draft,VA,24477
+1053310110,Winston,Vaught,MD,Florence,SC,29506
+1053310367,Roderick,Crocker,MD,Cambridge,MA,02138
+1053310821,Akhil,Das,MD,Orange,CA,92868
+1053313478,Michael,Campenni,D.O.,Pittston,PA,18640
+1053315077,Jeffrey,Rebman,MD,North Chesterfield,VA,23235
+1053315614,Marcus,Loo,M.D.,New York,NY,10013
+1053316000,Gregory,Halenda,M.D.,Pittsburgh,PA,15213
+1053318782,William,Rankin,MD,Danville,KY,40422
+1053319624,Anthony,Quinn,MD,New London,CT,06320
+1053324079,Alex,Koper,M.D.,Santa Barbara,CA,93110
+1053325548,Craig,Landow,MD,Broomall,PA,19008
+1053329847,Theodore,Belis,,Altoona,PA,16602
+1053334078,King,Morris,MD,Cushing,OK,74023
+1053334318,Davinder,Sekhon,M.D.,Pensacola,FL,32503
+1053336263,Michael,Ficazzola,MD,Yonkers,NY,10701
+1053342386,Mark,Weintraub,MD,Bradenton,FL,34205
+1053343152,David,Svetec,MD,Lancaster,PA,17601
+1053343186,John,White,M.D.,Seguin,TX,78155
+1053343574,Sergio,Fefer,M.D.,South Weymouth,MA,02190
+1053349555,Thomas,Hamilton,M.D.,Greenville,SC,29605
+1053353474,Vincent,Cubelli,M.D.,Denville,NJ,07834
+1053365767,Albert,Ong,M.D.,Orlando,FL,32806
+1053366641,William,Hughes,MD,Decatur,AL,35601
+1053368118,Kevin,Nasseri,MD,Topeka,KS,66606
+1053370304,Denton,Allman,M.D.,Hawthorne,NY,10532
+1053375584,Juan,Premoli,M.D.,Aventura,FL,33180
+1053377333,James,Kelly,MD,Saint Louis,MO,63109
+1053378166,Robert,Kidd,M.D.,Hammond,LA,70403
+1053381467,Rustin,Walters,M.D.,Tulsa,OK,74146
+1053381517,John,Foley,MD,Easton,MD,21601
+1053383174,Joseph,Kueter,M.D.,Jonesboro,AR,72401
+1053384081,Jean,Lajeune,MD,Brooklyn,NY,11220
+1053385716,Bruce,Green,MD,Atlanta,GA,30342
+1053388785,Kevin,Nickell,MD,Houston,TX,77074
+1053392720,Timothy,Siegel,M.D.,Richmond,IN,47374
+1053393819,William,Spencer,MD,Royal Oak,MI,48073
+1053394627,Phillip,Dowd,M.D.,Wichita Falls,TX,76310
+1053396341,John,Colberg,MD,New Haven,CT,06519
+1053396606,Bryant,Williams,M.D.,Dothan,AL,36301
+1053397851,John,Cudecki,MD,Chicago,IL,60616
+1053403105,Bradley,Anderson,MD,South Lake Tahoe,CA,96150
+1053403774,Craig,Canfield,M.D.,San Luis Obispo,CA,93405
+1053406819,Laura,Crocitto,MD,La Verne,CA,91750
+1053411215,John,Anema,M.D.,Grand Rapids,MI,49503
+1053414458,Scott,Shelfo,M.D.,Newnan,GA,30265
+1053419614,Roberto,Pedraza,MD,Rockville,MD,20850
+1053436550,Timothy,Lesser,MD,Torrance,CA,90503
+1053446310,Jeffrey,Veale,M.D.,Los Angeles,CA,90095
+1053448084,Dustin,Ridout,MD,Denver,CO,80205
+1053468967,Robert,Marino,M.D.,Orange Park,FL,32073
+1053491811,Scott,Ferguson,MD,Harrison,AR,72601
+1053497453,Ross,Oliver,M.D.,Charleston,WV,25304
+1053499731,Viswanathan,Gajendran,MD,Roseville,CA,95661
+1053501114,Rebecca,O'malley,MD,Albany,NY,12208
+1053511279,Lauren,Eisenberg,"D,O.",El Paso,TX,79912
+1053512822,Jason,Jankowski,M.D.,Cleveland,OH,44106
+1053517359,Troy,Sofinowski,MD,Prestonsburg,KY,41653
+1053524769,Justin,Isariyawongse,M.D.,Monroeville,PA,15146
+1053530782,Simone,Thavaseelan,,Providence,RI,02905
+1053558627,Miguel,Pineda,,New York,NY,10065
+1053573147,Herbert,Wiser,MD,Springfield,IL,62702
+1053573659,Balaji,Kalyanaraman,"M.D., PH.D",Florence,KY,41042
+1053575365,Aaron,Becker,M.D.,Jeffersonville,IN,47130
+1053577197,Maria,Ordonez,MD,Cambridge,MA,02139
+1053577478,Diana,Kang,MD,La Jolla,CA,92037
+1053578831,Kevin,Gioia,MD,Rumson,NJ,07760
+1053581496,Ashley,Bowen,"M.D.,M.B.A.",Oklahoma City,OK,73120
+1053612101,Shaya,Taghechian,MD,Marietta,GA,30060
+1053632091,Daniel,Gilbert,D.O.,Mesa,AZ,85204
+1053653501,Petar,Bajic,M.D.,Cleveland,OH,44195
+1053674101,Robert,Elgin,D.O.,Saint Clair Shores,MI,48081
+1053676650,Jason,Sea,"MD, FRCSC",Orlando,FL,32835
+1053707398,Tristan,Nicholson,"MD, PHD",Seattle,WA,98195
+1053724278,Meredith,Angel,M.D.,Campbellsville,KY,42718
+1053734517,Justin,Fincher,MD,Lagrange,GA,30240
+1053737643,Parin,Patel,DO,Champaign,IL,61822
+1053760132,John,Richgels,,Chicago,IL,60637
+1053762948,David,Kuppermann,MD,Los Angeles,CA,90095
+1053767806,Joshua,Earl,MD,Orlando,FL,32803
+1053773481,Wesley,Yip,M.D.,Duarte,CA,91010
+1053783860,Ahmed,Ali,M.D.,Orange,CA,92868
+1053794016,Justin,Houman,MD,Los Angeles,CA,90048
+1053799726,Jennifer,Fantasia,M.D.,Worcester,MA,01605
+1053816702,Paul,Rizk,MD,Shenandoah,TX,77384
+1053843334,Molly,Reissmann,MD,High Point,NC,27262
+1053845362,Pranav,Dadhich,MD,Bedford,TX,76022
+1053846089,Eric,Wendel,M.D.,Covington,LA,70433
+1063405157,Perry,Sutaria,MD,Morristown,NJ,07960
+1063405298,Peter,Hughes,MD,Glens Falls,NY,12801
+1063407260,Susan,Kalota,MD,Tucson,AZ,85715
+1063410173,Anthony,Barnes,M.D,Atlanta,GA,30315
+1063413938,John,Bak,M.D.,Lakewood,WA,98499
+1063419133,Kenneth,Ruby,MD,Somerset,KY,42503
+1063433514,Brian,Flynn,MD,Aurora,CO,80045
+1063434413,John,Chacko,MD,Marianna,FL,32446
+1063445138,Michael,Kleeman,D.O.,East Patchogue,NY,11772
+1063449809,Jonathan,Bingham,MD,Allentown,PA,18103
+1063450773,Ralph,Zagha,MD,Lauderdale Lakes,FL,33313
+1063451367,Andy,Cho,M.D.,Gahanna,OH,43230
+1063465987,Marlene,Corujo,MD,Jamaica,NY,11432
+1063466811,Robert,Busch,D.O.,Lake City,FL,32055
+1063472017,Carl,Gjertson,M.D.,Farmington,CT,06030
+1063472421,Geoffrey,Sklar,M.D.,Baltimore,MD,21237
+1063472470,John,Giannakis,MD,Shenandoah,TX,77384
+1063472694,Charles,Fernicola,M.D.,Manahawkin,NJ,08050
+1063479772,Luay,Susan,M.D.,Cleveland,OH,44195
+1063480085,Marc,Melser,MD,Port Charlotte,FL,33952
+1063484848,Sean,Tirney,MD,Daytona Beach,FL,32118
+1063489979,John,Wegryn,M.D.,Akron,OH,44304
+1063495851,Narendra,Narepalem,M.D.,Mount Prospect,IL,60056
+1063497352,Harris,Foster,MD,New Haven,CT,06520
+1063498095,John,Munoz,M.D.,Manchester,NH,03103
+1063509347,Gabriel,Rodriguez,M.D.,Houston,TX,77058
+1063510840,David,Josephson,MD,Los Angeles,CA,90048
+1063511772,Lars,Thompson,MD,Canton,NY,13617
+1063528453,Tristan,Pangilinan,MD,Okeechobee,FL,34972
+1063529998,Francisco,Capo Dominguez,"MD, FACS",Santurce,PR,00909
+1063531457,Ted,Skolarus,MD,Ann Arbor,MI,48109
+1063538395,David,Mcginnis,M.D.,Bryn Mawr,PA,19010
+1063564060,David,Hernandez,M.D.,Tampa,FL,33606
+1063568491,Jonathan,Silberstein,M.D.,Aventura,FL,33180
+1063568657,Soren,Carlsen,MD,Wailuku,HI,96793
+1063569093,Andrea,Sorcini,MD,Burlington,MA,01805
+1063572238,Jeffrey,Woolsey,MD,Springfield,OR,97477
+1063580207,Trent,Sterenchock,M.D.,Warner Robins,GA,31093
+1063581874,Lawrence,Sigler,MD,Bronxville,NY,10708
+1063583730,Simon,Saada,MD,Brooklyn,NY,11228
+1063603108,Damien,Smith,MD,Santa Cruz,CA,95065
+1063604239,Meredith,Jankowski,D.O.,Somers Point,NJ,08244
+1063611598,Hugo,Davila Garcia,M.D.,Vero Beach,FL,32960
+1063613800,Hector,Pimentel,M.D.,Grand Rapids,MI,49506
+1063619237,Adam,Nicholson,MD,Grand Forks,ND,58201
+1063626893,Leah,Nakamura,M.D.,Laguna Hills,CA,92653
+1063636033,George,Zahorian,"D.O., F.A.C.O.S.",Hershey,PA,17033
+1063640175,Sapan,Ambani,M.D.,Ann Arbor,MI,48109
+1063640431,Lynn,Paik,D.O.,Media,PA,19063
+1063640555,Curtis,Ross,D.O.,Bangor,ME,04401
+1063642403,John,Beddies,MD,Paris,TN,38242
+1063643039,Khaled,Shahrour,M.D.,Zephyrhills,FL,33542
+1063647816,Erin,Gibbons,M.D.,Vancouver,WA,98664
+1063652212,Ryan,Fogg,M.D.,Gainesville,GA,30501
+1063668119,Brian,Le,M.D.,Madison,WI,53705
+1063672871,Vikrant,Uberoi,M.D.,Clinton,MD,20735
+1063674133,Lindsey,Cox,M.D.,Charleston,SC,29425
+1063687051,Scott,Salmon,D.O.,St George,UT,84790
+1063694644,Gregory,Weigler,D.O.,Garden City,MI,48135
+1063702538,Scott,Castle,MD,Glenwood Springs,CO,81601
+1063702702,Paul,Chung,M.D.,Philadelphia,PA,19107
+1063706414,Yu-Kuan,Lin,M.D.,Newburgh,NY,12550
+1063723401,Neal,Patel,M.D.,Johns Creek,GA,30097
+1063730372,Dustin,Gayheart,M.D.,Pikeville,KY,41501
+1063750099,Dawud,Lankford,M.D.,Oakland,CA,94609
+1063755148,Justin,Ahn,M.D.,San Francisco,CA,94143
+1063772770,Brendan,Browne,,Atlanta,GA,30322
+1063773182,Julie,Wang,M.D.,Kenner,LA,70065
+1063807220,Carissa,Chu,M.D.,San Francisisco,CA,94143
+1063807477,Evan,Carlos,MD,Spokane,WA,99202
+1063824688,John,Moore,,Hattiesburg,MS,39401
+1063828465,Vidit,Sharma,M.D.,Rochester,MN,55905
+1063855138,Patrick,Guthrie,MD,Zephyrhills,FL,33541
+1063855625,Hari,Sawkar,MD,Orange,CA,92868
+1063857597,Peter,Elliott,MD,San Jose,CA,95128
+1063858595,Nitin,Yerram,M.D.,Hackensack,NJ,07601
+1063866796,Jerrod,Heermans,M.D.,Kalispell,MT,59901
+1063873446,Elizabeth,Koehne,M.D.,Madison,WI,53792
+1063875490,Evan,Mulloy,MD,Mckinney,TX,75071
+1063893717,Matthew,Moynihan,M.D.,Fairfax,VA,22031
+1063893949,Maung Htein,Thu,M.D,Saint Louis,MO,63128
+1063899250,Andrew,Bergersen,M.D.,Robbinsdale,MN,55422
+1063904282,Siobhan,Telfer,M.D.,Pittsburgh,PA,15213
+1063940088,Weston,Kitley,MD,Greenwood,IN,46143
+1063943439,Andrew,Tam,MD,Oakland,CA,94609
+1063944536,Jonathan,Demeter,MD,Denton,TX,76210
+1063948982,Marcus,Jamil,M.D.,Plymouth,MI,48170
+1063949725,Stephen,Legg,M.D.,Rockingham,VA,22801
+1063951606,Jared,Brown,MD,Huntersville,NC,28078
+1073031324,Amit,Bhattu,,Altoona,PA,16602
+1073044038,Amanda,Ingram,M.D.,New Bern,NC,28562
+1073049359,Nourhan,Ismaeel,,Atlanta,GA,30322
+1073502720,Christopher,Haas,M.D.,Lorain,OH,44053
+1073509188,Jeffery,Kroll,MD,Temple,TX,76502
+1073517066,Mark,Bigler,M.D.,Bowling Green,KY,42101
+1073519310,Kenneth,Essig,M.D.,Winter Haven,FL,33884
+1073534525,David,Ginsberg,M.D.,Los Angeles,CA,90033
+1073543369,Stephen,Sacks,MD,Los Angeles,CA,90048
+1073549127,Patrick,Walsh,M.D.,Baltimore,MD,21287
+1073560058,Homa,Porter,M.D.,Dallas,TX,75231
+1073560488,Hani,Rashid,M.D.,Rochester,NY,14623
+1073563979,David,Chou,MD,Honolulu,HI,96816
+1073564829,Gregory,Lacy,M.D.,New Haven,CT,06519
+1073564910,Stephen,Weiss,MD,Deland,FL,32720
+1073567376,Stephen,Lapin,M.D.,Houston,TX,77030
+1073567434,Kambiz,Dardashti,MD,Torrance,CA,90505
+1073568382,Thomas,Landon,MD,Lake St Louis,MO,63367
+1073570222,Larry,Strong,MD,Bedford,IN,47421
+1073573143,Robert,Brannigan,MD,Chicago,IL,60611
+1073577045,Kristopher,Atzeff,M.D.,Libertyville,IL,60048
+1073584744,Marcellus,Lahaye,M.D.,Ville Platte,LA,70586
+1073585089,Joseph,Conti,MD,Indiana,PA,15701
+1073585436,David,Guthman,M.D.,Arlington Heights,IL,60005
+1073589651,Thong,Bui,MD,Medford,OR,97504
+1073590014,Erik,Alexander,MD,Scottsdale,AZ,85255
+1073592796,Claiborne,Whitworth,MD,Lexington,VA,24450
+1073593638,Dirk,Sypherd,M.D,Spokane,WA,99204
+1073595401,Peter,Clark,MD,Charlotte,NC,28204
+1073597753,Timothy,Grayson,M.D.,Thomasville,GA,31792
+1073598371,Shahrad,Aynehchi,MD,Whittier,CA,90603
+1073604328,Brent,Hollenbeck,MD,Boston,MA,02114
+1073605994,Richard,Leidinger,M.D.,Berlin,VT,05602
+1073607628,Venkatesh,Krishnamurthi,MD,Cleveland,OH,44195
+1073607727,Levan,Khasidy,MD,Forest Hills,NY,11375
+1073617023,Rodman,Rogers,M.D.,San Francisco,CA,94115
+1073618187,David,Levy,MD,La Plata,MD,20646
+1073619441,Jeffrey,Greski,DO,Rochester Hills,MI,48309
+1073619615,Anil,Kumar,MD,Rochester Hills,MI,48309
+1073620712,Michael,Feloney,M.D.,Omaha,NE,68124
+1073625307,Raymond,Seiler,M.D.,Anderson,SC,29621
+1073627337,Ralph,Madeb,M.D.,Newark,NY,14513
+1073634861,Walter,Cazayoux,M.D.,Covington,LA,70433
+1073649406,Mohummad,Siddiqui,MD,Baltimore,MD,21201
+1073653119,Ashok,Kar,M.D.,Orange,CA,92868
+1073656617,Tobias,Kohler,MD,Rochester,MN,55905
+1073656765,Odell,Dean,M.D.,Monroe,LA,71201
+1073675591,Michael,Santomauro,M.D,San Diego,CA,92120
+1073682035,Doyle,Renfroe,M. D.,Oxford,MS,38655
+1073691564,Herkanwal,Khaira,MD,Fairfield,CA,94533
+1073692174,Joseph,Lanzone,M.D.,Brunswick,GA,31520
+1073714267,Jamin,Brahmbhatt,MD,Clermont,FL,34711
+1073715744,Joseph,Klink,M.D.,Fort Myers,FL,33905
+1073729521,Gregory,Lowe,M.D.,Columbus,OH,43214
+1073741187,Jaclyn,Milose,M.D.,Dearborn,MI,48124
+1073748257,Jaber,Alanzi,MD,Cleveland,OH,44130
+1073748554,Martin,Kathrins,MD,Boston,MA,02115
+1073753091,Samit,Soni,M.D.,Houston,TX,77030
+1073758652,Tung-Chin,Hsieh,M.D.,San Diego,CA,92103
+1073770657,Kelly,Cary,M.D.,Indianapolis,IN,46202
+1073773008,Jeffrey,Davis,MD,Wichita,KS,67226
+1073778452,Michael,Brewer,M.D.,Homewood,AL,35209
+1073803490,Nicholas,Hauser,M.D.,Reno,NV,89502
+1073804209,Zachary,Reardon,MD,Mobile,AL,36607
+1073809398,Parth,Modi,,Chicago,IL,60637
+1073836623,Juan,Jimenez,"M.D., PH.D.",Cleveland,OH,44111
+1073879730,Jennifer,Lam,M.D,Marion,OH,43302
+1073886438,Peter,Minich,MD,Quincy,IL,62301
+1073889044,Yaw,Nyame,"M.D., M.B.A.",Cleveland,OH,44195
+1073908190,Jacqueline,Zillioux,MD,Charlottesville,VA,22903
+1073909768,Zeynep,Gul,MD,Saint Louis,MO,63110
+1073928768,Gustavo,Diaz-Mercado,M.D.,Kenner,LA,70065
+1073931150,Marshall,Strother,MD,Portland,OR,97239
+1073932091,Eric,Fichtenbaum,M.D.,Columbus,OH,43215
+1073932521,Justina,Tam,M.D.,Stony Brook,NY,11794
+1073956942,Jason,Warncke,M.D.,Greeley,CO,80634
+1073957783,Samuel,Belknap,,Watkinsville,GA,30677
+1073975157,William,Bruch,M.D.,Richmond,VA,23235
+1083025951,Andrew,Gowdey,M.D,Meridian,MS,39301
+1083051577,Pooya,Banapour,,Whittier,CA,90603
+1083057384,Wei Phin,Tan,MD,New York,NY,10017
+1083057525,Isaac,Kelly,M.D.,Upland,CA,91786
+1083060859,Daniel,Furlong,M.D.,Charleston,SC,29425
+1083065643,Laura,Mcgarry,D.O.,Philadelphia,PA,19141
+1083067250,Arjun,Sivaraman,MD,Milwaukee,WI,53226
+1083068357,Spencer,Hill,MD,Centerville,OH,45459
+1083070932,Paige,Nichols,,Rochester,MN,55905
+1083078166,Nathan,Shaw,M.D.,San Francisco,CA,94110
+1083078604,Marilin,Nicholson,M.D.,Bradenton,FL,34205
+1083091227,Peter,Reisz,M.D.,Quakertown,PA,18951
+1083103915,Stephen,Pittman,MD,Oklahoma City,OK,73120
+1083119010,Gannon,Curtis,MD,Colorado Springs,CO,80910
+1083119564,Thomas,Hwang,M.D.,Duarte,CA,91010
+1083140495,Brian,Mcgreen,D.O.,Philadelphia,PA,19102
+1083146286,Andrew,Wang,M.D.,Stockton,CA,95209
+1083150221,Anirban,Mitra,"M.D., PH.D.",Los Angeles,CA,90048
+1083155592,Colby,Souders,,Kansas City,KS,66160
+1083600191,David,Meriwether,MD,Summersville,WV,26651
+1083600878,Angelo,Paola,"M.D.,F.A.C.S.",Riverview,FL,33578
+1083601413,Allan,Klaiman,M.D.,Maitland,FL,32751
+1083604219,Dicken,Ko,MD,Providence,RI,02905
+1083608152,Richard,Ashley,M.D.,Hampton Bays,NY,11946
+1083612949,Yuk-Yuen,Leung,M.D.,Fresno,CA,93720
+1083616320,William,Gans,M.D.,West Palm Beach,FL,33401
+1083619043,J.,Ellsworth,M.D.,St George,UT,84790
+1083627814,Manuel,Perez,M.D.,Hardeeville,SC,29927
+1083631022,Frederic,Fernholz,MD,Laconia,NH,03246
+1083633283,Erol,Ulker,MD,Belleville,NJ,07109
+1083633473,Ronald,Konchanin,MD,Urbana,IL,61801
+1083635494,Perinchery,Narayan,M.D.,Gainesville,FL,32606
+1083636294,Christopher,Kane,M.D.,San Diego,CA,92103
+1083637524,Mark,Walterskirchen,M.D.,Springfield,MO,65804
+1083644702,Subhash,Vyas,M.D.,Williamson,WV,25661
+1083645162,Hector,Rodriguez-Blazquez,M.D.,Mayaguez,PR,00680
+1083646657,Brandon,Rubens,M.D.,Cary,NC,27518
+1083646772,Mark,Dykstra,M.D.,Menomonee Falls,WI,53051
+1083647838,Travis,Clark,MD,Wenatchee,WA,98801
+1083650170,Matthew,Rutman,MD,New York,NY,10032
+1083650287,Nathan,Moore,M.D.,Monroe,WI,53566
+1083659007,John,Lasater,MD,Hampton,VA,23666
+1083659072,Brian,Murray,MD,Albany,NY,12203
+1083661052,Meredith,Lightfoot,M.D.,Plano,TX,75093
+1083668594,William,Tissot,MD,Franklin,TN,37067
+1083674212,Matthew,Anderson,M.D.,Oshkosh,WI,54904
+1083676324,Timothy,Donahue,M.D.,New York,NY,10065
+1083677272,Jeffrey,Lumerman,MD,Garden City,NY,11530
+1083678247,York,Moy,M.D.,Middlebury,CT,06762
+1083678254,Joseph,Camps,MD,Tallahassee,FL,32308
+1083681134,Ganesh,Devendra,MD,Simi Valley,CA,93065
+1083686117,Sean,Stroup,M.D.,Boise,ID,83702
+1083690259,Paul,Mcadams,M. D.,Santa Rosa,CA,95404
+1083693394,Jules,Geltzeiler,MD,Eatontown,NJ,07724
+1083695373,Venkata,Marella,MD,Clifton,NJ,07013
+1083697817,Piyush,Joshi,MD,Sebastian,FL,32958
+1083701452,William,Tingle,MD,Sarasota,FL,34237
+1083702997,Benjamin,Tripp,M.D.,Delray Beach,FL,33484
+1083712210,Gina,Rooker,MD,Pittsburgh,PA,15212
+1083716195,Gary,Friedlander,MD,Rockville,MD,20850
+1083738116,James,Mcintosh,M.D.,Independence,MO,64055
+1083752000,Charles,Cobb,MD,Jacksonville,FL,32204
+1083769517,Joshua,Bodie,MD,Milwaukee,WI,53226
+1083782965,Hilary,Watson,M.D.,Mandeville,LA,70471
+1083798979,Thomas,Polascik,M.D.,Durham,NC,27710
+1083800510,Edwin,Abel,M.D.,Madison,WI,53792
+1083807333,Joseph,Pettus,M.D.,Huntsville,AL,35801
+1083810410,Caroline,Vilchis,MD,Oceanside,CA,92056
+1083810832,Vinh,Trang,M.D.,Whittier,CA,90605
+1083823009,Vernon,Orton,MD,Richmond,VA,23298
+1083823785,Christopher,Yang,M.D.,Round Rock,TX,78681
+1083832281,Stephanie,Hughes,M.D.,Thibodaux,LA,70301
+1083837975,Richard,Jadick,DO,Lagrange,GA,30240
+1083849566,Scott,Caesar,MD,Fort Myers,FL,33905
+1083858518,Gregory,Lieser,M.D.,Garland,TX,75044
+1083864847,Hubert,Cox,M.D.,Greenwood Village,CO,80111
+1083876296,Michelle,Ramirez,D.O.,Biddeford,ME,04005
+1083877658,Carrie,Fitzgerald,DO MPH,Brick,NJ,08724
+1083882096,Geoffrey,Habermacher,"M.D., PHD",Montgomery,AL,36116
+1083885644,Quinton,Cancel,M.D.,Goldsboro,NC,27534
+1083893101,Lucas,Wiegand,MD,Orlando,FL,32804
+1083902852,Gurdarshan,Sandhu,MD,Saint Louis,MO,63141
+1083903512,Jonathan,Kiechle,,West Allis,WI,53227
+1083925127,Casey,Kowalik,MD,Kansas City,KS,66160
+1083935118,Fara,Bellows,MD,Circleville,OH,43113
+1083939284,Adam,Howe,M.D.,Albany,NY,12208
+1083955538,Eugene,Cone,M.D.,Greenwood,IN,46143
+1083963334,Clark,Wilson,MD,Tyler,TX,75701
+1083970198,Daniel,Box,,Cleveland,TN,37312
+1083980064,Abhishek,Srivastava,M.D.,Myrtle Beach,SC,29572
+1083992234,Aryeh,Keehn,"M,D",Bayonne,NJ,07002
+1093005597,Mahmoud,Chehab,MD,Syracuse,NY,13210
+1093005787,Kymora,Scotland,MD,Los Angeles,CA,90095
+1093006090,Naveen,Arora,M.D.,Snellville,GA,30078
+1093034126,Gregory,Thoreson,M.D.,Dallas,TX,75246
+1093039976,Timothy,Suttle,M.D.,Reno,NV,89511
+1093041626,Catherine,Harris,M.D.,San Francisco,CA,94143
+1093058315,Patrick,Gomella,"MD, MPH",Abington,PA,19001
+1093071847,Diane,Lu,M.D.,Canandaigua,NY,14424
+1093072324,Justin,Gregg,M.D.,Houston,TX,77030
+1093081168,Sean,Douglas,MD,Hattiesburg,MS,39401
+1093084907,Hiten,Patel,"MD, MPH",Chicago,IL,60611
+1093127631,Jose,Vilaro Valderrabano,MD,Miami,FL,33165
+1093135832,Ahmed,Alghrouz,MD,Yuba City,CA,95991
+1093154064,Paul,Morrison,MD,Wichita Falls,TX,76310
+1093155939,Zachary,Panfili,M.D.,Tacoma,WA,98405
+1093159303,Brittany,O'bryan,,Elizabethtown,KY,42701
+1093161895,Michael,Siev,MD,New Haven,CT,06510
+1093177321,Kevin,Krughoff,,Springfield,OR,97477
+1093177891,Brijesh,Patel,MD,Voorhees,NJ,08043
+1093192411,Nermarie,Velazquez,MD,Suffern,NY,10901
+1093205478,Justin,Nguyen,MD,Raleigh,NC,27614
+1093211146,Michael,Dineen,MD,Daytona Beach,FL,32114
+1093248023,Fabrice,Henry,M.D.,Cleveland,OH,44195
+1093257446,Ramy,Abou Ghayda,M.D.,Ashland,OH,44805
+1093291619,Ragheed,Saoud,MD,Riverhead,NY,11901
+1093703035,David,Benson,MD,New Orleans,LA,70112
+1093705899,Gregory,Broderick,MD,Jacksonville,FL,32224
+1093707895,Leo,Grafstein,M.D.,Plattsburgh,NY,12901
+1093710048,Thomas,Rosvanis,M.D.,Monroeville,PA,15146
+1093710162,Gregor,Emmert,MD,Toledo,OH,43606
+1093711913,Martin,Walsh,M.D.,Middletown,OH,45005
+1093712960,Robert,Cowles,M.D.,Greensboro,GA,30642
+1093713190,Jeremy,Lieb,M.D.,Concord,CA,94520
+1093716219,Gene,Rosenberg,M.D.,Hackensack,NJ,07601
+1093716771,Edgar,Sandoval,M.D.,Miami Beach,FL,33140
+1093717639,Jose,Maymi,MD,Brownsville,TX,78520
+1093727166,Edward,Stark,M.D.,New York,NY,10019
+1093730756,John,Christensen,MD,Winfield,IL,60190
+1093731788,William,Harrell,M.D.,Tyler,TX,75702
+1093732646,Orlando,Aguilar-Guzman,MD,Rogers,AR,72758
+1093735110,David,Jacks,M.D.,Pine Bluff,AR,71603
+1093737538,Jack,Miller,M.D.,Tulsa,OK,74146
+1093738932,Sun,Kim,MD,San Bernardino,CA,92404
+1093740300,Ben,Jacobs,MD,Brooklyn,NY,11229
+1093741019,Ralph,Devito,M.D.,New Haven,CT,06511
+1093741829,Steven,Salva,MD,Broomall,PA,19008
+1093749855,Albert,Mcbride,MD,Bakersfield,CA,93306
+1093756827,Edward,Cohen,M.D.,La Jolla,CA,92037
+1093758195,Brian,Butler,MD,Waukesha,WI,53188
+1093765927,David,Weinstein,M.D.,Lake Worth,FL,33461
+1093765992,Liam,Hurley,MD,North Andover,MA,01845
+1093773954,George,Chiang,M.D.,San Diego,CA,92123
+1093775926,Robert,Britanisky,MD,Spartanburg,SC,29303
+1093776502,Michael,Crawford,MD,Washington,NC,27889
+1093788101,Mohammad,Bhatti,MD,Somerset,NJ,08873
+1093793440,Mitchell,Weinstein,D.O.,Sunrise,FL,33351
+1093794299,Frank,Bacque,M.D.,Lafayette,LA,70506
+1093794935,Ansar,Khan,MD,Fremont,NE,68025
+1093795429,Brant,Inman,M.D.,Durham,NC,27710
+1093796898,Andrew,Mahoney,MD,Burlington,VT,05401
+1093797482,Anthony,Vara,M.D.,Tallahassee,FL,32308
+1093799397,Muhammad,Choudhury,MD,Hawthorne,NY,10532
+1093799710,David,Stampfer,MD,Towson,MD,21204
+1093803785,Howard,Lynn,MD,Smithtown,NY,11787
+1093806200,Joseph,Lopes,MD,Oakland,ME,04963
+1093809360,Raju,Thomas,MD,New Orleans,LA,70112
+1093810632,Siddharth,Jain,MD,Desoto,TX,75115
+1093819153,James,Anderson,MD,Minneapolis,MN,55455
+1093831851,Ross,Cohn,M.D.,Hixson,TN,37343
+1093850927,Jorge,Leal,MD,Merritt Island,FL,32953
+1093854028,Keith,Xavier,MD,Arlington,TX,76017
+1093856874,Victoria,Bird,MD,Gainesville,FL,32608
+1093861569,Lori,Hergan,M.D.,Hemet,CA,92543
+1093874331,Erwin,Winkel,MD,Houston,TX,77090
+1093882995,Sherif,Aboseif,MD,Oxnard,CA,93036
+1093886079,Stephen,Williams,MD,Los Angeles,CA,90027
+1093889263,Mark,Kelly,MD,Miami,FL,33176
+1093896144,Gary,Bong,MD,Colorado Springs,CO,80923
+1093896367,David,Lustig,M.D.,Dade City,FL,33525
+1093896524,Thomas,Shook,"MD, MPH",Savannah,GA,31405
+1093904823,Justin,Cox,MD,Cincinnati,OH,45219
+1093908568,Tarek,Pacha,D.O,Troy,MI,48098
+1093924714,Sophie,Fletcher,MD,Houston,TX,77030
+1093943854,Jonathan,Yamzon,M.D.,Duarte,CA,91010
+1093950917,Faisal,Ahmed,M.D,Los Angeles,CA,90045
+1093954497,Alexandra,Rogers,MD,Lafayette,CO,80026
+1093958621,Christopher,Brede,,Grand Rapids,MI,49506
+1093959785,Sanjay,Patel,M.D.,Oklahoma City,OK,73104
+1093971467,Blake,Evans,MD,Coral Springs,FL,33071
+1093976151,Austin,Derosa,M.D.,Denver,CO,80211
+1093985756,Mary,Samplaski,MD,Los Angeles,CA,90033
+1093993115,Hadley,Wyre,MD,Kansas City,KS,66160
+1093999385,Samer,Kalakish,M.D.,Bowling Green,KY,42101
+1104013234,Louis,Krane,M.D.,New Orleans,LA,70112
+1104027051,David,Hepps,M.D.,Pittsburgh,PA,15206
+1104036136,Brandon,Stahl,M.D.,York,ME,03909
+1104039916,Sandeep,Mistry,M.D.,Round Rock,TX,78681
+1104049980,Keith,Brightbill,M.D.,West Columbia,SC,29169
+1104053065,Jacob,Khurgin,DO,Brooklyn,NY,11219
+1104060110,Cameron,Jirschele,D.O.,Wheaton,IL,60187
+1104084029,Anthony,Chavez,MD,Tucson,AZ,85715
+1104085851,Paul,Husson,M.D.,Gloversville,NY,12078
+1104089986,Jannah,Thompson,M.D.,Norton Shores,MI,49444
+1104099662,Rebecca,Lavelle,M.D.,Maryville,TN,37804
+1104113117,Paul,Gellhaus,MD,Goodyear,AZ,85338
+1104114875,Robert,Segal,M.D.,Baltimore,MD,21239
+1104142389,Brian,Minnillo,M.D.,Cincinnati,OH,45245
+1104147362,Nicholas,Kuntz,M.D.,Meridian,ID,83642
+1104148014,Shahin,Chandrasoma,MD,Los Angeles,CA,90033
+1104152149,Brandon,Louie,M.D.,Riverside,CA,92505
+1104169333,Anna,Zampini,M.D.,Cleveland,OH,44195
+1104182476,Jeffrey,Sparenborg,M.D.,Provo,UT,84604
+1104182716,Robert,Bonitz,,Shrewsbury,NJ,07702
+1104183417,Jonathan,Huang,M.D.,Aurora,IL,60504
+1104187632,Jay,Sulek,M.D.,Lebanon,TN,37087
+1104206309,Ryan,Powers,DO,Phoenix,AZ,85085
+1104211333,Mark,Henry,MD,Chelmsford,MA,01824
+1104232743,Jared,Schober,M.D.,Philadelphia,PA,19111
+1104245158,Steve,Williams,MD,Altamonte Springs,FL,32701
+1104263771,Patrick,Samson,M.D.,Brooklyn,NY,11215
+1104271360,Abdulhadi,Akhtar,MD,Houston,TX,77043
+1104271980,Goran,Rac,M.D.,West Columbia,SC,29169
+1104276823,Akshay,Sridhar,D.O.,Rocky Mount,NC,27804
+1104302447,Jordan,Kramer,MD,Mount Vernon,WA,98274
+1104321595,E,Dilizia,MD,Charlotte,NC,28210
+1104322254,Charles,Gresham,MD,Sewell,NJ,08080
+1104354760,Matthew,Kaufman,MD,Florence,SC,29506
+1104425545,Fernando,Secin,"MD, PHD",Buenos Aires,ZZ,1011A
+1104801356,John,Muenchrath,MD,Olympia,WA,98502
+1104801950,James,Dye,M.D.,Waycross,GA,31501
+1104802735,Bryan,Blair,MD,White Plains,NY,10604
+1104802859,Michael,Cram,,Mooresville,NC,28117
+1104806207,William,Harmon,MD,San Antonio,TX,78229
+1104808229,Mark,Burson,M.D.,Tullahoma,TN,37388
+1104808997,Jeffrey,Lessing,M.D.,Staten Island,NY,10314
+1104811876,Charles,Steiger,MD,Zanesville,OH,43701
+1104812080,Ghassan,Hamady,MD,Hialeah,FL,33016
+1104813138,Peter,Sershon,M.D.,Saint Paul,MN,55102
+1104813161,Ganesh,Rao,MD,Jeffersonville,IN,47130
+1104813641,Michael,Corea,MD,Dedham,MA,02026
+1104814409,David,Horger,M.D.,Florence,SC,29506
+1104816131,Michael,Yu,MD,Centerville,OH,45459
+1104821586,Roger,Le,M.D.,Baytown,TX,77521
+1104822865,Eric,Darby,M.D.,Newport News,VA,23606
+1104823202,Charles,Wilson,M.D.,Florence,AL,35630
+1104825637,Mark,Buchanan,M.D.,Charleston,SC,29407
+1104826163,Robert,Hatfield,M.D.,Knoxville,TN,37916
+1104826791,Ramsay,Kuo,MD,Venice,FL,34292
+1104833375,Lionel,Foster,MD,Yuba City,CA,95991
+1104842038,Paul,Bombino,M.D.,Sun City West,AZ,85375
+1104844059,Floyd,Seskin,MD,Aventura,FL,33180
+1104844307,Jeffrey,Starling,M.D.,Tampa,FL,33647
+1104845999,Samuel,Shuffler,MD,Lafayette,LA,70503
+1104851385,Alan,Shapiro,M.D.,Los Angeles,CA,90048
+1104854512,Marshall,Stoller,M.D.,San Francisco,CA,94143
+1104856830,Li-Ming,Su,M.D.,Gainesville,FL,32610
+1104859305,Lawrence,Eskew,MD,Charlotte,NC,28204
+1104869684,Michael,Piskun,M.D.,Somers Point,NJ,08244
+1104871367,Andrew,Peterson,MD,Durham,NC,27710
+1104872167,Michael,Schutz,M.D.,Somers Point,NJ,08244
+1104873744,Edward,Pewitt,M.D.,Gahanna,OH,43230
+1104875160,Nickolas,Tomasic,M.D.,Los Angeles,CA,90045
+1104875186,William,Utz,M.D.,Edina,MN,55435
+1104877299,Todd,Waldmann,M.D.,Meridian,ID,83642
+1104877448,Edward,Scheckowitz,M.D.,Delray Beach,FL,33484
+1104878594,David,Schwartzwald,M.D.,Boca Raton,FL,33487
+1104879501,Adam,Perzin,M.D.,Mount Laurel,NJ,08054
+1104882240,Ronald,Cohen,M.D.,Delray Beach,FL,33446
+1104892611,Arnaldo,Trabucco,M.D.,Merced,CA,95341
+1104894435,John,Hajjar,MD,Jersey City,NJ,07304
+1104895762,Jerry,Yuan,M.D.,Johns Creek,GA,30097
+1104896364,Arthur,Thomas,M.D.,Pittsburgh,PA,15243
+1104909548,Lawrence,Yeung,MD,Gainesville,FL,32610
+1104910082,Daniel,Katz,MD,Poughkeepsie,NY,12603
+1104912294,Domingo,Suatengco,M.D,Fairfax,VA,22033
+1104914050,Bruce,Stone,DO,Bakersfield,CA,93311
+1104914100,David,Kaufman,MD,New York,NY,10038
+1104920511,John,Kosko,MD,Bemidji,MN,56601
+1104926807,Raul,Arroyo,M.D.,Arecibo,PR,00612
+1104937044,Stephen,Schwartz,MD,Terre Haute,IN,47807
+1104952571,Brian,Chapin,MD,Houston,TX,77030
+1104973908,Sergei,Tikhonenkov,MD,Honolulu,HI,96813
+1104986975,Hans,Stricker,M.D.,Detroit,MI,48202
+1104987635,Gregory,Cost,MD,Tualatin,OR,97062
+1114001005,Judd,Moul,M.D.,Durham,NC,27710
+1114007747,Luke,Yoon,M.D.,Los Angeles,CA,90020
+1114012895,Ashish,Kamat,M.D.,Houston,TX,77030
+1114014206,Douglas,Scherr,MD,New York,NY,10021
+1114020377,Selden,Stephens,M.D.,Mobile,AL,36607
+1114023850,Michael,Norris,M.D.,Long Beach,CA,90806
+1114029253,Edward,Rosenthal,MD,Glendale,WI,53217
+1114034949,Fernando,Coste-Delvecchio,M.D.,Tampa,FL,33606
+1114036142,Keith,Lee,MD,Palo Alto,CA,94301
+1114038155,Mark,Sigman,MD,Providence,RI,02905
+1114045358,Jason,Anast,M.D.,Olathe,KS,66061
+1114087640,Amy,Guise,MD,Milwaukee,WI,53226
+1114087988,Kandis,Rivers,M.D.,Detroit,MI,48202
+1114105947,Robert,Torrey,M.D.,Newport Beach,CA,92663
+1114108800,Kadee,Thompson,M.D.,Vacaville,CA,95688
+1114109626,Dana,Scott,M.D.,Los Angeles,CA,90044
+1114114279,Wayne,Hey,D.O.,Fort Worth,TX,76103
+1114123593,Hannah,Kerr,M.D.,Columbus,OH,43214
+1114134780,Jonathan,Taylor,M.D.,Greenville,NC,27834
+1114139235,Christian,Debeck,M.D.,Lumberton,NC,28358
+1114147097,Doyle,Stephens,D.O.,Gadsden,AL,35903
+1114152196,Christopher,Boniquit,M.D.,Bolingbrook,IL,60440
+1114156692,Joshua,Cohn,M.D.,Philadelphia,PA,19111
+1114157609,Aaron,Potretzke,MD,Rochester,MN,55905
+1114160280,Ian,Schwartz,M.D.,Minneapolis,MN,55415
+1114161320,Jaimin,Shah,MD,St Petersburg,FL,33705
+1114169372,Anees,Fazili,M.D.,Rochester,NY,14609
+1114169760,Caroline,Wallner,M.D.,Burbank,CA,91505
+1114179678,Mauricio,Davalos,M.D.,El Paso,TX,79925
+1114181054,Mark,Laspina,D.O.,Salem,MA,01970
+1114185394,Nicholas,Tadros,MD,Columbus,OH,43212
+1114185634,Elisabeth,Ferlic,M.D.,Sandy,UT,84094
+1114192119,Yuka,Yamaguchi,M.D.,Palo Alto,CA,94301
+1114194792,Suzanne,Merrill,M.D.,Lone Tree,CO,80124
+1114196169,Robert,Laciak,M.D.,Corvallis,OR,97330
+1114201274,Steven,Sobey,M.D.,Southampton,NY,11968
+1114213428,Michael,Monahan,D.O.,Albany,GA,31707
+1114213725,Timothy,Brock,M.D.,Gainesville,GA,30501
+1114216199,Justin,Emtage,M.D.,Winter Park,FL,32792
+1114227501,Thomas,Facelle,MD,Golden,CO,80401
+1114243870,Courtney,Plattner,M.D.,West Chester,OH,45069
+1114246618,Casey,Dauw,M.D.,Ann Arbor,MI,48109
+1114284874,Marcus,Austenfeld,M.D.,Kansas City,MO,64111
+1114293727,Benjamin,King,M.D.,Burlington,VT,05401
+1114308467,Kashyap,Shatagopam,MD,Georgetown,TX,78626
+1114311271,Andrew,Vitale,M.D.,Oklahoma City,OK,73120
+1114311933,Marshall,Stein,M.D.,Houston,TX,77074
+1114312808,Shawn,Marhamati,M.D:,Woodbridge,VA,22191
+1114314556,David,Fumo,MD,Lafayette,IN,47905
+1114339447,Kaitlin,Ridder,M.D.,Wilmington,NC,28403
+1114346004,Devang,Sharma,M.D.,Bethesda,MD,20817
+1114346921,Raymond,Roewe,,Dubuque,IA,52001
+1114356599,John,Stites,MD,Snellville,GA,30078
+1114360450,Lara,Matheson,M.D.,Houston,TX,77030
+1114361649,Giulia,Ippolito,MD,Ann Arbor,MI,48109
+1114363249,Christopher,Martin,M.D.,Phoenix,AZ,85012
+1114364064,Alexander,Tatem,MD,Indianapolis,IN,46260
+1114417862,Kenan,Ashouri,MD,Boynton Beach,FL,33435
+1114447315,Jason,Lee,MD,New Haven,CT,06511
+1114459476,Jared,Davis,D.O.,Mount Clemens,MI,48043
+1114485190,Jeffrey,Stagg,MD,Springfield,OR,97477
+1114901238,Douglas,Masson,M.D.,Glendale,AZ,85308
+1114902749,Lars,Ellison,M.D.,Rockport,ME,04856
+1114903424,William,Mauch,MD,Salina,KS,67401
+1114913225,Thomas,Tarter,M.D.,Decatur,IL,62526
+1114914223,Kevin,Perry,MD,Cary,NC,27518
+1114914900,Mitchell,Wiatrak,MD,Glasgow,KY,42141
+1114916483,Brian,Murphy,MD,Allentown,PA,18106
+1114919511,Winston,Barzell,M.D.,Sarasota,FL,34239
+1114919776,Rodney,Poffenberger,M.D.,Roanoke,VA,24018
+1114928967,Manuel,Grinberg,M.D.,East Patchogue,NY,11772
+1114929635,George,Klafter,,Cliffside Park,NJ,07010
+1114937067,Richard,Levin,MD,Aventura,FL,33180
+1114944790,Michael,Mangelson,M.D.,Salt Lake City,UT,84102
+1114945672,James,Cherry,M.D.,Berlin,MD,21811
+1114946142,Yale,Shulman,MD,Jersey City,NJ,07304
+1114949807,Jennifer,Anger,MD,San Diego,CA,92103
+1114950383,Edward,Loizides,M.D.,Bay Shore,NY,11706
+1114952074,Frederick,Walters,M.D.,Saint Louis,MO,63128
+1114967973,Philip,Buffington,MD,Cincinnati,OH,45245
+1114968260,Kuang-Yiao,Hsieh,MD,Bloomfield,NJ,07003
+1114968476,Lyric,Santiago,MD,Hilo,HI,96720
+1114968625,David,Gould,M.D.,Fort Worth,TX,76104
+1114969235,Michael,D'angelo,M.D.,Ocoee,FL,34761
+1114971512,Richard,Klump,M.D.,Gahanna,OH,43230
+1114974110,Nicolette,Jones,M.D.,Gallipolis,OH,45631
+1114977550,John,Moore,M.D.,Independence,MO,64055
+1114979382,Zeph,Okeke,MD,New Hyde Park,NY,11040
+1114980315,Mitchell,Klavans,M.D.,Largo,FL,33771
+1114981065,Alan,Geringer,M.D.,Baltimore,MD,21215
+1114981370,Mantu,Gupta,M.D.,New York,NY,10019
+1114981727,Stephen,Lieman,M.D.,Plano,TX,75093
+1114982154,Pernankel,Nayak,M.D.,Effingham,IL,62401
+1114983392,Sarat,Sabharwal,MD,Kissimmee,FL,34744
+1114994274,Soheil,Niku,MD,Simi Valley,CA,93065
+1114995362,Puneet,Sindhwani,MD,Toledo,OH,43614
+1114996212,David,Kleinerman,M.D.,Grass Valley,CA,95945
+1114998507,John,Coursey,MD,Bristol,TN,37620
+1114999851,Brian,Decastro,M.D.,Woodbridge,VA,22191
+1124001219,Peter,Lawrence,M.D.,Jackson,TN,38301
+1124002845,Christopher,Ng,M.D.,Los Angeles,CA,90048
+1124004734,Harry,Herr,MD,New York,NY,10021
+1124005145,Douglas,Altenbern,MD,Nashville,TN,37211
+1124006358,Rafael,Lopez,M.D.,Wellington,FL,33449
+1124013313,Melissa,Reigle,M.D.,Willoughby,OH,44094
+1124014048,Franklin,Leddy,MD,Westerly,RI,02891
+1124014659,Keith,Waguespack,MD,Irving,TX,75061
+1124015961,David,Sandock,MD,Milwaukee,WI,53211
+1124016225,William,Jaffe,MD,Philadelphia,PA,19104
+1124017314,Paul,Zbell,M.D.,Huntsville,AL,35801
+1124018999,Paul,Richardson,M.D.,Waterloo,IA,50702
+1124019682,Walter,Chiles,M.D.,Knoxville,TN,37923
+1124020110,Simon,Zadina,M.D.,Olympia,WA,98506
+1124020771,John,Logan,MD,Denver,CO,80206
+1124020870,Hamayun,Mian,M.D.,Green Bay,WI,54301
+1124024146,Louis,Galdieri,MD,West Orange,NJ,07052
+1124026034,Craig,Dawkins,M.D.,Gulfport,MS,39501
+1124026505,Robert,Nejat,M.D.,Mineola,NY,11501
+1124026851,Bruce,Frantz,D.O.,Hershey,PA,17033
+1124028501,David,Silver,MD,Brooklyn,NY,11220
+1124028899,Aldo,Suraci,MD,Berwick,PA,18603
+1124029582,Michael,Odonnell,MD,Iowa City,IA,52242
+1124032107,John,Ramsey,M.D.,Indianapolis,IN,46260
+1124046610,Ronald,Rubenstein,M.D.,Royal Oak,MI,48073
+1124047212,Steven,Koziol,M.D.,Lynchburg,VA,24501
+1124048111,Jeffrey,Asbury,MD,Greenville,NC,27834
+1124051248,Edward,Rutland,M.D.,West Monroe,LA,71291
+1124052519,Brett,Carver,MD,New York,NY,10021
+1124054614,Jeffrey,Yeamans,MD,Roseville,MI,48066
+1124055025,Lincoln,Maynes,MD,Riverside,CA,92505
+1124056619,Arthur,Tijerina,M.D.,Paris,TX,75460
+1124058219,Alexander,Gershman,MD,Los Angeles,CA,90048
+1124061890,Janet,Colli,M.D.,Jupiter,FL,33477
+1124068044,Jeffrey,Gordon,MD,Plymouth Meeting,PA,19462
+1124074786,Ganesh,Palapattu,M.D.,Ann Arbor,MI,48109
+1124076559,Geoffery,Engel,MD,Elk Grove Village,IL,60007
+1124077508,Lee,Evans,M.D.,Hopkinsville,KY,42240
+1124080445,Elizabeth,Albertson,M.D.,Rockport,ME,04856
+1124085634,Paul,Eber,M.D.,Germantown,TN,38138
+1124085758,Christian,Schwartz,DO,Spring Valley,IL,61362
+1124085790,Jose,Maymi Rivera,M.D.,Bayamon,PR,00961
+1124086541,Jayprakash,Patel,MD,Saint Louis,MO,63122
+1124087952,Paul,Hagood,MD,Tulsa,OK,74104
+1124090386,Ronald,Benoit,,Pittsburgh,PA,15219
+1124091939,Robert,Allen,M.D.,Melbourne,FL,32901
+1124092853,Francis,Mcgovern,MD,Boston,MA,02114
+1124096060,Bertram,Lewis,"M.D., PH.D. MBA FACS",Zephyrhills,FL,33542
+1124097118,Ziyad,Mugharbil,MD,Blairsville,GA,30512
+1124098173,Jason,Durbin,D.O.,Silverdale,WA,98383
+1124108600,David,Pfeffer,M.D.,Culpeper,VA,22701
+1124110275,David,Chavez,M.D.,Lebanon,NH,03756
+1124124086,Phillip,Wise,M.D.,Grand Rapids,MI,49503
+1124126594,Ronald,Swartz,M.D.,New Orleans,LA,70115
+1124128822,Blaine,Kristo,MD,Fernandina Beach,FL,32034
+1124134457,Alexander,Bernath,MD,Sherman,TX,75090
+1124144498,Walter,Parker,MD,Poughkeepsie,NY,12603
+1124157474,Sima,Porten,M.D,San Francisco,CA,94158
+1124160312,Seth,Lerner,M.D.,White Plains,NY,10601
+1124174560,Sepehr,Nowfar,M.D.,Whittier,CA,90603
+1124192489,Gordon,Brown,DO,Cherry Hill,NJ,08003
+1124205398,Sean,Fullerton,M.D.,Hawthorne,NY,10532
+1124218664,Samy,Heshmat,MD,Temple,TX,76508
+1124222799,Thomas,Hoang,MD,Houston,TX,77070
+1124261946,Victoriano,Romero,MD,Redding,CA,96001
+1124268230,Dana,Rice,MD,Manassas,VA,20110
+1124269055,Nicholai,Kiehl,MD,Fort Wayne,IN,46845
+1124274105,Christopher,Mitchell,MD,Wilmington,DE,19810
+1124275797,Efrossini,Kolios,MD,Latham,NY,12110
+1124280425,Andrew,Windsperger,MD,Sartell,MN,56377
+1124280920,Eric,Treat,MD,San Antonio,TX,78229
+1124282587,Ashley,Tapscott,D.O.,Huntersville,NC,28078
+1124287651,Robert,Welliver,MD,Albany,NY,12208
+1124312822,Benjamin,Carpenter,M.D.,Denver,CO,80211
+1124313184,Patrick,Cockerill,MD,Live Oak,TX,78233
+1124316088,Nicole,Szell,D.O.,Largo,FL,33771
+1124319850,William,Tabayoyong,"M.D.,PH.D",Rochester,NY,14642
+1124331723,Ali-Asghar,Zhumkhawala,M.D.,Glendora,CA,91741
+1124339403,Srinivas,Rajamahanty,M.D.,Carbondale,IL,62901
+1124344221,Michael,Amirian,M.D.,Flushing,NY,11355
+1124392113,Daniel,Greene,M.D.,Santa Cruz,CA,95065
+1124407010,Adam,Miller,M.D.,Rochester,MN,55905
+1124413364,Johnathan,Khusid,,New York,NY,10029
+1124445168,Daniel,Groves,M.D.,Cambridge,MA,02139
+1124447271,Sandeep,Mehta,M.D.,Hartford,CT,06102
+1124447453,Katherine,Shapiro,M.D.,Somerville,NJ,08876
+1124464565,Preston,Milburn,M.D.,Waco,TX,76712
+1124468632,Raul,Fernandez-Crespo,MD,Tampa,FL,33606
+1124482385,Duncan,Sloan,MD,Spokane,WA,99202
+1124523766,Tyler,Wittmann,MD,Milwaukee,WI,53226
+1124549233,Andre Filipe,Miranda,MD,Lagrange,GA,30240
+1124551775,John,Cochrane,M.D.,Detroit,MI,48201
+1124556972,Albert,Geskin,MD,Monroeville,PA,15146
+1124557822,Timothy,O'rourke,MD,Hyannis,MA,02601
+1134102015,Daniel,Burzon,MD,Brick,NJ,08724
+1134104748,Robert,Ferrigni,M.D.,Phoenix,AZ,85054
+1134105166,William,Selleck,M.D.,Manchester,NH,03103
+1134106982,Nathan,Hoffmann,MD,Duluth,MN,55805
+1134113673,Christopher,Dixon,M.D,New York,NY,10075
+1134114051,Anthony,Ricottone,M.D.,Orchard Park,NY,14127
+1134115819,David,Jablonski,M.D.,Clermont,FL,34711
+1134120504,Bechara,Tabet,MD,Canton,OH,44708
+1134122237,Francis,Ogbolu,D.O.,Piqua,OH,45356
+1134123102,Howard,Altman,MD,Philadelphia,PA,19111
+1134123904,William,Roman Aqueron,M.D.,Mayaguez,PR,00682
+1134124035,Charles,Daniel,M.D.,Roanoke,VA,24016
+1134127269,Patrick,Wherry,MD,San Jose,CA,95124
+1134128267,Eliecer,Kurzer,MD,Miramar,FL,33029
+1134129018,John,Kritsas,M.D.,Hinsdale,IL,60521
+1134129679,Samuel,Kim,MD,Lafayette,IN,47905
+1134131196,Leonard,Liang,M.D.,Los Angeles,CA,90057
+1134138019,Faiyaaz,Jhaveri,MD,Davenport,FL,33837
+1134142722,James,Griffin,M.D.,Elgin,IL,60123
+1134150410,J. Wesley,Turner,M.D.,Anchorage,AK,99508
+1134152333,Ralph,Duckett,MD,Lenoir,NC,28645
+1134152937,Vitaly,Margulis,MD,Dallas,TX,75390
+1134156490,Zachary,Mucher,M.D.,Houston,TX,77024
+1134156664,Robert,Schoenvogel,M.D.,Dallas,TX,75246
+1134158488,Douglas,Birns,M.D.,New York,NY,10021
+1134161201,Raphael,Novogrodsky,M.D.,Bronx,NY,10466
+1134163553,Richard,Rose,M.D.,Morganton,NC,28655
+1134173032,Christopher,Amling,"M.D., F.A.C.S.",Portland,OR,97239
+1134173339,Ronney,Abaza,M.D.,Worthington,OH,43085
+1134176076,Melinda,Knight,MD,Wakefield,RI,02879
+1134178890,Steven,Previte,M.D.,North Andover,MA,01845
+1134184815,Jason,Gee,MD,Burlington,MA,01805
+1134190820,William,Niedrach,MD,Medford,NJ,08055
+1134191208,Mike,Siroky,M.D.,Boston,MA,02118
+1134195639,Niall,Heney,MB MD,Boston,MA,02114
+1134199748,Richard,Altman,MD,Chelmsford,MA,01824
+1134200066,George,Miquel,M.D.,Jacksonville,FL,32216
+1134213754,Mark,Rosen,M.D.,Santa Cruz,CA,95065
+1134219348,Francisco,Carpio,"M.D.,",Tallahassee,FL,32308
+1134229966,Behnam,Shenassa,M.D.,Los Angeles,CA,90041
+1134230014,Mathew,Sorensen,"MD, MS",Seattle,WA,98195
+1134232291,Benjamin,Fand,MD,Cranford,NJ,07016
+1134234610,Gregory,Anderson,MD,Marshfield,WI,54449
+1134239262,Mia,Duncan,MD,Westerville,OH,43081
+1134242803,Shaun,Wason,MD,Boston,MA,02118
+1134272560,Justin,Gould,M.D.,Milton,MA,02186
+1134291420,Dilip,Doctor,M.D,Rego Park,NY,11374
+1134292329,Saurabh,Agarwal,MD,Midland Park,NJ,07432
+1134293723,Binod,Sinha,MD,Hazle Township,PA,18202
+1134298482,Lucy,Coccimiglio,D.O.,Waterford,MI,48328
+1134311483,Jorge,Crespo Carrillo,M.D.,Rio Piedras,PR,00923
+1134323595,Arvind,Patel,M.D.,Old Bridge,NJ,08857
+1134323728,Joseph,Sonstein,MD,Galveston,TX,77555
+1134341761,Aaron,Lentz,M.D.,Raleigh,NC,27609
+1134352115,Abhay,Singh,M.D.,Philadelphia,PA,19107
+1134355167,Andrew,Arther,M.D.,Kansas City,KS,66160
+1134362502,Kasey,Morrison,MD,Silver Spring,MD,20910
+1134370182,Keith,Kowalczyk,MD,Washington,DC,20007
+1134370422,Brian,Shuch,MD,Los Angeles,CA,90095
+1134380496,William,Terry,MD,Johnson City,TN,37604
+1134381650,Eric,Simpson,D.O.,Dixon,IL,61021
+1134384415,Imani,Rosario,M.D.,Hamilton,NJ,08690
+1134387343,Alexei,Wedmid,MD,Princeton,NJ,08540
+1134388325,Erik,Pasin,MD,Mission Viejo,CA,92691
+1134394430,Peter,Headley,M.D.,Albuquerque,NM,87102
+1134407166,Jonathan,Shiau,M.D.,Huntington Beach,CA,92646
+1134410582,Erik,Pattison,M.D.,Keene,NH,03431
+1134411390,Maryellen,Pace,MD,Greensboro,NC,27403
+1134414477,Daniel,Reznicek,M.D.,Bellingham,WA,98226
+1134419328,Justin,Benabdallah,MD,Washington,DC,20016
+1134428808,Timothy,Atkinson,M.D.,Frankfort,KY,40601
+1134439086,Monty,Aghazadeh,MD,Houston,TX,77094
+1134446339,Christopher,Keto,M.D.,Fort Wayne,IN,46804
+1134449267,Jason,Skenazy,M.D.,Bozeman,MT,59715
+1134509987,Peter,Liu,D.O.,East Lansing,MI,48823
+1134515083,Justin,Penticuff,,Lexington,KY,40504
+1134532609,Bryce,Wyatt,M.D,Roswell,GA,30076
+1134545346,Elisabeth,Sebesta,MD,Nashville,TN,37232
+1134546054,Todd,Yecies,M.D.,Burlingame,CA,94010
+1134548597,Jeffrey,Redshaw,M.D.,Missoula,MT,59808
+1134551278,Raj,Satkunasivam,"M.D., FRCSC",Houston,TX,77030
+1134562630,Robert,Gerhard,M.D.,Dublin,OH,43016
+1134563372,David,Greenwald,M.D.,Santa Cruz,CA,95065
+1134570690,Michael,Rudoff,D.O.,Fort Wayne,IN,46825
+1134618945,Peter,Domenig,DO,Salisbury,NC,28144
+1134619372,Graham,Lieberman,"MD, MBA",Boston,MA,02114
+1134624695,Alp Tuna,Beksac,MD,Cleveland,OH,44195
+1134626153,Max,Drescher,MD,Maywood,NJ,07607
+1134647183,Nitin,Abrol,,Oklahoma City,OK,73112
+1144200270,Marc,Arnkoff,M.D.,Southfield,MI,48034
+1144208430,Mitchell,Humphreys,M.D.,Phoenix,AZ,85054
+1144208851,Ann,Fenton,M.D.,Tamuning,GU,96913
+1144212598,Kiritkumar,Pandya,M.D.,Lakewood,NJ,08701
+1144214693,Nirit,Rosenblum,M.D.,New York,NY,10017
+1144219320,John,Hinson,M.D.,Athens,AL,35611
+1144219791,Mark,Miller,M.D.,Cranford,NJ,07016
+1144220807,Steven,Ochs,MD,Canton,OH,44708
+1144221474,Adley,Raboy,M.D.,Staten Island,NY,10301
+1144222647,Henry,Pham,M.D.,Sugar Land,TX,77479
+1144223827,Gary,Johnson,M.D.,Salt Lake City,UT,84102
+1144230731,David,Sigalow,MD,Okeechobee,FL,34972
+1144230889,Anna,Mcnanley,M.D.,St Louis Park,MN,55426
+1144232778,Wilfred,Kearse,M.D.,La Mesa,CA,91942
+1144236340,Bernard,Stanfield,M.D.,Pinehurst,NC,28374
+1144242470,John,Seigne,M.B.,Lebanon,NH,03756
+1144249947,P.Kenneth,Brownstein,M.D.,Philadelphia,PA,19107
+1144253352,Joyce,Loeffler,MD,Woodland,CA,95695
+1144259730,Vincent,Bird,MD,Gainesville,FL,32610
+1144259946,Shlomi,Albert,M.D.,Fountain Valley,CA,92708
+1144264680,Scott,Wheeler,MD,Brainerd,MN,56401
+1144265497,Harland,Stresing,M.D.,Chesapeake,VA,23321
+1144268939,John,Cargill,MD,Asheville,NC,28801
+1144269697,Robert,Williams,D.O.,Tyler,TX,75701
+1144275173,Omid,Rofeim,MD,Garden City,NY,11530
+1144278722,David,Cozzolino,MD,Wilmington,DE,19810
+1144278854,Vi,Hua,MD,Goodyear,AZ,85395
+1144279795,Todd,Fleming,M.D.,Edina,MN,55435
+1144284688,Mark,Christ,M.D.,Aventura,FL,33180
+1144289026,Stephen,Schatz,MD,York,PA,17403
+1144291527,Timothy,Duffin,MD,Clarksville,TN,37043
+1144293499,Andrew,Siegel,MD,Maywood,NJ,07607
+1144293788,Stephen,Jackman,,Pittsburgh,PA,15213
+1144309162,Mark,Funk,MD,Keene,NH,03431
+1144311564,Khaled,Hafez,"MB, BCH",Ann Arbor,MI,48109
+1144334467,Eric,Singer,"MD, MA",Columbus,OH,43212
+1144345455,Timothy,Hutchings,DO,Medford,OR,97504
+1144359977,Roland,Chen,M.D.,Lebanon,NH,03756
+1144361908,Douglas,Swartz,MD,Jacksonville,FL,32204
+1144372194,Ikechukwu,Oguejiofor,M.D.,Chicago Ridge,IL,60415
+1144386533,Thomas,Guzzo,MD,Philadelphia,PA,19104
+1144387705,Ori,Hampel,M.D.,Pasadena,TX,77504
+1144394107,John,Kishel,M.D.,Columbia,MD,21044
+1144409145,J,Yurkanin,M.D.,Tucson,AZ,85712
+1144425687,Brian,Dicks,M.D.,San Diego,CA,92103
+1144426792,Ali,Dabaja,M.D,Detroit,MI,48202
+1144435041,Dmitriy,Nikolavsky,M.D.,Syracuse,NY,13210
+1144464439,Jules,Manger,M.D.,Tucson,AZ,85741
+1144464942,John,Bodkin,MD,Cheektowaga,NY,14225
+1144477795,Matei,Andreoiu,M.D.,Rockledge,FL,32955
+1144481615,Daniel,Caruso,M.D.,Jupiter,FL,33458
+1144486044,Cheryl,Shih,MD,Wenatchee,WA,98801
+1144487281,Donald,Wenner,M.D.,Roswell,NM,88203
+1144487943,Michael,Herman,M.D.,New York,NY,10065
+1144488503,Stephen,Mock,M.D.,Everett,WA,98201
+1144519018,Beibei,Oelrich,M.D. PHD,Fort Walton Beach,FL,32547
+1144521329,Diana,Londono,MD,Glendora,CA,91741
+1144532391,Mark,Runnels,,Jackson,MS,39202
+1144540386,Paul,Bower,M.D.,Port Saint Lucie,FL,34952
+1144541996,Akwasi,Boateng,M.D.,East Brunswick,NJ,08816
+1144544248,Jessica,Lloyd,MD,Springfield,OR,97477
+1144546433,Matthew,Uhlman,M.D.,Yakima,WA,98902
+1144555475,Philip,Zhao,M.D.,New York,NY,10016
+1144575689,Andrew,Cohen,M.D.,Baltimore,MD,21224
+1144588302,Sevann,Helo,M.D.,Rochester,MN,55905
+1144595299,Philip,May,MD,Kirkland,WA,98034
+1144596974,Jared,Wallen,M.D.,Brandon,FL,33511
+1144604398,Matthew,Smith,MD,Centerville,OH,45459
+1144607508,Johnathan,Doolittle,MD,Cleveland,OH,44195
+1144607805,Katherine,Cockerill,MD,San Antonio,TX,78258
+1144614355,Jonathan,Zurawin,,Stockbridge,GA,30281
+1144619933,Adarsh,Manjunath,MD,Chicago,IL,60611
+1144621657,Mark,Ferretti,M.D.,Lakewood,NJ,08701
+1144631151,Andrew,Navetta,M.D.,Temple,TX,76508
+1144640855,Eihab,Akary,MD,Sarasota,FL,34239
+1144662875,Daniel,Zapata Vargas,MD,Ocala,FL,34471
+1144664673,Charles,Lorentz,M.D.,Atlanta,GA,30322
+1144665886,Pansy,Uberoi,"MD, MPH",Jbsa Lackland,TX,78236
+1144674110,Librado,Valadez,MD,San Antonio,TX,78217
+1144675588,Kazi,Hossain,DO,Riverhead,NY,11901
+1144684648,Christine,Liaw,MD,Bridgeport,CT,06606
+1144719287,Andrew,Schwinn,DO,Brighton,MI,48114
+1144887746,Evan,Gibbs,MD,Jacksonville,FL,32224
+1154301182,Naveen,Kella,M.D.,San Antonio,TX,78240
+1154302263,Joel,Rach,MD,Monongahela,PA,15063
+1154308872,Michael,Metro,M.D.,Philadelphia,PA,19140
+1154309516,Steven,Sukin,M.D.,Tomball,TX,77375
+1154309573,Kyle,Weld,MD,San Antonio,TX,78229
+1154314193,Steven,Jensen,MD,Saginaw,MI,48601
+1154315877,Mark,Byron,MD,Jesup,GA,31545
+1154319135,Russell,Owens,MD,Camp Hill,PA,17011
+1154319549,Kevin,Mcgeagh,MD,Annapolis,MD,21401
+1154321800,Joseph,Antario,UROLOGIST,Phillipsburg,NJ,08865
+1154323392,Donald,Weese,MD,Burley,ID,83318
+1154326395,Benedicto,Colon-Perez,MD,Bayamon,PR,00959
+1154328375,Jason,Lemoine,MD,Clermont,FL,34711
+1154329134,Jeffrey,Lamont,MD,Newton,MA,02462
+1154329613,Jenelle,Foote,M.D.,Atlanta,GA,30324
+1154353076,Jonathan,Herschman,M.D.,Adrian,MI,49221
+1154360121,Geoffrey,Deleary,MD,Hickory,NC,28601
+1154365625,Devin,Johnson,M.D.,Eau Claire,WI,54701
+1154366706,Azeem,Haleem,MD,Sandwich,IL,60548
+1154376325,Christen,Alevizatos,M.D.,Baltimore,MD,21239
+1154380046,Omar,Atassi,M.D.,Neenah,WI,54956
+1154382083,Kenneth,Blue,M.D.,Baton Rouge,LA,70810
+1154383743,Marc,Greenstein,DO,Atlanta,GA,30319
+1154383792,Henry,Moskowitz,MD,Corona,NY,11368
+1154384352,John,Wang,D.O.,Yuba City,CA,95991
+1154386324,Howard,Goldman,MD,Cleveland,OH,44195
+1154390458,Michael,Esposito,MD,Maywood,NJ,07607
+1154394096,Joseph,Heineman,M.D.,Newport,RI,02840
+1154394997,Melody,Denson,MD,Austin,TX,78717
+1154398618,Kevin,Killeen,M.D.,Pittsfield,MA,01201
+1154399483,Tim,Sidor,MD,Parma,OH,44129
+1154401818,Christopher,Smith,M.D.,Houston,TX,77030
+1154402139,Charles,Walker,M.D.,Newburgh,NY,12550
+1154414027,Stephen,Lucero,MD,Santa Fe,NM,87505
+1154414548,Fred,Hadley,MD,Lexington,KY,40504
+1154442507,Lance,Wiebusch,MD,Lincoln,NE,68516
+1154450708,Paul,Fadden,MD,Edina,MN,55435
+1154460194,John,Huffer,MD,Juneau,AK,99801
+1154494607,George,Quimby,MD,Keene,NH,03431
+1154495018,Osama,Al-Omar,M.D.,Warren,PA,16365
+1154511012,Mark,Perlmutter,M.D.,Manasquan,NJ,08736
+1154518629,Mehran,Movassaghi,M.D.,Santa Monica,CA,90404
+1154522399,Charles,Marguet,MD,Greenville,SC,29605
+1154525640,Kelly,Stratton,MD,Oklahoma City,OK,73104
+1154530137,Craig,Block,M.D.,Iowa City,IA,52242
+1154533297,Eric,Lauer,MD,Yakima,WA,98902
+1154550168,Andrew,Wright,M.D.,Tucson,AZ,85715
+1154558104,Andrew,Luea,D.O.,Traverse City,MI,49684
+1154559904,Thomas,Longo,M.D.,Durham,NC,27705
+1154581965,Eric,Biewenga,M.D.,Colorado Springs,CO,80917
+1154589364,Stephen,Bennett,MD,Edina,MN,55435
+1154593689,Sean,Sawh,MD,Wellington,FL,33449
+1154615060,Laura,Martinez,MD,Sugar Land,TX,77479
+1154631760,Ruben,Pinkhasov,MD,Syracuse,NY,13202
+1154632453,Weil,Lai,M.D.,Flemington,NJ,08822
+1154632602,Arash,Akhavein Mohammadi,M.D.,Los Angeles,CA,90048
+1154648640,Targhee,Morris,M.D.,Spanish Fork,UT,84660
+1154648764,Megan,Bing,MD,Winchester,VA,22601
+1154680056,Tillman,Hudson,M.D.,Tulsa,OK,74136
+1154681369,Joshua,Roth,M.D.,Indianapolis,IN,46202
+1154681906,Andrea,Chan,M. D.,Monterey,CA,93940
+1154683829,David,Cahn,"DO, MBS, FACOS",Media,PA,19063
+1154702033,Bryan,Pham,M.D.,Houston,TX,77004
+1154709228,Andrew,Eschenroeder,M.D.,Richmond,VA,23235
+1154718898,Luke,Sebel,"MD, PHD",Tampa,FL,33607
+1154731685,Kelli,Gross,M.D.,Scottsdale,AZ,85259
+1154734127,Abhinav,Khanna,MD,Rochester,MN,55905
+1154740777,Svetlana,Avulova,M.D.,Phoenix,AZ,85012
+1154749232,Haider,Rahbar,MD,Port Huron,MI,48060
+1154765147,Julia,Willingham,MD,Fort Worth,TX,76109
+1154768604,Mimi,Zhang,MD,Durham,NC,27704
+1154776813,Benjamin,Harper,M.D.,Augusta,GA,30912
+1154779304,Ankeet,Shah,MD,Los Angeles,CA,90089
+1154812808,Hitesh,Dube,MD,Indianapolis,IN,46202
+1154816866,Dordaneh,Sugano,,Burlington,MA,01805
+1154826402,Christopher,Ortengren,MD,Concord,NH,03301
+1154855401,Bradley,Houston,M.D.,Memphis,TN,38163
+1154860526,Hariharan,Palayapalayam Ganapathi,MD,Tampa,FL,33606
+1154946606,Catherine,Wallace,MD,Dallas,GA,30132
+1164159257,Brendan,Wallace,MD,Bangor,ME,04401
+1164401469,Jerald,Hochstetler,MD,Elkhart,IN,46514
+1164402095,Bernard,Howerter,M.D.,Coffeyville,KS,67337
+1164402806,Heather,Gottlieb,D.O.,Doylestown,PA,18901
+1164407136,William,Sanderson,M.D.,Mobile,AL,36608
+1164407417,Steven,Bossinger,MD,Melbourne,FL,32901
+1164413720,Charles,Teeple,MD,Amarillo,TX,79106
+1164416897,Steven,Rowe,M.D.,Middletown,NY,10941
+1164418133,Edward,Kaplan,MD,Dallas,TX,75230
+1164418166,Omid,Hakimian,MD,Middle Village,NY,11379
+1164421509,Kevin,Bordeau,MD,Pittsburgh,PA,15243
+1164424057,William,Jow,MD,Holmdel,NJ,07733
+1164425047,Michael,Glass,MD,Parker,CO,80134
+1164427449,Kurt,Meissner,M.D.,San Antonio,TX,78229
+1164427621,Ralph,Henderson,M.D.,Shreveport,LA,71106
+1164427662,Gordon,Healey,M.D.,Port Arthur,TX,77642
+1164428140,Edward,Wright,M.D.,Danville,VA,24541
+1164436523,Ronald,Suh,M.D.,Avon,IN,46123
+1164446522,Nathan,Shappley,M.D.,Hattiesburg,MS,39402
+1164447520,Mark,Plante,MD,Burlington,VT,05401
+1164457180,Charles,Coleman,MD,Evans,GA,30809
+1164457198,Francis,Fraser,MD,Leesville,LA,71446
+1164457867,David,Penson,M.D.,Nashville,TN,37232
+1164458782,Jonathan,Mobley,MD,Fairfax,VA,22033
+1164461448,Jean,Joseph,MD,Rochester,NY,14642
+1164462412,Jerry,Givens,M.D.,Branson,MO,65616
+1164463204,Carleen,Bensen,MD,Port Angeles,WA,98362
+1164463451,Evan,Cohn,M.D.,Gahanna,OH,43230
+1164465670,Daniel,Lehman,M.D.,Fishkill,NY,12524
+1164466462,Yefim,Sheynkin,M.D.,East Setauket,NY,11733
+1164466728,Rajveer,Purohit,M.D.,New York,NY,10021
+1164470076,Darlys,Hofer,MD,Sioux Falls,SD,57108
+1164472643,William,Scaljon,M.D.,Atlanta,GA,30309
+1164476453,Margaret,Wolf,M.D.,Clinton,IA,52732
+1164476628,Jack,Mcaninch,MD,San Francisco,CA,94110
+1164477824,Matthew,Munding,M.D.,Missoula,MT,59804
+1164479507,Brian,Levin,M.D.,Westminster,MD,21157
+1164479598,Jay,Guido,M.D.,Ormond Beach,FL,32174
+1164482949,Tammy,Bloom,M.D.,Vancouver,WA,98686
+1164485421,Robert,Luangkhot,M.D.,Flushing,NY,11355
+1164486262,Sean,Heron,M.D.,St Petersburg,FL,33710
+1164487088,Neil,Friedman,M.D.,Wilmette,IL,60091
+1164487674,Aaron,Spitz,M.D.,Laguna Hills,CA,92653
+1164488581,Gennaro,Falco,MD,Oneonta,NY,13820
+1164490496,Martin,Kosdrosky,MD,Middleburg Heights,OH,44130
+1164491627,Philippe,Zimmern,MD,Dallas,TX,75390
+1164494852,Darwich,Bejany,MD,Miami,FL,33133
+1164495362,Avelino,Pinon,MD,Miami,FL,33173
+1164502142,Hunter,Wessells,,Seattle,WA,98104
+1164505483,Jack,Cassell,MD,Mount Dora,FL,32757
+1164506572,Carl,Britton,M.D.,Lubbock,TX,79416
+1164514527,William,Roberts,MD,Ann Arbor,MI,48109
+1164518908,Peter,Jones,M.D.,Pocatello,ID,83201
+1164520417,Tony,Luongo,MD,Boston,MA,02111
+1164520466,Kwabena,Pobi,M.D.,Sebring,FL,33870
+1164528667,Ajay,Nangia,MD,Kansas City,MO,64108
+1164528873,Kymber,Habenicht,MD,Chattanooga,TN,37404
+1164531034,Sandeep,Sawhney,M.D.,Joliet,IL,60431
+1164531422,Bhalchandra,Parulkar,"MD, MCH",Worcester,MA,01605
+1164531877,Asim,Razzaq,MD,Saint Peters,MO,63376
+1164534640,Eric,Vogt,MD,Jefferson City,MO,65109
+1164539136,Timothy,Brand,MD,Tacoma,WA,98431
+1164586988,David,Sussman,M.D.,Brooklyn,NY,11243
+1164588711,Sean,Egan,M.D.,West Orange,NJ,07052
+1164589776,John,Milner,MD,Skokie,IL,60076
+1164606042,Justin,Watson,M.D.,Marietta,GA,30060
+1164612024,Jason,Nelles,M.D.,Cameron Park,CA,95682
+1164613808,Julia,Golden,D.O.,Sacramento,CA,95816
+1164615936,Paul,Rusilko,D.O.,Pittsburgh,PA,15219
+1164620548,Rashmi,Licht,MD,E Providence,RI,02914
+1164625737,Alok,Shrivastava,"MD, MCH",Weston,FL,33331
+1164631149,Colin,Goudelocke,M.D.,New Orleans,LA,70121
+1164637054,Joseph,Mashni,M.D.,Gilbert,AZ,85234
+1164659801,Kristen,Scarpato,MD,Nashville,TN,37232
+1164661765,Aqsa,Khan,MD,Scottsdale,AZ,85259
+1164666228,Shelby,Morrisroe,M.D.,Torrance,CA,90503
+1164669404,Jens,Carlsen,DO,Port Charlotte,FL,33952
+1164670287,Seth,Cohen,M.D.,Irvine,CA,92618
+1164675245,Michael,Whalen,M.D.,Washington,DC,20037
+1164679262,Bradley,Erickson,M.D.,Iowa City,IA,52242
+1164684239,Reid,Graves,M.D.,Saint Petersburg,FL,33701
+1164686606,Matthew,Fine,M.D.,Miramar,FL,33029
+1164687539,Ranko,Miocinovic,M.D.,Lombard,IL,60148
+1164697611,Michael,Hoffman,M.D.,Middletown,NY,10940
+1164712469,Ryan,Hankins,M.D.,Washington,DC,20007
+1164721338,Mccabe,Kenny,M.D.,Clive,IA,50325
+1164722450,Gladys,Ng,"MD,MPH",Burbank,CA,91505
+1164726329,Drew,Freilich,MD,Atlanta,GA,30342
+1164730917,Jed,Robinson,D.O.,Winnsboro,LA,71295
+1164747085,Joseph,Zabell,M.D.,Edina,MN,55435
+1164749909,Michael,Pinsky,MD,Slidell,LA,70461
+1164765277,Neel,Parekh,M.D.,Akron,OH,44302
+1164786091,Roger,Chen,M.D.,Newnan,GA,30265
+1164806667,Brittney,Cotta,M.D.,Houston,TX,77030
+1164817631,Joseph,Caputo,M.D.,Summit,NJ,07901
+1164840682,Daniel,Rittenberg,MD,Kingston,PA,18704
+1164846986,Derek,Prabharasuth,MD,Miami,FL,33175
+1164849303,Julia,Han,,Gainesville,FL,32610
+1164861969,Michael,Lao,M.D.,Lancaster,CA,93534
+1164868493,Nicholas,Kavoussi,M.D.,Nashville,TN,37232
+1164868824,Derek,Lomas,MD,Rochester,MN,55905
+1164873816,Garrick,Greear,M.D.,Longmont,CO,80501
+1164877809,Jacob,Oppenheimer,M.D.,Washington,DC,20037
+1164886644,Jacob,Jipp,M.D.,Clive,IA,50325
+1164914040,Matthew,Loecher,MD,Scranton,PA,18503
+1164927927,Clayton,Davis,DO,Bishop,CA,93514
+1164952594,Rohit,Patil,,Waldorf,MD,20603
+1164956520,Daniel,Wang,,Brandywine,MD,20613
+1164962155,Emily,Kelly,MD,Melbourne,FL,32901
+1174013916,Thomas,Lowrey,MD,Colorado Springs,CO,80923
+1174050538,David,Cochran,MD,Oklahoma City,OK,73104
+1174056139,Jeffrey,Morrison,M.D.,Aurora,CO,80045
+1174500953,Evangelos,Geraniotis,M.D.,Hyannis,MA,02601
+1174501951,George,Zakharia,MD,Wichita,KS,67226
+1174502173,Karl,Westenfelder,M.D.,Missoula,MT,59808
+1174503106,Andrew,Tobon,MD,San Antonio,TX,78235
+1174503478,Bernard,Gburek,MD,Scottsdale,AZ,85255
+1174504914,J,Atwell,MD,Vero Beach,FL,32960
+1174509814,Jay,Motola,MD,New York,NY,10021
+1174515175,Thomas,Benz,MD,Weston,WV,26452
+1174518401,Lee,Epstein,MD,Jacksonville Beach,FL,32250
+1174520621,Michael,Ziegelbaum,MD,Lake Success,NY,11042
+1174520936,Parvez,Mahmood,M.D.,Toms River,NJ,08755
+1174521710,Shashi,Shah,MD,Valley Stream,NY,11580
+1174522577,Jon,Glass,M.D.,Marrero,LA,70072
+1174525257,Damara,Kaplan,"PHD, M.D.",Albuquerque,NM,87109
+1174526198,Jon,Morton,MD,Omaha,NE,68114
+1174527113,Bruce,Rosenfeld,M.D.,Virginia Beach,VA,23462
+1174528178,Narayana,Ambati,M.D.,Fresno,CA,93720
+1174528459,Sammy,Vick,M.D.,San Antonio,TX,78229
+1174528699,Vincent,Catallozzi,M.D.,West Warwick,RI,02893
+1174529309,John,Connolly,M.D.,Burlingame,CA,94010
+1174529366,G,Healey,M.D.,Port Arthur,TX,77642
+1174533228,Patrick,Sweeney,M.D.,Battle Creek,MI,49015
+1174535918,Alireza,Moinzadeh,MD,Burlington,MA,01805
+1174539167,Edward,Barton,MD,Novi,MI,48374
+1174539605,Jonathan,Fleischmann,MD,Bronx,NY,10461
+1174540751,David,Dimarco,MD,Springfield,OR,97477
+1174542823,Deborah,Glassman,M.D.,Philadelphia,PA,19107
+1174543821,Roger,Williams,M.D.,Dothan,AL,36305
+1174546568,Siamak,Daneshmand,M.D.,Los Angeles,CA,90033
+1174548762,Marianne,Passarelli,MD,New Haven,CT,06511
+1174558191,Mark,Cain,MD,Evans,GA,30809
+1174559728,Stewart,Landau,MD,American Fork,UT,84003
+1174560221,Marc,Hodroff,M.D.,Portland,ME,04102
+1174561369,Jan,Werner,M.D.,Amarillo,TX,79106
+1174562425,Edward,Messing,MD,Rochester,NY,14642
+1174562714,Kristofer,Wagner,MD,Temple,TX,76508
+1174565709,Jesse,Little,M.D.,Oklahoma City,OK,73120
+1174566756,Parvez,Shah,M.D.,Laurel,MD,20707
+1174569362,Marc,Pliskin,DO,Cincinnati,OH,45211
+1174570154,Mark Anthony,Gonzalgo,M.D.,Miami,FL,33136
+1174573125,Brian,Benway,MD,West Hollywood,CA,90048
+1174573604,Graeme,Steele,MD,Boston,MA,02115
+1174574180,Jeffrey,Dann,MD,Palm Coast,FL,32164
+1174577704,James,Cochran,M.D.,Dallas,TX,75231
+1174579940,Clifford,Johnson,M.D.,Hendersonville,NC,28792
+1174583686,Frederick,Greenstein,M.D.,Brooklyn,NY,11212
+1174584593,Claus,Roehrborn,MD,Dallas,TX,75390
+1174584809,Antonio,Reyes,MD,Pembroke Pines,FL,33026
+1174585947,George,Newsome,M.D.,Winston-Salem,NC,27103
+1174586366,Brett,Mellinger,MD,Garden City,NY,11530
+1174587604,Marc,Gittelman,M.D.,Aventura,FL,33180
+1174588487,Brian,Guz,MD,St Clair Shores,MI,48081
+1174589709,Stuart,Diamond,MD,Salem,NJ,08079
+1174589766,David,Cheng,M.D.,Savannah,GA,31405
+1174591762,Andranik,Howhannesian,,Fair Lawn,NJ,07410
+1174595508,Michael,Howard,M.D.,Manasquan,NJ,08736
+1174603757,Scott,Neusetzer,M.D.,Lafayette,LA,70503
+1174609127,Manoj,Monga,MD,San Diego,CA,92103
+1174616437,Christopher,Porter,MD,Seattle,WA,98101
+1174616692,Mark,Bilowus,M.D.,Reston,VA,20190
+1174622120,Thomas,Slabaugh,MD,Lexington,KY,40504
+1174625693,Keith,Schulze,MD,Albany,OR,97321
+1174628127,Catherine,Schwender,MD,Watkinsville,GA,30677
+1174630032,Jean Francois,Eid,MD,New York,NY,10065
+1174635593,Diane,Hartman,MD,Golden,CO,80401
+1174644314,Ernest,Mcphail,MD,Clemmons,NC,27012
+1174645329,Frank,Casey,M.D.,Macon,GA,31210
+1174681142,Lynn,Lyons,D.O.,Cordele,GA,31015
+1174688683,Anegundi,Nagendra,MD,Lawrenceburg,IN,47025
+1174689814,Lee,Koster,M.D.,New Kensington,PA,15068
+1174695647,Anita,Pillai-Allen,M.D.,Silver Spring,MD,20902
+1174705313,David,Rosenberg,M.D.,Manchester,CT,06040
+1174710578,Prithipal,Sethi,M.D.,Stockton,CA,95204
+1174713218,Patrick,Kenney,M.D.,New Haven,CT,06519
+1174718399,Jeffrey,Bassett,"M.D., M.P.H.",Newport Beach,CA,92663
+1174720569,Marina,Cheng,MD,Silverdale,WA,98383
+1174727960,Joshua,Stern,MD,Stoneham,MA,02180
+1174749907,John,Rabets,MD,Toledo,OH,43614
+1174750129,Nick,Liu,M.D.,Syracuse,NY,13210
+1174750970,Mohammed,Haseebuddin,M.D.,Frederick,MD,21702
+1174758262,Priyanka,Gupta,M.D.,Ann Arbor,MI,48109
+1174758965,Pranav,Sharma,,Detroit,MI,48202
+1174762116,Benjamin,Scoll,M.D.,Portland,ME,04102
+1174772735,Philippa,Cheetham,MBCHB (HONS) MD MRCS,Kew Gardens,NY,11415
+1174780852,Naveen,Pokala,M.D.,Columbia,MO,65201
+1174784888,Molly,Williams,MD,Colorado Springs,CO,80910
+1174785794,Adam,Luchey,M.D.,Virginia Beach,VA,23462
+1174793806,Andrew,Smith,M.D.,Walnut Creek,CA,94598
+1174796353,Kirk,Anderson,M.D.,Aurora,CO,80045
+1174799837,John,Kefer,MD PHD,Boulder,CO,80303
+1174813638,Britt,Conroy,"MD, PHD",Willowick,OH,44095
+1174813786,Matthew,Meissner,M.D.,Danville,PA,17822
+1174816300,Rachel,Moses,M.D.,Lebanon,NH,03756
+1174818710,Drew,Palmer,M.D.,Tampa,FL,33607
+1174841654,Aaron,Weinberg,,Baltimore,MD,21208
+1174844245,Jeremy,Reese,MD,Pleasant Prairie,WI,53158
+1174865810,Farzana,Faisal,MD,Scottsdale,AZ,85251
+1174884886,Aaron,Benham,MD,Oklahoma City,OK,73120
+1174889760,Ilan,Safir,M.D.,Manhasset,NY,11030
+1174901581,Bradley,Garden,MD,Coral Springs,FL,33076
+1174919948,Jonathan,Corbett,MD,Worthington,OH,43085
+1174933048,Kyle,Ericson,MD,Westlake,OH,44145
+1174934624,Alyssa,Gracely,M.D.,Salisbury,MD,21804
+1174941769,Matthew,Houlihan,D.O.,Lake Barrington,IL,60010
+1174962757,Michael,Degen,M.D.,Tarrytown,NY,10591
+1174966600,Matthew,Strain,M.D.,Marrero,LA,70072
+1174974828,Daniel,Holst,M.D.,Billings,MT,59101
+1174977961,Kyla,Velaer,,Monterey,CA,93940
+1174985444,Lanette,Rickborn,MD,Marshfield,WI,54449
+1174986756,Shanta,Shepherd,"M.D,",Hartford,CT,06105
+1184037590,Parth,Shah,MD,Fort Worth,TX,76109
+1184060329,Eliza,Defroda,MD,Columbia,MO,65212
+1184060881,Jay,Carpenter,D.O.,Paris,TX,75460
+1184068520,William,Berg,MD,Stony Brook,NY,11794
+1184069056,Haralampos,Kamenidis,MD,Dartmouth,MA,02747
+1184086423,Alexandra,Berger Eberhardt,MD,Aurora,CO,80045
+1184086431,Christopher,Sayegh,MD,New York,NY,10032
+1184119455,Matthew,Sims,M.D.,Germantown,TN,38138
+1184144149,Nicole,Dodge,MD,Eau Claire,WI,54701
+1184156325,Andrew,Bachman,M.D.,Fort Collins,CO,80528
+1184157562,Steven,Allegro,D.O.,Celebration,FL,34747
+1184157919,Darian,Andreas,MD,Sunnyside,NY,11104
+1184186009,Muhammad,Alam,MD,Jacksonville,FL,32209
+1184603037,Michael,Rentzepis,MD,Eau Claire,WI,54703
+1184607681,Andrew,Kramer,M.D.,Hyannis,MA,02601
+1184609729,Charles,Wright,MD,Hot Springs,AR,71913
+1184611063,Thomas,Stormont,M.D.,Stillwater,MN,55082
+1184612376,Alfredo,Guevara,MD FACS,Nogales,AZ,85621
+1184623340,Richard,Lotenfoe,M.D.,Celebration,FL,34747
+1184624140,Edward,Tieng,M.D.,Knoxville,TN,37916
+1184624769,Madelyn,Holzman,M.D.,Chico,CA,95926
+1184626244,Patrick,Ellison,M.D.,Paducah,KY,42003
+1184628661,Yi,Hsieh,,Federal Way,WA,98003
+1184638496,Peter,Colegrove,MD,Galena,IL,61036
+1184640203,Ashutosh,Kshirsagar,M.D.,Moon Twp,PA,15108
+1184641946,Anna,D'amico,M.D.,Madisonville,KY,42431
+1184642837,Alexander,Kirschenbaum,M.D.,New York,NY,10075
+1184651820,Tom,Lue,M.D.,San Francisco,CA,94143
+1184653743,Nathan,Graves,M.D.,Grapevine,TX,76051
+1184654162,Rahuldev,Bhalla,M.D.,Setauket,NY,11733
+1184657942,Michael,Rashid,M.D.,Wheaton,IL,60187
+1184660433,Vance,Moss,MD,Howell,NJ,07731
+1184665911,Philip,Butler,M.D.,La Jolla,CA,92037
+1184668808,Elliot,Fagelman,M.D.,Pomona,NY,10970
+1184668980,Safwat,Awad,M.D.,Paterson,NJ,07503
+1184671877,Wayne,Glazier,M.D.,Worcester,MA,01605
+1184674301,Chase,Sovell,M.D.,Edina,MN,55435
+1184678401,David,Wei,"MD, FACS",Honolulu,HI,96819
+1184679581,Francis,Wren,M.D.,Sarasota,FL,34239
+1184680654,Daniel,Merrick,MD,Chicago,IL,60625
+1184680662,Todd,Campbell,MD,Roseville,MI,48066
+1184682692,Anthony,Catanese,MD,Somerville,NJ,08876
+1184684789,Mark,Edney,MD,Salisbury,MD,21084
+1184687097,Matthew,Mene,DO,Seaford,NY,11783
+1184688236,Jeffrey,Hassell,M.D.,Plano,TX,75093
+1184688665,Gregory,Mcintosh,D.O.,Livonia,MI,48154
+1184689051,Gaetano,Ciancio,"MD, MBA",Miami,FL,33136
+1184689473,John,Rodgers,M.D.,Huntingdon Valley,PA,19006
+1184689788,Edward,Mcintire,M.D.,Cleveland,TN,37312
+1184694523,Eugene,Dula,MD,Tarzana,CA,91356
+1184696627,Salim,Hawatmeh,M.D.,Saint Louis,MO,63128
+1184717902,Conrado,Tojino,DO,Augusta,GA,30909
+1184731127,Andrew,Kader,MD,San Diego,CA,92103
+1184739401,Mark,Saslawsky,M.D.,Memphis,TN,38119
+1184740045,Robert,Jackson,M.D.,Boise,ID,83712
+1184773137,John,Schulhoff,MD,Clairton,PA,15025
+1184812471,Brian,Keuer,MD,Lake Barrington,IL,60010
+1184812992,Scott,Wilkinson,DO,Saint Clair Shores,MI,48081
+1184818551,Sunshine,Murray,M.D.,Tulsa,OK,74146
+1184820722,David,Stanley,MD,Gainesville,GA,30501
+1184823163,David,Shore,M.D.,Chicago,IL,60657
+1184823882,Michael,Myers,MD,Mineral Wells,TX,76067
+1184828071,Ryan,Smith,M.D.,Charlottesville,VA,22903
+1184831893,Darren,Chapman,M.D.,Pearland,TX,77584
+1184837841,Harold,Minerve,M.D.,Dunwoody,GA,30338
+1184839698,Teodora,Schellato,D.O,Philadelphia,PA,19111
+1184860421,Majid,Mirzazadeh,MD,Winston Salem,NC,27103
+1184867533,Alison,Spann,MD,Shreveport,LA,71106
+1184870404,Nicholas,Johnson,M.D.,Duluth,MN,55802
+1184884280,Cory,Hugen,M.D.,Irvine,CA,92618
+1184899650,John,Klein,MD,Woodbridge,VA,22191
+1184899775,Laurie,Bachrach,M.D.,Melrose Park,IL,60160
+1184910044,Daniel,Oberlin,M.D.,Berkeley,CA,94705
+1184913527,Felix,Cheung,M.D.,New York,NY,10065
+1184915373,Kellen,Choi,D.O.,Louisville,KY,40202
+1184941668,Steve,Rivera,M.D.,Honolulu,HI,96813
+1184949588,Franklin,Lee,M.D.,Seattle,WA,98195
+1184989915,Yousef,Al-Shraideh,MD,Peoria,IL,61606
+1194012310,An,Hoang,M.D.,Sugar Land,TX,77479
+1194014688,Remy,Lamberts,,Reno,NV,89511
+1194015248,Zuhair,Hussaini,MD,Elmhurst,IL,60126
+1194015503,April,Szafran,"MD, PHD",Arlington Heights,IL,60005
+1194016774,Aaron,Laviana,"MD, MBA",Austin,TX,78712
+1194058222,Roberto,Labayen,M.D.,Carlsbad,NM,88220
+1194063495,Matthias,Solga,M.D.,Saratoga Springs,NY,12866
+1194086918,Raveen,Syan,MD,Miami,FL,33136
+1194089201,Gideon,Lorber,,Wexford,PA,15090
+1194103861,Michael,Daneshvar,"M.D., M.S.",Orange,CA,92868
+1194105379,Tanner,Miest,"M.D., PH.D.",Virginia Beach,VA,23462
+1194117226,Ashima,Singal,MD,Rock Hill,SC,29732
+1194121053,Padraic,O'malley,MD,Gainesville,FL,32610
+1194153825,Amjad,Alwaal,MD,Huntington,WV,25703
+1194161562,Scott,Pate,M.D.,La Crosse,WI,54601
+1194165365,Michael,Wood,M.D.,Jackson,MS,39216
+1194168369,Kaitlan,Cobb,M.D.,Sacramento,CA,95817
+1194222315,Hoang Minh Tue,Nguyen,MD,Round Rock,TX,78681
+1194229609,Brett,Giblin,,Fort Myers,FL,33907
+1194259648,Nathaniel,Coddington,MD,Houston,TX,77030
+1194703223,Edward,Becker,M.D.,Wellington,FL,33449
+1194703330,Damian,Portela,M.D.,Wellington,FL,33449
+1194709329,Bob,Mann,M.D.,Newnan,GA,30265
+1194709675,Atlee,Johnson,MD,Salisbury,NC,28144
+1194712273,Barry,Pecha,MD,Jeffersonville,IN,47130
+1194712570,Elmer,Pineda,M.D.,Pomona,CA,91767
+1194715110,John,Feldman,MD,South Weymouth,MA,02190
+1194717306,James,Zachary,MD,Safety Harbor,FL,34695
+1194720268,Angelos,Manganiotis,M.D.,Boca Raton,FL,33433
+1194720912,Robert,Bennett,MD,Wilmington,NC,28403
+1194726281,Mark,Stein,M.D.,New York,NY,10003
+1194727461,James,Colvert,M.D.,Enid,OK,73701
+1194728865,Christopher,Buchanan,M.D.,Granbury,TX,76048
+1194741009,Richard,Walsh,MD,Colorado Springs,CO,80923
+1194743864,Sy,Tsi,MD,Corona,CA,92882
+1194756999,Jack,Winters,M.D.,Metairie,LA,70006
+1194764613,M.,Moy,MD,Gainesville,FL,32610
+1194765495,Gregory,Parr,M.D.,Ormond Beach,FL,32174
+1194765784,Marc,Benevides,MD,Cary,NC,27511
+1194772418,Samuel,Lee,M.D.,Apple Valley,CA,92307
+1194773465,Paul,Lyon,MD,Naperville,IL,60540
+1194773929,Anthony,Doerr,MD,Pensacola,FL,32514
+1194777060,Joseph,Williams,M.D.,Meridian,ID,83642
+1194778258,Carl,Ogletree,M.D.,Sugar Land,TX,77478
+1194779983,Lynne,Mccormick,DO,Cadillac,MI,49601
+1194785642,Kenneth,Weisman,M.D.,Marietta,OH,45750
+1194786905,Mahlon,Chinn,MD,Arcardia,CA,91006
+1194787408,James,Cullison,MD,Carrollton,GA,30117
+1194792572,Loren,Smith,MD,Topeka,KS,66606
+1194792820,James,Saidi,M.D.,Glen Ridge,NJ,07028
+1194795195,Jamie,Lowe,MD,Glenwood Springs,CO,81601
+1194795336,Timothy,Roth,M.D.,Lake Barrington,IL,60010
+1194811182,Eric,Ward,M.D.,Columbus,OH,43214
+1194820043,Ravi,Mootha,M.D.,Richardson,TX,75082
+1194825216,Paige,White,MD,Gulfport,MS,39501
+1194829366,Eric,Miller,MD,E Providence,RI,02914
+1194830091,Stephen,Culp,M.D.,Charlottesville,VA,22903
+1194832774,William,Swanson,MD,Springfield,MA,01107
+1194841452,David,Morris,MD,Hendersonville,TN,37075
+1194875310,Harry,Slatch,M.D.,Glens Falls,NY,12801
+1194883769,Chi,Lee,MD,Berkeley,CA,94705
+1194889543,James,Jezior,M.D.,Fairfax,VA,22033
+1194894493,Nathan,Fischman,M.D.,Metairie,LA,70006
+1194915066,Kara,Babaian,M.D.,Houston,TX,77030
+1194921486,James,Mcgeady,M.D.,Tulsa,OK,74146
+1194923474,George,Lee,"M.D., FACS",Mount Airy,NC,27030
+1194924738,Eddie,Michli,MD,Milford,MA,01757
+1194927376,Alberto,Corica,M.D.,Tucson,AZ,85715
+1194928168,Jay,Heintz,MD,Hammond,LA,70403
+1194929463,Derrick,Reedus,M.D.,Newark,OH,43055
+1194930081,Damon,Dyche,M.D.,Ames,IA,50010
+1194934182,Sujith,Reddy,MD,Baton Rouge,LA,70816
+1194936385,Andrew,Bullock,M.D.,Greenville,SC,29605
+1194940171,Peter,Garbeff,MD,Stockton,CA,95209
+1194948356,Tony,Mammen,MD,Arlington,TX,76017
+1194948778,Samuel,Kuykendall,M.D.,Kansas City,MO,64111
+1194950444,Jason,Riley,DO,Cumberland,MD,21502
+1194952143,Surendra,Kolla,MD,Wichita,KS,67208
+1194953125,John,Gunselman,D.O.,Portland,OR,97213
+1194955831,Ryan,Nelson,DO,Utica,MI,48317
+1194969436,Farshid,Mirzaee,MD,Rancho Mirage,CA,92270
+1194980565,Christopher,Tepera,M.D.,Gig Harbor,WA,98332
+1194986026,Philip,Rosen,MD,Salem,OR,97302
+1194988436,Renee,Quillin,M.D.,Knoxville,TN,37916
+1194996686,Charles,Beamon,MD,Fredericksburg,VA,22401
+1194999086,Florian,Schroeck,M.D.,White River Junction,VT,05009
+1205003092,Edward,Rampersaud,MD,Durham,NC,27704
+1205007341,Niall,Harty,M.D.,Elizabethtown,KY,42701
+1205020385,Brian,Marks,M.D.,Bedford,NH,03110
+1205026846,Thomas,Holley,MD,Homewood,AL,35209
+1205035284,Ryan,Miller,M.D.,Independence,MO,64055
+1205037587,Christopher,Kyle,"MD, MPH",Springfield,OR,97477
+1205039807,Daniel,Decker,MD,Mountain Home,AR,72653
+1205041415,Duojia,Cooney,M.D.,Carmichael,CA,95608
+1205060175,Jason,Bourque,M.D.,Lafayette,LA,70508
+1205060902,Joshua,Langston,MD,Virginia Beach,VA,23462
+1205069762,Mahesh,Goel,MD,Carmel,IN,46033
+1205091949,Bruce,Jacobs,,Pittsburgh,PA,15232
+1205118296,Laura,Giusto,M.D.,Owings Mills,MD,21117
+1205122140,Joceline,Fuchs,M.D.,Huntingdon Valley,PA,19006
+1205132628,Mya,Levy,M.D.,Porter Ranch,CA,91326
+1205135944,Bethany,Burge,M.D.,Austin,TX,78745
+1205136496,Ines,Stromberg,MD,Gloucester,VA,23061
+1205137387,Sanoj,Punnen,,Miami,FL,33136
+1205153947,Amin,Herati,M.D.,Baltimore,MD,21224
+1205156320,Christopher,Powell,M.D.,Kansas City,KS,66160
+1205156999,Thenappan,Chandrasekar,M.D.,Philadelphia,PA,19107
+1205157120,Mohammad,Ramadan,MD,Oklahoma City,OK,73102
+1205179959,Jordan,Brady,M.D.,Cary,NC,27518
+1205190683,David,Melendez,M.D.,Kissimmee,FL,34741
+1205195195,Charles,Peyton,,Birmingham,AL,35233
+1205198686,Stephen,Ryan,MD,South Portland,ME,04106
+1205215621,Alexander,Tapper,M.D.,Pontiac,MI,48341
+1205217122,Michael,Chevinsky,M.D.,Bethpage,NY,11714
+1205247178,Siri,Drangsholt,M.D.,New York,NY,10016
+1205273091,Chirag,Dave,M.D.,Marietta,GA,30060
+1205278603,Daniel,Cwikla,MD,Orange,CA,92868
+1205281912,Ava,Saidian,,San Diego,CA,92103
+1205290087,James,Ellenburg,M.D.,Opelika,AL,36801
+1205290277,Matthew,Smith,M.D.,Houston,TX,77030
+1205298007,Ji Hae,Park,M.D.,Palisades Park,NJ,07650
+1205299732,Andrew,Ng,M.D.,Worthington,OH,43085
+1205322393,Harjivan,Kohli,MD,Fullerton,CA,92835
+1205356722,Megan,Bock,MD,Carmel,IN,46032
+1205368198,Roxanne,Haslam,MD,Coeur D Alene,ID,83814
+1205368248,Igor,Inoyatov,MD,Coral Springs,FL,33076
+1205805553,Biren,Patel,M.D.,Surprise,AZ,85374
+1205808433,Moshe,Wald,MD,Iowa City,IA,52242
+1205809787,Christian,Magura,M.D.,Rock Hill,SC,29732
+1205810512,Brad,White,MD,Saint Louis,MO,63141
+1205810520,Matthew,Spellman,MD,Saint Louis,MO,63141
+1205813623,John,Mulhall,MD,New York,NY,10021
+1205815354,Stephen,Charbonnet,M.D.,Houma,LA,70360
+1205821881,Michael,Zaragoza,MD,Dover,DE,19904
+1205822640,Pratik,Desai,M.D.,Woodbridge,VA,22191
+1205824489,Nelson,Ploch,M.D.,North Charleston,SC,29406
+1205829892,Michael,Savino,M.D.,Staten Island,NY,10309
+1205832706,Stephen,Ponas,M.D.,Phoenix,AZ,85012
+1205834074,Tyrun,Richardson,M.D.,Springfield,MO,65804
+1205834728,Edward,King,MD,Ocala,FL,34471
+1205836335,David,Wilks,MD,Hobart,IN,46342
+1205836343,Christopher,Ramsey,M.D.,Powell,TN,37849
+1205836764,Jonathan,Kalish,MD,Tupelo,MS,38801
+1205841079,Greg,Griewe,M.D.,Pinehurst,NC,28374
+1205856382,Jorge,Arzola,M.D.,Fort Wayne,IN,46845
+1205875556,Michael,Crone,MD,Lubbock,TX,79430
+1205876729,Kenneth,Angermeier,MD,Cleveland,OH,44195
+1205876976,Christopher,Reese,M.D.,Cleveland,OH,44111
+1205879335,Stanley,Ring,MD,Freeport,NY,11520
+1205879772,Joseph,Parkhurst,MD,Bethany,OK,73008
+1205883881,Harbhajan,Ajrawat,MD,Greenbelt,MD,20770
+1205885944,Donald,Rudick,MD,St Marys,PA,15857
+1205890381,Anthony,Kim,M. D.,Middlebury,CT,06762
+1205892163,Mitchell,Efros,MD,Garden City,NY,11530
+1205892965,James,Ratliff,M.D.,Richmond,VA,23235
+1205893807,Randy,Ackerman,MD,Cherry Hill,NJ,08002
+1205899952,Alfred,Holden,M.D.,Dallas,TX,75230
+1205904315,Munah,Hawila,M.D.,Houston,TX,77055
+1205905379,Sandip,Prasad,"MD, MPHIL",Charleston,SC,29425
+1205920261,James,Tierney,DO,Charleston,WV,25304
+1205927837,Dalton,Baldwin,M.D.,Loma Linda,CA,92354
+1205928678,John,Wei,MD,Brighton,MI,48116
+1205939998,Richard,Maggio,M.D.,Staten Island,NY,10310
+1205945920,Benjamin,Chung,M.D.,Stanford,CA,94305
+1205961182,Randil,Clark,M.D.,Coeur D' Alene,ID,83814
+1205975224,Cole,Davis,M.D.,Tulsa,OK,74146
+1205983194,Kelly,Boudreaux,M.D.,Baton Rouge,LA,70810
+1205987500,Matthew,Nielsen,M.D.,Chapel Hill,NC,27599
+1205992609,Aaron,Latowsky,MD,Litchfield Park,AZ,85340
+1215024195,Ajay,Kwatra,MD,Conroe,TX,77304
+1215032149,Michael,Wierschem,M.D.,Plano,TX,75024
+1215033618,Michael,Daniels,M.D.,Philadelphia,PA,19144
+1215034111,Brian,Cox,MD,Yakima,WA,98902
+1215037726,Marty,Scheinberg,M.D.,Chattanooga,TN,37404
+1215042510,Todd,Jarrell,M.D.,Columbus,GA,31901
+1215068242,Eric,Giesler,MD,Austin,TX,78759
+1215070297,Francis,Kim,M.D.,Tacoma,WA,98405
+1215071469,Matthew,Mclaughlin,D.O.,Coeur D Alene,ID,83814
+1215103403,David,Kang,M.D.,Monroe,NC,28112
+1215106851,Margaret,Ekroth,MD,Iowa City,IA,52245
+1215138342,David,Shusterman,M.D.,New York,NY,10017
+1215141395,Yvonne Katherine,Koch,MD,Miami Beach,FL,33140
+1215151543,Charles,Wakefield,MD,Omaha,NE,68114
+1215158092,Paul,Espy,M.D.,Waco,TX,76712
+1215159843,Jeffrey,Nix,M.D.,Birmingham,AL,35233
+1215165584,Stephen,Larsen,M.D.,Goodyear,AZ,85395
+1215179452,Philip,Dorsey,MD,Linwood,NJ,08221
+1215188214,Doreen,Chung,MD,New York,NY,10032
+1215202627,David,Bayne,M.D.,San Francisco,CA,94143
+1215220330,Jessica,Phelps,MD,Muskegon,MI,49444
+1215221411,Erwin,Tieva,M.D.,El Paso,TX,79920
+1215222856,Kara,Watts,MD,Bronx,NY,10467
+1215222989,Dominic,Tang,M.D.,Arlington,TX,76017
+1215226865,Catherine,Eden,M.D.,Maywood,IL,60153
+1215259627,Federico,Corica,M.D.,Ponce,PR,00717
+1215277934,Naveen,Kachroo,"MBBS(HONS), MRCS",Detroit,MI,48202
+1215290705,Ian,Mclaren,M.D.,Wenatchee,WA,98801
+1215292743,Esther,Han,D.O.,Arlington,TX,76017
+1215295639,Ricardo,Palmerola,M.D.,Miami,FL,33137
+1215296348,Ramkishen,Narayanan,M.D.,Burbank,CA,91505
+1215298104,Daniel,Pucheril,"M.D., M.B.A",Kettering,OH,45429
+1215299284,Nora,Baker,D.O.,Tulsa,OK,74136
+1215316658,Rita,Jen,MD,Newnan,GA,30265
+1215317847,Antoin,Douglawi,M.D.,Los Angeles,CA,90033
+1215347471,Kevan,Iffrig,,Bethlehem,PA,18017
+1215370606,Kyle,Scarberry,M.D.,Winston Salem,NC,27103
+1215370861,Nathan,Littlejohn,M.D.,Hot Springs,AR,71913
+1215371950,James,Steward,,Indianapolis,IN,46202
+1215374210,Stephen,Unterberg,MD,San Diego,CA,92103
+1215376157,Daniel,Kaufman,M.D.,Denver,CO,80211
+1215381462,Jacob,Brems,M.D.,Centennial,CO,80112
+1215425871,Phillip,Mann,DO,Saint Joseph,MO,64506
+1215429576,Joshua,Eccles,MD,Pennington,NJ,08534
+1215458237,Mohammad,Hajiha,"MD, FRCSC UROLOGY",Johns Creek,GA,30097
+1215466487,Andrew,Higgins,MD,Highland Park,IL,60035
+1215477732,Shalin,Desai,M.D.,Naperville,IL,60540
+1215900303,Mark,Anderson,M.D.,Port Orchard,WA,98366
+1215901574,David,Pollifrone,MD,Fort Wayne,IN,46845
+1215908611,Frank,Salvatore,MD,Hackettstown,NJ,07840
+1215913975,David,Harris,M.D.,Fort Myers,FL,33912
+1215914239,Mark,Dickinson,MD,Franklin,TN,37067
+1215916697,Guido,Dalbagni,MD,New York,NY,10021
+1215919048,James,Relle,MD,West Bloomfield,MI,48322
+1215923479,Scott,Van Appledorn,M.D.,Kirkland,WA,98034
+1215929104,Thomas,Weldon,M.D.,Clarksdale,MS,38614
+1215932926,Kevin,Kronner,MD,Missoula,MT,59808
+1215934187,William,Roth,MD,Lafayette,LA,70503
+1215934781,K,Chevli,M.D.,Cheektowaga,NY,14225
+1215935291,Dennis,Larock,MD,Fall River,MA,02724
+1215937586,David,Ho,M.D.,Houston,TX,77030
+1215948211,Martha,Terris,M.D.,Augusta,GA,30912
+1215948922,Walter,Schimon,M.D.,Modesto,CA,95355
+1215953039,Stephen,Zappala,M.D.,Andover,MA,01810
+1215955489,Howard,Miller,MD,Lewistown,PA,17044
+1215956016,Richard,Pidutti,MD,Johnstown,PA,15905
+1215956974,Edouard,Trabulsi,M.D.,Philadelphia,PA,19107
+1215961842,David,Lamb,M.D.,West Columbia,SC,29169
+1215963632,Michael,Finkelstein,M.D.,Henderson,NV,89074
+1215964069,Timothy,Coblentz,M.D.,Canton,OH,44708
+1215966882,Raymond,Leveillee,MD,Boynton Beach,FL,33435
+1215971916,Surena,Matin,"M.D., F.A.C.S.",Houston,TX,77030
+1215972732,Ali,Latefi,DO,Spartanburg,SC,29303
+1215982715,Matthew,Dumont,M.D.,Fredericksburg,VA,22401
+1215987524,Lawrence,Yore,M.D.,Delray Beach,FL,33484
+1215989546,James,Porter,M.D.,Seattle,WA,98104
+1215993845,Michael,Gardner,M.D.,Tualatin,OR,97062
+1215995998,Kristina,Wittig,MD,Santa Clarita,CA,91355
+1225004716,Nicholas,Hellenthal,M.D.,Cooperstown,NY,13326
+1225004898,Deborah,Wilson,M.D.,Scottsdale,AZ,85258
+1225007438,Jeffrey,Williams,M.D.,Glen Ridge,NJ,07028
+1225011588,Donald,Mcknight,M.D.,Jackson,TN,38301
+1225020571,Julie,Chacko,MD,Santa Barbara,CA,93105
+1225023344,Michael,Simmons,MD,Scottsboro,AL,35769
+1225024342,Joseph,Mouchizadeh,MD,Ronceverte,WV,24970
+1225024540,Sigmund,Tannenbaum,MD,Greensboro,NC,27403
+1225024615,Mary,Waller,MD,Olney,IL,62450
+1225025174,Kenneth,Ring,M.D.,Cranford,NJ,07016
+1225026438,Timothy,Dixon,MD,Ashland,KY,41101
+1225027352,Paul,Berger,MD,Allentown,PA,18106
+1225029572,Eric,Thall,M.D.,Rockville Centre,NY,11570
+1225033582,Kevin,Fitzgerald,M.D.,Doylestown,PA,18901
+1225033996,Mark,Wainstein,MD,Avon,CO,81620
+1225036841,Jim,Littlejohn,MD,Kingsport,TN,37660
+1225050412,Sheldon,Pike,M.D,Hewlett,NY,11557
+1225053291,William,Barba,M.D.,Los Angeles,CA,90033
+1225055866,Jae,Kim,MD,Chicago Ridge,IL,60415
+1225057508,Jacob,Rajfer,MD,Los Angeles,CA,90095
+1225059108,Farhad,Nowzari,M.D.,Torrance,CA,90505
+1225062797,Gary,Leach,MD,Los Angeles,CA,90048
+1225064421,Andrew,Neeb,MD,Bend,OR,97701
+1225065535,Scott,Howe,M.D.,Kearney,NE,68847
+1225067556,James,Monroe,M.D.,Greenville,SC,29605
+1225069032,Kent,Haggard,M.D.,Independence,MO,64057
+1225071475,Jon,Auger,MD,Waukesha,WI,53188
+1225076185,Walter,Simoneaux,M.D.,Thibodaux,LA,70301
+1225084098,J,Ross,,Owensboro,KY,42301
+1225084825,Ihor,Sawczuk,MD,Hackensack,NJ,07601
+1225085657,Daniel,Hoffman,M.D.,Fredericksburg,VA,22401
+1225088305,Jonathan,Jay,MD,Naples,FL,34110
+1225092554,Bradley,Boehm,DO,Alpena,MI,49707
+1225092794,Richard,Graham,M.D.,White River Junction,VT,05001
+1225096621,William,Collyer,M.D.,Evansville,IN,47713
+1225098031,Craig,Smith,MD,Winfield,IL,60190
+1225110570,Richard,Lee,MD,Englewood,NJ,07631
+1225114424,Ravi,Kamra,MD,Waterville,ME,04901
+1225118284,Hugh,Fisher,,Albany,NY,12208
+1225125784,John,Miller,M.D.,Binghamton,NY,13905
+1225130800,Emerson,Harrison,M.D.,Moultrie,GA,31768
+1225133788,Rajesh,Shinghal,MD,Stanford,CA,94305
+1225142490,Jennifer,Rothschild,"M.D., MPH",Sacramento,CA,95817
+1225149891,Maury,Jayson,MD,Pembroke Pines,FL,33028
+1225158108,Adam,Reese,M.D.,Philadelphia,PA,19140
+1225183791,Jerry,Mcroberts,M.D.,Harlan,KY,40831
+1225223043,David,Hadley,MD,Kettering,OH,45429
+1225235021,Ryan,Terlecki,M.D.,Winston Salem,NC,27103
+1225259831,Daniel,Barocas,MD,Nashville,TN,37232
+1225262314,Michael,Isaacson,MD,Rockville,MD,20850
+1225262694,Andrew,Hung,M.D.,West Hollywood,CA,90048
+1225263254,Henry,Okafor,M.D.,Chattanooga,TN,37403
+1225263684,Christopher,Henry,M.D.,Lewiston,ME,04240
+1225263817,Jeromy,Hackney,M.D.,Webster,TX,77598
+1225265168,David,Goldfarb,MD,Houston,TX,77030
+1225266232,Ishai,Ross,M.D.,Ft Lauderdale,FL,33308
+1225272503,Samuel,Kaffenberger,M.D.,Ann Arbor,MI,48109
+1225277593,Aaron,Lay,,Atlanta,GA,30322
+1225278211,Timothy,Daskivich,M.D.,Los Angeles,CA,90095
+1225279169,Alvin,Goh,M.D.,New York,NY,10065
+1225290489,Ken,Haberman,MD,Federal Way,WA,98003
+1225291123,Mark,Mann,MD,Millburn,NJ,07041
+1225292477,Marc,Smaldone,M.D.,Philadelphia,PA,19111
+1225294580,Gillian,Stearns-Parr,MD,Charlotte,NC,28204
+1225296593,Christopher,Barbieri,"MD, PHD",New York,NY,10065
+1225296957,Elizabeth,Johnson,MD,Duluth,MN,55802
+1225299795,Katherine,Holden Rinard,M.D.,Abilene,TX,79601
+1225324239,David,Crawley,M.D.,New London,CT,06320
+1225328958,Amanda,Vandlac,M.D.,Portland,OR,97213
+1225353295,Deborah,Kaye,MD,Durham,NC,27710
+1225353717,Olufenwa,Milhouse,M.D.,Chicago,IL,60610
+1225357973,Mourad,Abouelleil,M.D.,West Palm Beach,FL,33401
+1225359243,Elizabeth,Dray,M.D.,Bristol,TN,37620
+1225359920,Patrick,Mckenzie,MD,Greensboro,NC,27403
+1225422322,Dielle,Duval,M.D,Reno,NV,89502
+1225441660,Kyle,Lester,D.O.,Leesburg,VA,20176
+1225442841,Marshall,Shaw,M.D.,Oklahoma City,OK,73104
+1225444029,Scott,Erpelding,,Lexington,KY,40536
+1225455157,Miriam,Locke,MD,South Lake Tahoe,CA,96150
+1225457773,Campbell,Bryson,M.D.,Coupeville,WA,98239
+1225458599,Richmond,Owusu,M.D.,San Diego,CA,92103
+1225476989,Shu,Pan,M.D.,Oakland,CA,94609
+1225483183,Robin,Djang,M.D.,Temple,TX,76508
+1225484249,Veronica,Rupert,M.D.,York,PA,17403
+1225484363,Peter,Dietrich,M.D.,Milwaukee,WI,53226
+1225490394,Itunu Oluwa,Arojo,M.D,Sugar Land,TX,77479
+1225491236,Daniel,Pitts,MD,State College,PA,16801
+1225527252,Levi,Hamilton,MD,Rapid City,SD,57701
+1225532690,Jesse,Rockmore,DO,Sumter,SC,29150
+1225534316,Robert,Libby,MD,Stockbridge,GA,30281
+1225558810,Lauren,Abrams,MD,Denver,CO,80211
+1225561343,Timothy,Quinn,,Atlanta,GA,30332
+1225593148,Logan,Zemp,MD,Tampa,FL,33612
+1225593882,Nicholas,Parker,MD,Scottsdale,AZ,85259
+1235100371,John,Daly,MD,Brattleboro,VT,05301
+1235108374,Mitchell,Bamberger,MD,Leominster,MA,01453
+1235117078,Joanne,Lamonica,M.D.,Ukiah,CA,95482
+1235119090,Steven,Tillem,M.D.,Astoria,NY,11102
+1235120247,Mark,Waples,MD,Milwaukee,WI,53215
+1235121740,Robert,Grajewski,M.D.,Jefferson,NC,28640
+1235123530,Geoffrey,Kostiner,M.D.,Newport News,VA,23606
+1235131186,Michael,Eufemio,M.D.,East Stroudsburg,PA,18301
+1235131616,Aftab,Husain,M.D.PA,Perth Amboy,NJ,08861
+1235132762,L,Tan,M.D.,Marianna,FL,32446
+1235133208,Mahesh,Patel,"MD, PA",Tampa,FL,33603
+1235143025,Dino,Delaurentis,DO,Clarksville,TN,37043
+1235143314,Michael,Brown,M.D.,Pinole,CA,94564
+1235163783,Peter,Levesque,MD,Taunton,MA,02780
+1235164286,David,Gubin,MD,Memphis,TN,38120
+1235165929,Edward,Kirsh,MD,Chicago,IL,60608
+1235166901,Richard,Landau,MD,Sellersville,PA,18960
+1235167149,Lara,Hammond,MD,Carbondale,IL,62901
+1235169285,Shaheen,Rahman,M.D.,Schenectady,NY,12309
+1235171943,Vibha,Sabharwal,M.D.,Bolingbrook,IL,60440
+1235171950,Thurlow,Underhill,MD,New Bern,NC,28562
+1235184912,Leonard,Renfer,MD,Salinas,CA,93901
+1235194846,David,Paolone,MD,Madison,WI,53715
+1235195058,Emilia,Phillips,MD,Beverly,MA,01915
+1235199167,Ricardo,Saade,M.D.,Manati,PR,00674
+1235199688,Paul,Maroni,MD,Aurora,CO,80045
+1235201427,Erik,Grossgold,M.D.,Portsmouth,VA,23708
+1235210493,Douglas,Sutherland,M.D.,Tacoma,WA,98405
+1235210774,Cordell,Nwokeji,MD,Kingwood,TX,77339
+1235217985,Isaac,Kim,"MD, PHD",New Haven,CT,06519
+1235218066,Gregory,Pappas,MD,North Bergen,NJ,07047
+1235221219,Marvin,Young,MD,Lake Mary,FL,32746
+1235222936,Gerard,Galarneau,M.D.,Middletown,NY,10940
+1235226598,Murray,Goldberg,M.D.,West Palm Beach,FL,33401
+1235231200,Paul,Kozlowski,MD,Seattle,WA,98101
+1235232745,Alan,Kowitz,M.D.,Sequim,WA,98382
+1235240219,Young,Kim,MD,South Weymouth,MA,02190
+1235249251,Anthony,Nazaroff,M.D.,Bisbee,AZ,85603
+1235249509,James,Hotaling,MD,Seattle,WA,98195
+1235270034,Paul,Crum,MD,Jacksonville,FL,32204
+1235270067,Adam,Perlmutter,DO,Plymouth,IN,46563
+1235273848,Todd,Lehrfeld,MD,Somers Point,NJ,08244
+1235274101,William,Huang,M.D.,New York,NY,10017
+1235295619,Benjamin,Brucker,MD,New York,NY,10017
+1235299850,Steven,Guarnaccia,MD,Redwood City,CA,94062
+1235303512,Emma,Bendana,M.D.,Las Cruces,NM,88011
+1235313164,James,Johannes,MD,Allentown,PA,18103
+1235331182,Satyan,Shah,"MD, FACS",Albuquerque,NM,87106
+1235334897,Sarah,Psutka,M.D.,Seattle,WA,98195
+1235335381,Ciara,Marley,M.D.,New York,NY,10022
+1235351867,Jeremy,Hubbard,M.D.,Charlotte,NC,28262
+1235356999,Benjamin,Yang,M.D.,Riverside,CA,92506
+1235364878,Joshua,Gonzalez,M.D.,Los Angeles,CA,90036
+1235372715,Katie,Murray,D.O.,New York,NY,10017
+1235383381,Heather,Willis,MD,Hickory,NC,28601
+1235385964,Adam,Walker,M.D.,Muskegon,MI,49444
+1235391244,Brian,Rambarran,"MD, MPH",Sanborn,NY,14132
+1235392911,Loren,Jones,MD,Austin,TX,78759
+1235398751,Ryan,Novak,M.D.,Grand Rapids,MN,55744
+1235399536,Vannhu,Nguyen,M.D.,Green Bay,WI,54311
+1235403130,Peter,Tek,D.O.,Joliet,IL,60431
+1235405192,Jonathan,Wingate,M.D.,Tacoma,WA,98431
+1235440090,Joseph,Jacob,MD,Syracuse,NY,13210
+1235442534,Daniel,Su,M.D.,Laguna Hills,CA,92653
+1235469206,Christine,Tran,MD,Leesburg,VA,20176
+1235470261,Paul,Mcclain,M.D.,Winston Salem,NC,27103
+1235495003,Barrett,Mccormick,M.D.,Jacksonville,FL,32207
+1235495185,Brenton,Winship,M.D.,Lakewood,CO,80228
+1235514282,Spencer,Larkin,M.D.,Lexington,KY,40536
+1235523598,Jj,Zhang,MD,Los Angeles,CA,90095
+1235524018,Andrew,Zganjar,MD,Jacksonville,FL,32224
+1235549585,Joseph,Wan,M.D.,Columbus,OH,43212
+1235558479,Zein,Nakhoda,M.D.,Cranford,NJ,07016
+1235575903,Bobby,Alexander,M.D.,Palm Desert,CA,92260
+1235584533,Joel,Hancock,M.D.,Twin Falls,ID,83301
+1235587478,Mubashir,Billah,M.D.,Millburn,NJ,07041
+1235629973,Kieran,Hynes,MD,Jackson,MS,39202
+1235636705,Marissa,Falkiewicz,MD,Milwaukee,WI,53215
+1235669276,Tamer,Dafashy,MD,Webster,TX,77598
+1235672460,Giovanni,Gonzalez Albo,MD,Ponce,PR,00717
+1235705344,Victoria,Edmonds,MD,Scottsdale,AZ,85259
+1245201136,Matthew,Woolley,MD,West Islip,NY,11795
+1245202555,Jay,Basillote,M.D.,Staten Island,NY,10304
+1245204197,Sameer,Sharma,MD,Grafton,WI,53024
+1245211143,Richard,Grunert,MD,Burlington,VT,05401
+1245211663,Sovrin,Shah,MD,New York,NY,10003
+1245214964,Peter,Filderman,MD,Baltimore,MD,21229
+1245216605,Jayram,Krishnan,"D.O., M.B.A.",Voorhees,NJ,08043
+1245226828,Christopher,Vallorosi,MD,Dover,DE,19904
+1245227990,Richard,Davi,MD,Miami,FL,33176
+1245235365,Elizabeth,Kornfield Chadwell,MD,Seaford,DE,19973
+1245235449,Edward,Beck,MD,Danbury,CT,06810
+1245236348,Henry,Ruiz,MD,Edinburg,TX,78539
+1245238484,Mark,Swofford,DO,Pikeville,KY,41501
+1245239466,Shih-Han,Chow,M.D.,Cherry Hill,NJ,08003
+1245242957,Omid,Lesani,M.D.,Las Vegas,NV,89128
+1245244961,Jeffery,Vaught,M.D.,Greenwood,IN,46143
+1245248236,Brian,Heaton,MD PC,Ogden,UT,84403
+1245249044,Christian,Hettinger,M.D.,Overland Park,KS,66211
+1245249929,Lester,Borden,MD,Greensboro,NC,27403
+1245252451,Donald,Urban,MD,Fort Wayne,IN,46845
+1245258417,Walter,Frank,MD,Georgetown,SC,29440
+1245261015,Stjepan,Gardilcic,M.D.,Mansfield,OH,44906
+1245268036,Christopher,Gonzalez,MD,Maywood,IL,60153
+1245270842,Michael,Lee,D.O.,Fort Collins,CO,80528
+1245277268,Barry,Sadler,MD,Hudson,FL,34667
+1245280791,Scott,Montgomery,MD,Merriam,KS,66204
+1245280874,George,Canellakis,M.D.,North Andover,MA,01845
+1245281179,Terrence,Regan,MD,Palm Coast,FL,32164
+1245282342,Christopher,Stanczyk,DO,Murray,KY,42071
+1245282458,Joseph,Carbone,MD,Danville,VA,24541
+1245283191,Amery,Wirtshafter,MD,North Miami,FL,33181
+1245284785,Matthew,Wilner,M.D.,Dallas,TX,75231
+1245288562,Michael,Tepedino,MD,Tullahoma,TN,37388
+1245289677,Kimberly,Berni,MD,Saint Peters,MO,63376
+1245292655,John,Apostol,M.D.,Champlin,MN,55316
+1245293299,Humphrey,Atiemo,MD,Toledo,OH,43606
+1245293455,Todd,Hansen,M.D.,Greenwood,SC,29646
+1245295997,Anthony,Saracino,MD,Cocoa,FL,32922
+1245296375,Daniel,Rukstalis,M.D.,Roanoke,VA,24016
+1245296524,J,Trussell,M.D.,Syracuse,NY,13210
+1245296912,James,Sylora,MD,Evergreen Park,IL,60805
+1245297001,Rayford,Petroski,MD,Binghamton,NY,13905
+1245297217,Henry,Meiers,MD,Jeffersonville,IN,47130
+1245316702,Charlie,Jung,MD,Richmond,VA,23235
+1245328012,Timothy,Yoost,M.D.,Louisa,KY,41230
+1245334473,Robert,Mucciolo,M.D.,Massapequa,NY,11758
+1245335553,Thomas,Lehman,MD,Wilmington,DE,19801
+1245342419,Claire,Yang,MD,Seattle,WA,98195
+1245348218,Thomas,Coleman,MD,Mobile,AL,36608
+1245355163,Bryan,Voelzke,MD,Spokane,WA,99202
+1245360320,Thomas,Chi,MD,Birmingham,AL,35233
+1245371095,Richard,Lewis,MD,Jacksonville,FL,32204
+1245391085,Richard,Puschinsky,MD,High Point,NC,27262
+1245399641,Paul,Silverman,MD,Oxnard,CA,93036
+1245415454,Ryan,Miyamoto,MD,Pensacola,FL,32501
+1245425495,Adeep,Thumar,M.D.,Berkeley Heights,NJ,07922
+1245429075,Goutham,Vemana,MD,Pittsburgh,PA,15212
+1245431998,Krishnan,Venkatesan,M.D.,Washington,DC,20010
+1245434059,Landon,Trost,MD,Orem,UT,84057
+1245436518,Peter,Hinds,MD,Lakeland,FL,33805
+1245441690,Michael,Cox,M.D.,Savannah,GA,31405
+1245456896,Jocelyn,Rieder,,St Louis Park,MN,55416
+1245467489,Chinedu,Mmeje,M.D.,Houston,TX,77030
+1245473453,Gregory,Janda,M.D.,Cedar Rapids,IA,52403
+1245473990,Hagop,Sarkissian,M.D.,Bend,OR,97701
+1245480169,Obi,Ekwenna,M.D.,Toledo,OH,43614
+1245485374,Juan,Proano,M.D.,Wooster,OH,44691
+1245492032,Aimee,Carr,M.D.,Rockwall,TX,75032
+1245492602,Andrew,Morris,D.O.,Independence,MO,64057
+1245497825,Bert,Ivey,M.D.,Wenatchee,WA,98801
+1245503523,David,Green,M.D.,Glen Ridge,NJ,07028
+1245529379,Jessica,Wetterlin,M.D.,St. Paul,MN,55130
+1245530484,Natasha,Ginzburg,MD,Syracuse,NY,13210
+1245537208,Patrik,Luzny,MD,Logan,UT,84341
+1245594167,Ayad,Khourdaji,M.D.,Lodi,CA,95242
+1245618891,Danielle,Velez Leitner,M.D.,New Brunswick,NJ,08901
+1245619543,Dennis,Thum,,Sioux Falls,SD,57108
+1245626266,Jordan,Allen,MD,Jefferson Hills,PA,15025
+1245659077,Ali,Hajiran,M.D.,Morgantown,WV,26505
+1245673110,Michael,Lipsky,,Berkeley Heights,NJ,07922
+1245673334,Carrie,Aisen,M.D.,La Mesa,CA,91942
+1245673466,Gabriel,Fiscus,,Greenville,SC,29605
+1245674480,Kai,Dallas,MD,Lancaster,CA,93534
+1245678051,Temitope,Rude,M.D.,Stanford,CA,94305
+1245684497,Tony,Chen,M.D.,San Diego,CA,92103
+1245684760,Jessie,Chen,M.D.,Flower Mound,TX,75028
+1245685908,Patrick,Tenbrink,M.D.,Palm Beach Gardens,FL,33410
+1245693431,Rishi,Sekar,MD,Ann Arbor,MI,48109
+1245751189,Michaela,Krajmerova,DO,Colorado Springs,CO,80907
+1245763325,Brian,Langford,M.D.,Dallas,TX,75390
+1245842541,Harmenjit,Brar,,Coral Springs,FL,33076
+1255307401,Matthew,Loughlin,M.D.,The Villages,FL,32159
+1255311619,Alfred,Mazur,M.D.,Douglas,GA,31533
+1255319992,Kandasamy,Perumal,"M.D., F.A.C.S.",Seneca,SC,29678
+1255321519,James,Choi,MD,Flemington,NJ,08822
+1255325122,Herman,Parramore,M.D.,Greenwood,SC,29646
+1255325775,Thomas,Walsh,M.D.,Erie,PA,16507
+1255327383,Mark,Mccurdy,MD,Arlington,TX,76017
+1255329439,Marshall,Melcer,MD,Orlando,FL,32806
+1255333589,Kenneth,Choi,MD,Tucson,AZ,85741
+1255337051,John,Henderson,M.D.,Beaumont,TX,77702
+1255339768,Dan,Mcbride,MD,Denton,TX,76210
+1255345609,Amy,Brode,DO,Ann Arbor,MI,48103
+1255350641,Daniel,Williams,MD,Madison,WI,53792
+1255351367,Ronald,Davis,M.D.,Jackson,MS,39216
+1255352043,Douglas,West,MD,Jefferson City,MO,65109
+1255359899,Steven,Brandes,M.D.,Lisle,IL,60532
+1255367553,Jason,Zommick,M.D.,Las Vegas,NV,89146
+1255371357,Ian,Goldman,MD,Scottsdale,AZ,85255
+1255371662,Premal,Desai,M.D.,Phoenix,AZ,85054
+1255373346,Michael,Lee,M.D.,Brooklyn,NY,11219
+1255374856,David,Mendoza,M.D.,Parkersburg,WV,26101
+1255376166,Martin,Curlik,M.D.,Mount Vernon,WA,98274
+1255379277,William,Figlesthaler,M.D.,Naples,FL,34110
+1255384053,Ian,Marshall,M. D.,Charleston,SC,29407
+1255385050,Mell,Duggan,M.D.,Homewood,AL,35209
+1255385258,Kevin,Tomera,M.D.,Beloit,WI,53511
+1255390464,Kiarash,Michel,M.D.,Los Angeles,CA,90048
+1255390852,George,Ho,MD,Columbus,OH,43215
+1255391660,Mark,Posner,M.D.,Baton Rouge,LA,70808
+1255391710,Junghwan,Choi,M.D.,Garden Grove,CA,92843
+1255391769,Paul,Vazquez,D.O.,Largo,FL,33774
+1255396362,Anthony,Sliwinski,M.D.,Richmond,VA,23235
+1255397642,John,Delisio,M.D.,Richmond,VA,23235
+1255398004,C,Bowling,MD,Knoxville,TN,37920
+1255405999,William,Bodenstab,M.D.,Lihue,HI,96766
+1255415147,Glenn,Preminger,M.D.,Durham,NC,27710
+1255416335,Stanley,Brosman,MD,Santa Monica,CA,90404
+1255418885,Edgar,Baselli,M.D.,York,PA,17402
+1255419263,Mark,Condon,M.D.,Flowood,MS,39232
+1255421129,Parker,Eberwein,MD,Saint Paul,MN,55130
+1255432886,John,Hosay,M.D.,Jersey City,NJ,07304
+1255445789,Nabil,Chehade,M.D.,Cleveland,OH,44109
+1255447926,Subir,Chhikara,M.D.,Austin,TX,78731
+1255481362,Ramachandra,Hosmane,M.D,Lewes,DE,19958
+1255483277,Jason,Hafron,MD,West Bloomfield,MI,48322
+1255483319,Esber Nabeeh,Samara,MD,Oklahoma City,OK,73112
+1255497665,Shawn,White,MD,Wyomissing,PA,19610
+1255505574,Joseph,Ciccone,M.D.,Needham,MA,02494
+1255527024,Rhunjay,Yu,M.D.,Greenbrae,CA,94904
+1255529608,Jose,Silva Rivera,"M.D., M.P.H.",Apopka,FL,32703
+1255540514,Achal,Modi,MD,Midlothian,TX,76065
+1255561775,Matthew,Fulton,,Cincinnati,OH,45211
+1255591285,Ross,Hogan,MD,Covington,LA,70433
+1255592663,Damon,Hoffmann,D.O.,Washington,PA,15301
+1255592903,Cordell,Davis,D.O.,Grand Forks,ND,58201
+1255637146,Emad,Rizkala,M.D.,Freehold,NJ,07728
+1255659082,Charles,Jackson,M.D.,Fayetteville,AR,72703
+1255662284,Marc,Feder,M.D.,East Brunswick,NJ,08816
+1255674347,Alexander,Small,MD,Bronx,NY,10461
+1255689758,Fatima,Husain,M.D.,Brooklyn,NY,11215
+1255690905,Sophia,Goodridge,M.D.,Roswell,GA,30076
+1255746871,Michael,Kemper,M.D.,Decatur,GA,30033
+1255774113,Jessica,Yih,MD,Orange,CA,92868
+1255775912,Michael,Ahdoot,M.D.,Los Angeles,CA,90048
+1255793923,Rachel,Engelberg,M.D.,Homewood,AL,35209
+1255817557,Karthik,Tanneru,M.D,Florence,SC,29505
+1255827697,Karim,Courtemanche,MD,Bismarck,ND,58501
+1255835526,Antoine,Ghorayeb,DO,Gilbert,AZ,85295
+1255853859,Ricardo,De Oliveira Soares,MD. FEBU,Sycamore,IL,60178
+1255860672,Eric,Riedinger,MD,Columbus,OH,43212
+1255939286,Joseph,Sewell Araya,MD,Burnsville,MN,55337
+1265019368,Khaled,Ajib,MD,Albany,GA,31707
+1265400162,Frank,Costa,M.D.,Monroeville,PA,15146
+1265400592,Lawrence,Gervasi,MD,Middleburg Heights,OH,44130
+1265401822,Stephen,St Clair,M.D.,Pittsfield,MA,01201
+1265402879,Charles,Gill,MD,Washington,MO,63090
+1265405914,Eric,Espinosa,,Springfield,OH,45503
+1265419006,Amy,Krambeck,M.D.,Chicago,IL,60611
+1265423453,Neal,Shore,DR,Myrtle Beach,SC,29572
+1265424972,Daniel,Boyle,,Chesapeake,VA,23321
+1265426886,Abbey,Gaske,MD,Los Angeles,CA,90017
+1265427975,Kenneth,Hsiao,MD,Walnut Creek,CA,94598
+1265434971,Raymond,Chaloka,M.D.,Bayamon,PR,00961
+1265441349,Barry,Zisholtz,M.D.,Riverdale,GA,30274
+1265461826,Bruce,Kava,MD,Miami,FL,33136
+1265467161,Timoteo,Torres - Santiago,M.D.,Caguas,PR,00726
+1265467286,Henry,Goodwin,MD,Evans,GA,30809
+1265467393,Michael,Murphy,M.D.,Neenah,WI,54956
+1265469340,Mark,Forrest,MD,Durango,CO,81301
+1265473631,Bryan,Kansas,MD,Austin,TX,78759
+1265473888,Jason,Evans,M.D.,Flint,MI,48507
+1265479547,Marcella,Nachmann,D.O.,Linwood,NJ,08221
+1265489306,Leif,Olsson,M.D.,Johnston,RI,02919
+1265492144,Robert,Renouard,MD,Oklahoma City,OK,73112
+1265492326,Jeffry,Peters,M.D.,Tifton,GA,31794
+1265494215,Margaret,Vereb,M.D.,Huntington,WV,25702
+1265495204,Ronald,Tutrone,M.D.,Baltimore,MD,21204
+1265498117,Dinesh,Telang,MD,Colorado Springs,CO,80910
+1265503965,Jason,Lai,M.D.,Whittier,CA,90605
+1265528640,Gary,Dunetz,M.D.,Nashua,NH,03060
+1265531198,Sarah,Mcaleer,M.D.,Manchester,NH,03103
+1265533426,Mark,Silvert,MD,San Pablo,CA,94806
+1265533475,Edward,Collins,M.D,San Francisco,CA,94115
+1265536353,Thomas,Desperito,MD,Wilmington,DE,19810
+1265543078,Armen,Kassabian,M.D.,Burbank,CA,91505
+1265548697,Toby,Chai,M.D.,Boston,MA,02118
+1265553374,John,Gore,M.D.,Seattle,WA,98195
+1265577621,Mark,Schacht,MD,Evanston,IL,60202
+1265579254,Trinity,Bivalacqua,MD PHD,Philadelphia,PA,19104
+1265588859,Lauren,Byrne,MD,Chandler,AZ,85224
+1265596969,Jon,Axton,MD,Oklahoma City,OK,73112
+1265603633,Spencer,Kozinn,M.D.,Atlanta,GA,30318
+1265608707,Paholo,Barboglio Romo,"MD, MPH",Ann Arbor,MI,48109
+1265620363,Marc,Mitchell,DO,Silverdale,WA,98383
+1265630230,Ketul,Shah,MD,Westerville,OH,43082
+1265633051,Paul,Walker,MD,Baton Rouge,LA,70836
+1265637839,Tom,Floyd,M.D.,Concord,NC,28025
+1265640486,Jitesh,Patel,M.D.,Snellville,GA,30078
+1265640916,Stephen,Yanoshak,D.O.,Everett,PA,15537
+1265651061,Daniel,Kaplon,,Sarasota,FL,34239
+1265660393,Kristin,Baldea,M.D.,Maywood,IL,60153
+1265666432,Michael,Leapman,M.D.,New Haven,CT,06519
+1265669295,Jennifer,Chamberlain,M.D.,Slidell,LA,70461
+1265669683,Gautam,Jayram,MD,Nashville,TN,37209
+1265671127,John,Lynam,D.O.,Valparaiso,IN,46383
+1265676654,Stephen,Overholser,M.D.,Edina,MN,55435
+1265680375,Matthew,Johnson,MD,Nashua,NH,03062
+1265695035,Daniel,Tare,MD,Bronx,NY,10467
+1265696298,Lauren,Fanning,M.D.,Huntington Beach,CA,92646
+1265724470,Daniel,Faaborg,MD,Billings,MT,59101
+1265774384,Melissa,Nissen,MD,Eau Claire,WI,54703
+1265774863,Bhavik,Shah,M.D.,Stockbridge,GA,30281
+1265775308,Tawfik,Zein,M.D.,Parkersburg,WV,26101
+1265790554,Salim,Cheriyan,M.D.,The Woodlands,TX,77384
+1265791123,Lisa,Bailey,M.D.,Fairhope,AL,36532
+1265791511,Hadley,Narins,MD,Syracuse,NY,13210
+1265798771,Christopher,Slayden,,Albuquerque,NM,87131
+1265799332,Thanmaya,Reddy,M.D.,Atlanta,GA,30322
+1265843312,Jason,Lomboy,M.D.,Marietta,GA,30060
+1265850390,David,Abramowitz,M.D.,Cheektowaga,NY,14225
+1265850465,Saneal,Rajanahally,,Stockbridge,GA,30281
+1265859185,Phillip,Rappold,"MD, PHD",Rochester,NY,14642
+1265877484,Jacob,Young,M.D./M.B.A.,Boca Raton,FL,33433
+1265895957,Preston,Kerr,M.D.,New York,NY,10032
+1265901714,Zach,Dovey,MD,New York,NY,10029
+1265952907,Carrie,Ronstrom,MD,Duluth,MN,55802
+1265956916,Katherine,Rogers,MD,Rome,GA,30165
+1265966717,Maia,Vandyke,MD,Dallas,TX,75390
+1275021636,William,Hughes,MD,Gulfport,MS,39503
+1275074502,Daniel,Mcclelland,,Morgantown,WV,26506
+1275109712,Christopher,Warren,MD,Scottsdale,AZ,85259
+1275126963,Nicolette,Payne,,Scottsdale,AZ,85259
+1275169120,Sarah,Mcgriff,MD,Rochester,MN,55905
+1275503021,Robert,Moldwin,,New Hyde Park,NY,11040
+1275504268,Ira,Kohn,M.D.,Scranton,PA,18508
+1275505000,Robert,Oates,M.D.,Boston,MA,02118
+1275505711,Laurence,Scipio,MD,Baltimore,MD,21201
+1275507253,James,Daitch,M.D.,Scottsdale,AZ,85255
+1275508897,Donald,Mooney,M.D.,Little Rock,AR,72205
+1275508939,Edwin,Diaz,M.D.,North Little Rock,AR,72117
+1275513079,Max,Rizer,D.O.,Ludington,MI,49431
+1275526659,Brad,Bell,M.D.,Littleton,CO,80122
+1275526899,James,Dugan,MD,Indianapolis,IN,46260
+1275526998,Loren,Ost,M.D.,Sulphur Springs,TX,75482
+1275539074,Joseph,Harris,M.D.,Beaumont,TX,77702
+1275539371,Ricardo,Del Villar,MD,Mcallen,TX,78503
+1275539579,Michael,Graves,MD,Plainview,TX,79072
+1275542144,William,Elfarr,M.D.,Athens,TX,75751
+1275544363,Walid,Mufarrij,MD,Greenbelt,MD,20770
+1275547309,Steven,Bernstein,MD,Edina,MN,55435
+1275553836,Gregory,Bernstein,MD,Alexandria,VA,22311
+1275554933,Robert,Gluck,MD,New York,NY,10016
+1275557043,Shandra,Wilson,MD,Greenwood Village,CO,80111
+1275559189,George,Young,MD,New York,NY,10128
+1275561748,David,Cahn,MD,Golden,CO,80401
+1275564205,Paul,Ceplenski,M.D.,New Britain,CT,06052
+1275569378,Alexander,Schwartz,M.D.,West Nyack,NY,10994
+1275579856,Mark,Delworth,MD,Blue Ash,OH,45242
+1275582934,Michael,Lobis,MD,Wilmington,DE,19810
+1275585598,Phillip,Chapman,MD,Seattle,WA,98104
+1275592024,John,Jones,M.D.,Casper,WY,82601
+1275596538,Michael,Waters,D.O.,Fort Worth,TX,76109
+1275598377,Charles,Seabury,M.D.,Richmond,VA,23235
+1275598583,Robert,Schnall,M.D.,Wynnewood,PA,19096
+1275598633,Natarajan,Rajan,MD,Roanoke Rapids,NC,27870
+1275599219,Matthew,Meadows,MD,Chicago,IL,60625
+1275613408,William,Bingham,M.D.,Memphis,TN,38119
+1275621245,Norman,Coleburn,M.D.,New York,NY,10025
+1275621856,Charles,Peirce,M.D.,Bryan,TX,77802
+1275627150,Jason,Krumholtz,MD,Poughkeepsie,NY,12603
+1275630907,David,Sahaj,M.D.,Chattanooga,TN,37404
+1275631012,Jason,Wilson,MD,Weston,WI,54476
+1275633364,Richard,Conner,MD,Murrieta,CA,92562
+1275634107,Jeffrey,Thibodeaux,MD,Lafayette,LA,70508
+1275638488,Lewis,Kriteman,MD,Roswell,GA,30076
+1275647562,Daniel,Hibbert,MD,Tooele,UT,84074
+1275654246,Charles,Pritchard,MD,Tulsa,OK,74146
+1275654782,Eugene,Park,M.D.,Sioux Falls,SD,57108
+1275657371,James,Robertson,MD,Bozeman,MT,59715
+1275677874,Mara,Holton,MD,Annapolis,MD,21401
+1275677965,Emmanuel,Graham,MD,Christiansted,VI,00820
+1275678740,John,Leyland,MD,Oak Park,IL,60302
+1275704306,John,Roseman,MD,Richmond,VA,23298
+1275704652,Cara,Cimmino,M.D.,Atlanta,GA,30322
+1275707846,Jason,Kim,MD,Stony Brook,NY,11794
+1275708125,Nicholas,Fitzsimons,MD,Charlotte,NC,28210
+1275709164,Valerie,Burkhard,M.D.,Orchard Park,NY,14127
+1275709768,Julia,Garcia,MD,Michigan City,IN,46360
+1275709982,Jason,Szobota,MD,Richmond,VA,23235
+1275720344,David,Sharp,M.D.,Fairbanks,AK,99701
+1275720351,Geoffrey,Sonn,MD,Palo Alto,CA,94304
+1275733867,Peter,Chang,M.D.,Boston,MA,02215
+1275737066,Alienor,Gilchrist,MD,Stockbridge,GA,30281
+1275737223,Brian,Geary,M.D.,Macon,GA,31210
+1275739856,Jonathan,Heinlen,MD,Oklahoma City,OK,73104
+1275745267,Christopher,Whelan,MD,Rockford,IL,61107
+1275747727,Benjamin,Girdler,M.D.,Fort Collins,CO,80528
+1275756314,Udayshankar,Poonamallee,M.D.,Carmichael,CA,95608
+1275767501,Mohabe,Vinson,MD,Covington,GA,30014
+1275769093,Joan,Delto,M.D.,Omaha,NE,68124
+1275775025,Nathaniel,Readal,MD,Butte,MT,59701
+1275793275,Elizabeth,Peacock,M.D.,New Orleans,LA,70115
+1275795445,Daniel,Thorner,D.O.,Yakima,WA,98902
+1275797144,Justin,Friedlander,M.D.,Philadelphia,PA,19111
+1275822322,Victoria,Scott,M.D.,Los Angeles,CA,90095
+1275823544,Roger,Robertson,D.O.,Huntington,WV,25703
+1275823684,Amy,Li,MD,Silverdale,WA,98383
+1275827248,Justin,Ellett,"MD, PHD",N Charleston,SC,29406
+1275849143,Marc,Bjurlin,DO,Kinston,NC,28501
+1275854457,Samuel,Nickles,M.D.,North Charleston,SC,29406
+1275865958,Jordan,Siegel,MD,La Jolla,CA,92037
+1275890055,Samuel,Washington,"MD, MAS",San Francisco,CA,94143
+1275890386,Tyler,Poston,M.D.,Homewood,AL,35209
+1275893398,Gregory,Mitchell,M.D.,Atlanta,GA,30309
+1275920977,Michael,Zhang,M.D.,Stockton,CA,95204
+1275928541,Daniel,Rabinowitz,MD,Paterson,NJ,07503
+1275949992,Kushan,Radadia,MD,Roswell,GA,30076
+1275955981,Ariel,Kaufman,M.D.,Hialeah,FL,33016
+1275959199,Kristin,Ebert,MD,Madison,WI,53792
+1275971459,Zachary,Tano,M.D.,Staten Island,NY,10314
+1275973737,Frank,Lin,M.D.,Madison,WI,53792
+1275976029,Eric,Springer,M.D.,Columbus,OH,43203
+1275983777,Millard,Henry,M.D.,Oklahoma City,OK,73109
+1275984056,Matthew,Rohloff,D.O.,Wyoming,MI,49519
+1275995391,Timothy,Stark,MD,Lexington,KY,40536
+1285015057,Caitlin,Shepherd,MD,Oklahoma City,OK,73103
+1285053421,Jose,Pulido,MD,Paoli,PA,19301
+1285070425,David,Kurz,MD,Williamsport,PA,17701
+1285088492,Alex,Kasman,,Santa Cruz,CA,95065
+1285096636,Matthew,Heavner,MD,Annapolis,MD,21401
+1285126805,Alexander,Birk,MD,Virginia Beach,VA,23462
+1285156968,Mohammed,Al Areef,MD,Erie,PA,16502
+1285161455,Randall,Lee,MD,Los Angeles,CA,90033
+1285165589,Erica,Ditkoff,M.D.,Boston,MA,02114
+1285166850,Mary,Hall,MD,Charlotte,NC,28204
+1285173690,Laith,Alzweri,MBBS,Galveston,TX,77555
+1285266056,Adri,Durant,,Scottsdale,AZ,85259
+1285602151,Andrew,Grudzinski,MD,Las Vegas,NV,89128
+1285605097,Ronald,Barrett,M.D.,Klamath Falls,OR,97601
+1285608265,Bruce,Kletscher,M.D.,Phoenix,AZ,85014
+1285611236,Frank,Greskovich,M.D.,Pensacola,FL,32503
+1285615088,Elizabeth,Perez,M.D,Morrisville,VT,05661
+1285615559,Khoi,Tang,M.D.,Garden Grove,CA,92844
+1285615583,Pradeep,Nagaraju,MD,Royal Oak,MI,48073
+1285627224,Frank,Kim,M.D.,Corona,CA,92882
+1285629881,Harrison,Abrahams,MD,Arlington,TX,76017
+1285632760,Marc,Rose,MD,Vero Beach,FL,32960
+1285632778,Logan,Hoxie,MD,Cedar Rapids,IA,52403
+1285632919,Patrick,Lassen,M.D.,Longview,WA,98632
+1285634139,Patrick,Foley,M.D.,Stuart,FL,34994
+1285638536,Robert,Kolosseus,MD,Las Cruces,NM,88011
+1285645564,Rudolph,Acosta,MD,Tampa,FL,33617
+1285646471,Matthew,Hoggatt,MD,Webster,TX,77598
+1285650051,Paul,Coughlin,MD,High Point,NC,27262
+1285650580,Adam,Kibel,MD,Boston,MA,02115
+1285657551,Don,Henslee,MD,Fairbury,NE,68352
+1285661488,David,Schulsinger,M.D.,East Setauket,NY,11733
+1285665554,Robert,Humble,MD,Monroe,LA,71201
+1285671479,Michael,Malone,M.D.,Dedham,MA,02026
+1285672493,Gregor,Blix,M.D.,Kalamazoo,MI,49007
+1285676189,Steven,Luke,MD,Phoenix,AZ,85027
+1285679670,Attila,Barabas,M.D.,Gillette,WY,82716
+1285680306,Randy,Everett,M.D.,Fort Collins,CO,80528
+1285680538,Timothy,Soper,MD,Fort Collins,CO,80528
+1285683797,Adam,Klausner,M.D.,Richmond,VA,23298
+1285692608,Thomas,Scully,MD,Saint Louis,MO,63141
+1285698431,Jon,Heeb,M.D.,Lawrence,KS,66044
+1285699447,Jack,Pines,MD,Hallandale Beach,FL,33009
+1285711325,Arif,Agha,MD,Oak Brook,IL,60523
+1285714428,David K,Ornstein,MD,Naples,FL,34102
+1285739235,Michael,Solliday,MD,Poughkeepsie,NY,12603
+1285742353,Badar,Mian,M.D.,Albany,NY,12208
+1285759696,Leigh,Bergmann,M.D.,Bryn Mawr,PA,19010
+1285783282,James,Allen,MD,Clairton,PA,15025
+1285789149,Ervin,Ruzics,MD,Orange,CA,92868
+1285797605,Jason,Engel,"M.D.,",Washington,DC,20036
+1285803528,Erica,Lambert,M.D.,Bloomfield,CT,06002
+1285803627,William,Zimmerman,DO,East Lansing,MI,48823
+1285804526,Robert,Abouassaly,M.D.,Cleveland,OH,44106
+1285807560,Ravi,Kacker,MD,Natick,MA,01760
+1285816439,Necole,Streeper,MD,Milwaukee,WI,53226
+1285832600,Sanjay,Kasturi,MD,Linwood,NJ,08221
+1285834234,Joshua,Sleeper,MD,Covington,LA,70433
+1285842310,Hari Siva Gurunadha,Tunuguntla,M.D.,New Brunswick,NJ,08901
+1285854927,Faysal,Yafi,MD,Orange,CA,92868
+1285860742,Joanne,Dale,M.D.,Nashville,TN,37232
+1285862433,Andrew,Tompkins,M.D.,Attleboro,MA,02703
+1285867473,Wilson,Molina,MD,Kansas City,KS,66160
+1285877522,Teresa,Danforth,MD,Cheektowaga,NY,14225
+1285894030,Alosh,Madala,MD,Kansas City,MO,64132
+1285896605,Yagil,Barazani,M.D.,Santa Rosa,CA,95403
+1285909051,Garen,Abedi,,Downey,CA,90241
+1285921882,Scott,Hughes,D.O.,Fullerton,CA,92835
+1285922187,Michael,Levin,M.D.,Royal Oak,MI,48073
+1285923615,Nannan,Thirumavalavan,MD,Lyndhurst,OH,44124
+1285928754,Richard,Slater,D.O.,Great Falls,MT,59405
+1285929927,Erik,Hokenstad,MD,Rochester,MN,55905
+1285945253,Benjamin,Waldorf,MD,Chattanooga,TN,37403
+1285947671,Michael,Bickell,D.O.,Langhorne,PA,19047
+1285950329,Amy,Dobberfuhl,MD,Stanford,CA,94305
+1285955591,Xishi,Tan,M.D.,Houston,TX,77070
+1285991851,Jonathan,Nelson,M.D.,Albuquerque,NM,87131
+1285992842,William,Atallah,"M.D., M.P.H.",Brooklyn,NY,11203
+1285996140,Andrew,Franklin,M.D.,Asheville,NC,28801
+1295008324,Justin,Matulay,MD,Charlotte,NC,28204
+1295028884,Shreyas,Joshi,M.D.,Atlanta,GA,30322
+1295051415,Smita,De,"PH.D., M.D.",Nashville,TN,37232
+1295051977,Tudor,Borza,M.D.,Ann Arbor,MI,48109
+1295058394,Michael,Williams,M.D.,Virginia Beach,VA,23462
+1295059228,Jessie,Gills,MD,Metairie,LA,70002
+1295066397,Rose,Khavari,M.D.,Houston,TX,77030
+1295078418,Priyanka,Kumar,,East Chicago,IN,46312
+1295078988,Waleed,Eisa,M.D.,Winchester,VA,22601
+1295107456,Shilo,Rosenberg,M.D.,Los Angeles,CA,90033
+1295115038,Chandra,Flack,MD,Muncie,IN,47304
+1295116218,Gregory,Mcmahon,D.O.,Wynnewood,PA,19096
+1295122315,Mark,Pickhardt,M.D.,Springdale,AR,72762
+1295122349,Benjamin,Dropkin,,Lexington,KY,40536
+1295129831,Scott,Lundy,"MD, PHD",Cleveland,OH,44195
+1295140747,Alan,Carnes,M.D.,Watkinsville,GA,30677
+1295145159,Brian,Orr,MD,Greenwood,IN,46143
+1295147791,Christopher,Riedinger,M.D.,Grand Rapids,MI,49506
+1295148609,Christopher,Robison,DO,Chambersburg,PA,17201
+1295154854,Nathan,Locke,M.D.,Fort Wayne,IN,46845
+1295171072,Joseph,Mahon,M.D.,Edina,MN,55435
+1295172138,Sarah,Krzastek,MD,Richmond,VA,23219
+1295174928,John,Michalak,M.D.,Pinehurst,NC,28374
+1295174969,Joseph,Rodriguez,M.D.,Oklahoma City,OK,73104
+1295179687,Eric,Schommer,M.D.,Fargo,ND,58102
+1295194850,Alex,Borchert,MD,Tacoma,WA,98405
+1295199396,Alex,Uhr,,Philadelphia,PA,19107
+1295259406,Bruno,Lopes Cancado Machado,MD,Little Rock,AR,72205
+1295267557,Kevin,Carnes,M.D.,Poughkeepsie,NY,12603
+1295268878,Jay,Fuletra,,Media,PA,19063
+1295700128,David,Freidberg,MD,Round Rock,TX,78681
+1295700235,Greg,Barme,MD,Berkeley,CA,94705
+1295700284,Jose,Guzman-Virella,MD,Bayamon,PR,00961
+1295701860,Frank,Greco,,Pittsburgh,PA,15215
+1295703890,Stephen,Zoretic,,Emerson,NJ,07630
+1295704427,John,Reisman,MD,Lafayette,IN,47904
+1295709871,Christopher,Steidle,MD,Corbin,KY,40701
+1295712925,Robert,Hartnett,M.D.,Hyannis,MA,02601
+1295718559,Bradley,Rosenberg,MD,Royal Oak,MI,48073
+1295721355,Christopher,Harris,M.D.,Knoxville,TN,37923
+1295724060,Scott,Sircus,M.D.,Saint Clair Shores,MI,48081
+1295724136,John,Spirnak,MD,Middleburg Heights,OH,44130
+1295730695,Justine,Schober,,Erie,PA,16507
+1295736163,Barry,Bodie,MD,Columbus,NC,28722
+1295736940,Anthony,Khim,M.D.,Columbia,TN,38401
+1295741726,Joseph,Neighbors,M.D.,Raleigh,NC,27612
+1295750222,Jeremiah,Murphy,MD,Tualatin,OR,97062
+1295750289,Michael,Morris,MD,Caldwell,ID,83605
+1295752723,Gerald,Andriole,MD,Saint Louis,MO,63110
+1295757607,Oren,Miller,MD,Tulsa,OK,74146
+1295763027,Steven,Johnson,MD,Marble Falls,TX,78654
+1295765402,Thomas,Cerasaro,MD,Murrells Inlet,SC,29576
+1295767465,Patrick,Williams,MD,New Braunfels,TX,78130
+1295767804,Joseph,Ditrolio,M.D.,Roseland,NJ,07068
+1295773877,A.,Samaha,,Abington,PA,19001
+1295775930,Rashmi,Patel,M.D.,Gahanna,OH,43230
+1295776987,Thomas,Kachel,M.D.,Camp Hill,PA,17011
+1295777464,Justin,Albani,MD,Liberty,MO,64068
+1295786093,Rolando,Rivera,M.D.,Naples,FL,34110
+1295786242,Howard,Epstein,MD,St Augustine,FL,32086
+1295787174,Rodney,Smith,M.D.,Gastonia,NC,28054
+1295789030,Robert,Oconnor,MD,Milwaukee,WI,53226
+1295794014,Luis,Ambert,MD,Guaynabo,PR,00965
+1295795698,Paul,Kenworthy,MD,Shenandoah,TX,77384
+1295798619,Richard,Landrigan,MD,Brandon,FL,33511
+1295805190,William,Senf,MD,Corinth,MS,38834
+1295807436,Richard,Holevas,MD,Newport Beach,CA,92663
+1295822104,Eric,Leichter,MD,Aberdeen,SD,57401
+1295839827,Allen,Futral,M.D.,Conyers,GA,30012
+1295840510,Alan,Alabaster,M.D.,Memphis,TN,38119
+1295849982,John,Hannah,MD,South Charleston,WV,25309
+1295859288,Troy,Edwards,MD PHD,Orlando,FL,32819
+1295881803,Jesse,Mills,MD,Santa Monica,CA,90404
+1295883312,Matthew,Whang,MD,West Orange,NJ,07052
+1295896751,Stephen,Holst,MD,Sheridan,WY,82801
+1295901460,Nathan,Bockholt,M.D.,Sioux Falls,SD,57108
+1295901999,Marnie,Robinson,M.D.,Baltimore,MD,21208
+1295904084,John,Sfakianos,M.D.,New York,NY,10065
+1295908507,Kevin,Walls,M.D.,Sheffield,AL,35660
+1295909455,Ina,Kim,MD,Roseville,CA,95661
+1295928539,Ashok,Hemal,,Winston Salem,NC,27103
+1295931996,Sunil,Sudarshan,,Birmingham,AL,35233
+1295955086,Michael,White,D.O.,San Antonio,TX,78205
+1295957280,Robert,Wayment,MD,Ogden,UT,84403
+1295959898,Brent,Yanke,M.D.,Brooklyn,NY,11201
+1295963783,Bradley,Moore,M.D.,St. Joseph,MO,64506
+1295969111,Mark,Wille,M.D.,Chicago,IL,60612
+1295977783,Adam,Shrewsberry,M.D.,Jefferson City,TN,37760
+1295979474,Lewis,Johnson,D.O.,Lafayette,IN,47905
+1295980647,Robert,Chan,M.D.,Greenbrae,CA,94904
+1295990414,Stephen,Miller,D.O.,Kokomo,IN,46902
+1295991867,Tony,Leung,M.D.,Somerville,MA,02143
+1295996122,Scott,Matz,MD,Vancouver,WA,98686
+1306000690,David,Sisul,M.D.,Durango,CO,81301
+1306006457,Jeffrey,La Rochelle,M.D.,Hermiston,OR,97838
+1306008164,Bertram,Yuh,"MD, MSHCPM, MISM",Pasadena,CA,91105
+1306017488,Kevin,Rice,M.D.,Indianapolis,IN,46202
+1306017785,Jessica,Delong,M.D.,Virginia Beach,VA,23462
+1306021076,Jordan,Angell,MD,Westminster,MD,21157
+1306040589,Paul,Milhoua,M.D.,Dartmouth,MA,02747
+1306074646,Arash,Rafiei,MD,Deland,FL,32720
+1306076138,Andrew,Kingman,MD,San Angelo,TX,76903
+1306078050,Adam,Kaplan,M.D.,Santa Rosa,CA,95404
+1306086293,Karin,Brown,M.D.,Billings,MT,59101
+1306086798,John,Mai,M.D.,Litchfield Park,AZ,85340
+1306092184,Lambda,Msezane,M.D.,Decatur,GA,30033
+1306119920,Marissa,Theofanides,MD,West Nyack,NY,10994
+1306135488,Liam,Macleod,MD,Medford,OR,97504
+1306138136,Abdo,Kabarriti,MD,Philadelphia,PA,19104
+1306138912,James,Angel,M.D.,Lexington,KY,40505
+1306139050,Brandon,Trojan,M.D.,Casper,WY,82601
+1306157185,Shyam,Sukumar,MD,Houston,TX,77030
+1306160213,Yanina,Barbalat,MD,Beverly,MA,01915
+1306167440,Marc,Rogers,M.D.,Chapel Hill,NC,27514
+1306167796,Jacob,Cohen,M.D.,Bronx,NY,10457
+1306173661,Ehab,Eltahawy,M.D.,Sleepy Hollow,NY,10591
+1306208046,Mathew,Fakhoury,DO,Yonkers,NY,10701
+1306208533,David,Kozminski,MD,Holland,MI,49423
+1306223300,Cara,O'brien,MD,Media,PA,19063
+1306229851,Daniel,Belew,M.D.,Roswell,GA,30076
+1306231691,Marissa,Kent,MD,Boston,MA,02215
+1306285010,Paulas,Vyas,M.D.,Safety Harbor,FL,34695
+1306290184,Sari,Khaleel,M.D.,Providence,RI,02904
+1306295845,Adam,Cole,MD,New Hyde Park,NY,11042
+1306343223,Kelly,Caldwell,MD,Houston,TX,77024
+1306343892,Zain,Hyder,,Fort Worth,TX,76244
+1306803754,Anthony,Kaczmarek,M.D.,Rolla,MO,65401
+1306806088,Ronald,Henry,MD,Shenandoah,TX,77384
+1306807581,Patrick,Lowry,M.D.,Temple,TX,76508
+1306818083,Hal,Bashein,D.O.,West Palm Beach,FL,33407
+1306823463,Robert,Dickinson,MD,Kyle,TX,78640
+1306824495,Peter,Kwong,M.D.,Virginia Beach,VA,23462
+1306824644,George,Chow,M.D.,Rochester,MN,55905
+1306826268,Kurt,Hansberry,MD,Alexandria,MN,56308
+1306827522,Albert,Katz,M.D.,Rockville Centre,NY,11570
+1306827753,Peter,Sinaiko,MD,Bristol,PA,19007
+1306831920,Peter,Daloni,,Hermitage,PA,16148
+1306841473,Mark,Licht,M.D.,Titusville,FL,32796
+1306842240,Reginald,Allen,MD,Winter Haven,FL,33880
+1306850904,Jason,Sprunger,M.D.,Indianapolis,IN,46219
+1306855028,Raul,Webster,MD,Mesa,AZ,85204
+1306855390,Juan,Litvak,MD,Bethesda,MD,20817
+1306860804,Lawrence,Bender,DO,Richlands,VA,24641
+1306862206,Dawn,Bodell,DO,Springfield,OR,97477
+1306862602,Jeanne,Llenado,D.O.,Philadelphia,PA,19112
+1306865191,Perry,Weiner,D.O.,Philadelphia,PA,19112
+1306868963,Hari,Kothegal,M.D.,Cincinnati,OH,45245
+1306872254,Howard,Adler,M.D.,East Setauket,NY,11733
+1306877667,Mark,Thomas,M.D.,Lima,OH,45801
+1306878764,Roy,Mason,D.O.,Vero Beach,FL,32960
+1306879366,Jack,Walter,MD,Tacoma,WA,98431
+1306885249,David,Caropreso,MD,Yuma,AZ,85364
+1306887369,David,Hastings,M.D.,Baton Rouge,LA,70810
+1306888334,Carole,Gordon,M.D.,Oxford,FL,34484
+1306894506,Jennifer,Simmons,M.D.,Bloomsburg,PA,17815
+1306896279,David,Ellis,M.D.,Rosemont,PA,19010
+1306897137,Margarita,Johnston,MD,Dallas,TX,75230
+1306899208,Yu,Hwong,M.D.,San Jose,CA,95116
+1306899893,Stephen,Dobkin,MD,Orlando,FL,32825
+1306917331,Michael,Poon,MD,Ventura,CA,93003
+1306941067,Richard,Frink,MD,Middletown,CT,06457
+1306943477,John,Lyne,MD,Wexford,PA,15090
+1306943576,Xenofon,Papadopoulos,M.D.,Mitchell,SD,57301
+1306950043,Robert,Naraghi,M.D.,Los Angeles,CA,90057
+1306954946,Charles,Libby,MD,Bronx,NY,10453
+1306955950,Bradley,Secrest,MD,Hattiesburg,MS,39401
+1306956065,David,Esrig,,Springfield,OR,97477
+1306959861,Patrick,Zielie,M.D.,Germantown,TN,38138
+1306986930,Brian,Shaffer,MD,Portland,OR,97225
+1316002140,Arieh,Shalhav,,Chicago,IL,60637
+1316030612,Christopher,Schrepferman,MD,Jeffersonville,IN,47130

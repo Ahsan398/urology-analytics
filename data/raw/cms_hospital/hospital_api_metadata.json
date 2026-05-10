@@ -1,0 +1,12 @@
+{
+    "project": "Johns Hopkins Urology Analytics",
+    "dataset_guid": "xubh-q36u",
+    "records_downloaded": 5426,
+    "download_timestamp": "2026-04-18T23:56:25.755875",
+    "verified_columns": [
+        "facility_id",
+        "hospital_overall_rating",
+        "hospital_type"
+    ],
+    "status": "SUCCESS"
+}
