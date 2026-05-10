@@ -4,6 +4,48 @@ import csv
 import pandas as pd
 import numpy as np
 from datetime import datetime
+from dotenv import load_dotenv
+# pyrefly: ignore [missing-import]
+from openai import OpenAI
+
+# Load environment variables
+load_dotenv()
+
+# Initialize OpenAI Client (will be None if key is missing)
+api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=api_key) if api_key and api_key != "your_openai_api_key_here" else None
+
+def get_ai_recommendation(alert_type, severity, entity, trigger, impact, default_action):
+    """Calls OpenAI API to generate a specific, diagnostic recommendation."""
+    if not client:
+        return default_action # Fallback if no API key
+    
+    prompt = f"""
+    You are a Healthcare Operations Expert. We detected the following operational alert in a Urology practice:
+    - Alert Type: {alert_type}
+    - Severity: {severity}
+    - Entity Involved: {entity}
+    - Trigger Condition: {trigger}
+    - Expected Impact: {impact}
+    
+    Provide a concise, 1-2 sentence operational recommendation and diagnostic hypothesis on how to resolve this issue and what might be the root cause. Do not use conversational filler, just provide the professional recommendation.
+    """
+    
+    try:
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a specialized healthcare data analyst and operations expert."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=100,
+            temperature=0.3
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"  [AI Warning] Could not generate AI recommendation: {e}")
+        return default_action
+
 
 # ============================================================
 # SCRIPT 11 — Analysis: Predictive Alert System
@@ -65,7 +107,12 @@ def generate_alerts():
                 'Entity': row['Physician_Name'],
                 'Trigger': 'RVU Run-Rate 15%+ Below Baseline',
                 'Impact': f"Shortfall of {shortfall:,.1f} RVUs (Est. ${rev_impact:,.2f} Revenue Risk)",
-                'Recommended_Action': 'Initiate clinical operations review; evaluate OR block allocation.'
+                'Recommended_Action': get_ai_recommendation(
+                    'Productivity Warning', 'RED FLAG', row['Physician_Name'], 
+                    'RVU Run-Rate 15%+ Below Baseline', 
+                    f"Shortfall of {shortfall:,.1f} RVUs (Est. ${rev_impact:,.2f} Revenue Risk)",
+                    'Initiate clinical operations review; evaluate OR block allocation.'
+                )
             })
             
         print(f"  Processed Alert 1: Found {len(underperforming)} productivity warnings.")
@@ -92,7 +139,13 @@ def generate_alerts():
                 'Entity': f"{row['CPT_Code']} - {str(row['Procedure_Description'])[:25]}...",
                 'Trigger': '> 2 Standard Deviations from National Mean Frequency',
                 'Impact': f"Compliance audit risk on {row['Provider_Name']}",
-                'Recommended_Action': 'Trigger automated coding review sequence prior to claim submission.'
+                'Recommended_Action': get_ai_recommendation(
+                    'Billing Anomaly Warning', 'YELLOW FLAG', 
+                    f"{row['CPT_Code']} - {str(row['Procedure_Description'])[:25]}...",
+                    '> 2 Standard Deviations from National Mean Frequency',
+                    f"Compliance audit risk on {row['Provider_Name']}",
+                    'Trigger automated coding review sequence prior to claim submission.'
+                )
             })
             
         print(f"  Processed Alert 2: Filtered top {len(anomalies)} severe compliance billing anomalies.")
@@ -122,7 +175,13 @@ def generate_alerts():
                 'Entity': f"Procedure Clinic: {str(row['Procedure_Name'])[:25]}",
                 'Trigger': 'Volume-to-Provider Ratio exceeded 80th percentile threshold',
                 'Impact': f"System gridlock projecting in 60-90 days due to wait times.",
-                'Recommended_Action': f"Open {docs_needed} additional provider schedules or OR blocks immediately."
+                'Recommended_Action': get_ai_recommendation(
+                    'Capacity Crisis Warning', 'RED FLAG', 
+                    f"Procedure Clinic: {str(row['Procedure_Name'])[:25]}",
+                    'Volume-to-Provider Ratio exceeded 80th percentile threshold',
+                    'System gridlock projecting in 60-90 days due to wait times.',
+                    f"Open {docs_needed} additional provider schedules or OR blocks immediately."
+                )
             })
             
         print(f"  Processed Alert 3: Generated {len(crisis_procs)} predictive capacity alerts.")
