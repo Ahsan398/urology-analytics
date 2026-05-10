@@ -1,0 +1,5 @@
+Scenario_ID,Parameter_Change,Forecasted_Physician_Count,Forecasted_Total_Capacity,Forecasted_Annual_Volume,Forecasted_Total_Revenue,Capacity_Impact_Delta,Revenue_Impact_Delta
+S0_Base,Status Quo,52,269100.0,258021.0,10317772.330001008,0.0,0.0
+S1_Hire_Staff,+2 Physicians,54,279450.0,267944.8846153846,10714609.727308739,10350.0,396837.3973077312
+S2_Expand_OR,+10 OR Slots/Week,52,269790.0,258711.0,10869772.330001008,690.0,552000.0
+S3_Medicare_Cut,-5% Medicare Rate Cut,52,269100.0,258021.0,9801883.713500956,0.0,-515888.6165000517
