@@ -3,7 +3,7 @@ import socketserver
 import os
 import webbrowser
 
-PORT = 8080
+PORT = 8081
 DIRECTORY = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 class Handler(http.server.SimpleHTTPRequestHandler):
@@ -16,7 +16,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 
 def run():
     print("=" * 60)
-    print(" 🚀 JOHNS HOPKINS ANALYTICS WEB DASHBOARD LAUNCHING")
+    print("   JOHNS HOPKINS ANALYTICS WEB DASHBOARD LAUNCHING")
     print("=" * 60)
     print(f" Server running locally at:  http://localhost:{PORT}/dashboard/")
     print(" Press Ctrl+C to stop the dashboard server.")
